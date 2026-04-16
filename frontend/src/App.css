@@ -1,0 +1,91 @@
+/* KnowYourRights - Global Styles */
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* XP Glow Animation */
+@keyframes xp-glow {
+  0%, 100% {
+    box-shadow: 0 0 5px #fbbf24, 0 0 10px #fbbf24, 0 0 15px #fbbf24;
+  }
+  50% {
+    box-shadow: 0 0 20px #fbbf24, 0 0 30px #fbbf24, 0 0 40px #fbbf24;
+  }
+}
+
+/* Flame Animation */
+@keyframes flame {
+  0%, 100% {
+    transform: scale(1) rotate(-2deg);
+  }
+  25% {
+    transform: scale(1.1) rotate(2deg);
+  }
+  50% {
+    transform: scale(1.05) rotate(-1deg);
+  }
+  75% {
+    transform: scale(1.15) rotate(1deg);
+  }
+}
+
+/* Pulse Gold Animation */
+@keyframes pulse-gold {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.7;
+  }
+}
+
+/* Selection prevention for game elements */
+.no-select {
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Focus styles */
+button:focus-visible,
+a:focus-visible {
+  outline: 2px solid #3b82f6;
+  outline-offset: 2px;
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
