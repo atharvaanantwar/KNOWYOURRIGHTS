@@ -1,32 +1,81 @@
+"""
+Utility functions for parsing and cleaning text from PDF chunks.
+Used during the Qdrant loading process to clean up raw model output.
+"""
+
 import re
+from typing import Optional
 
-def parse_mcq(text: str):
 
-    question_match = re.search(r"Question:\s*(.*)", text, re.DOTALL)
+def clean_text(text: str) -> str:
+    """
+    Remove extra whitespace, newlines, and special characters
+    from raw PDF-extracted text.
+    """
+    if not text:
+        return ""
+    text = re.sub(r'\s+', ' ', text)   # collapse multiple spaces/newlines
+    text = text.strip()
+    return text
 
-    option_a = re.search(r"A\)\s*(.*)", text)
-    option_b = re.search(r"B\)\s*(.*)", text)
-    option_c = re.search(r"C\)\s*(.*)", text)
-    option_d = re.search(r"D\)\s*(.*)", text)
 
-    answer_match = re.search(r"Correct Answer:\s*([A-D])", text)
+def validate_question_payload(payload: dict) -> bool:
+    """
+    Check that a Qdrant payload has all required fields before inserting into DB.
+    Returns True if valid, False if any required field is missing or empty.
 
-    if not all([question_match, option_a, option_b, option_c, option_d, answer_match]):
-        raise ValueError("Invalid MCQ format")
+    Call this inside load_questions.py before each insert.
+    """
+    required_fields = ["question_text", "correct_answer", "topic", "difficulty", "question_type"]
 
-    question = question_match.group(1).split("A)")[0].strip()
+    for field in required_fields:
+        if not payload.get(field):
+            print(f"  Skipping question — missing field: '{field}'")
+            return False
 
-    options = [
-        option_a.group(1).strip(),
-        option_b.group(1).strip(),
-        option_c.group(1).strip(),
-        option_d.group(1).strip()
-    ]
+    valid_types = ["mcq", "tf"]
+    if payload["question_type"] not in valid_types:
+        print(f"  Skipping question — invalid question_type: '{payload['question_type']}'")
+        return False
 
-    answer = answer_match.group(1)
+    valid_difficulties = ["easy", "medium", "hard"]
+    if payload["difficulty"] not in valid_difficulties:
+        print(f"  Skipping question — invalid difficulty: '{payload['difficulty']}'")
+        return False
 
-    return {
-        "question": question,
-        "options": options,
-        "answer": answer
-    }
+    # MCQ must have options
+    if payload["question_type"] == "mcq":
+        options = payload.get("options")
+        if not options or len(options) < 2:
+            print(f"  Skipping MCQ question — missing or insufficient options")
+            return False
+
+    return True
+
+
+def normalize_difficulty(raw: str) -> Optional[str]:
+    """
+    Normalize difficulty strings from the model to our expected values.
+    Handles variations like 'Easy', 'EASY', 'easy level' etc.
+    """
+    raw = raw.lower().strip()
+    if "easy" in raw:
+        return "easy"
+    if "medium" in raw or "moderate" in raw:
+        return "medium"
+    if "hard" in raw or "difficult" in raw:
+        return "hard"
+    return None
+
+
+def normalize_question_type(raw: str) -> Optional[str]:
+    """
+    Normalize question type strings from the model.
+    Handles variations like 'MCQ', 'multiple choice', 'true/false', 'T/F' etc.
+    """
+    raw = raw.lower().strip()
+    if "mcq" in raw or "multiple" in raw or "choice" in raw:
+        return "mcq"
+    if "true" in raw or "false" in raw or "tf" in raw or "t/f" in raw:
+        return "tf"
+    return None

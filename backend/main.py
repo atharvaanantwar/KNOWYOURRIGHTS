@@ -1,64 +1,55 @@
-from fastapi import FastAPI, Depends, Query
+from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from sqlalchemy.orm import Session
-from typing import List, Optional
-from backend.config import DATABASE_URL
 
-from backend.models import get_db, Question as DBQuestion
-from backend.schema.mcq import Question
-from backend.routes.users import router as user_router
+from db import Base, engine
+from routes import questions  # Person 2 routes
+from routes import progress
+from routes import auth
+from routes import user
 
-app = FastAPI(title="Legal Quiz API")
 
-# CORS middleware (allow frontend)
+
+# =========================
+# CREATE APP
+# =========================
+app = FastAPI(
+    title="KnowYourRights API",
+    description="Gamified civic education backend",
+    version="1.0.0"
+)
+
+
+# =========================
+# CORS (for frontend)
+# =========================
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],  # React (Vite)
+    allow_origins=["*"],  # later restrict to frontend URL
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-# Include user routes
-app.include_router(user_router, prefix="/api/user", tags=["user"])
 
-# Root route
+# =========================
+# CREATE TABLES (optional safety)
+# =========================
+Base.metadata.create_all(bind=engine)
+
+
+# =========================
+# ROUTES
+# =========================
+app.include_router(questions.router)
+app.include_router(progress.router)
+app.include_router(auth.router)
+app.include_router(user.router)
+
+# =========================
+# ROOT
+# =========================
 @app.get("/")
-def home():
-    return {"message": "Legal Quiz API running 🚀"}
-
-
-# Get questions API
-@app.get("/questions", response_model=List[Question])
-def get_questions(
-    domain: Optional[str] = Query(None),
-    difficulty: Optional[str] = Query(None),
-    db: Session = Depends(get_db)
-):
-    query = db.query(DBQuestion)
-
-    # Apply filters
-    if domain:
-        query = query.filter(DBQuestion.domain == domain)
-
-    if difficulty:
-        query = query.filter(DBQuestion.difficulty == difficulty)
-
-    questions = query.all()
-
-    # Convert DB objects → Pydantic schema
-    result = []
-    for q in questions:
-        result.append(Question(
-            id=q.id,
-            question=q.question,
-            options=q.options,
-            correct_answer=q.correct_answer,
-            explanation=q.explanation,
-            domain=q.domain,
-            difficulty=q.difficulty,
-            xp_reward=q.xp_reward,
-            legal_reference=q.legal_reference
-        ))
-
-    return result
+def root():
+    return {
+        "message": "KnowYourRights API is running 🚀"
+    }
