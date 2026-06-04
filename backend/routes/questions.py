@@ -79,9 +79,7 @@ def get_questions(
             data["options"] = {"A": "True", "B": "False"}
 
         elif q.question_type == "match":
-            left, right = shuffle_match(q)
-            data["left"] = left
-            data["right"] = right
+            data["pairs"] = q.pairs
 
         response.append(data)
 
@@ -113,9 +111,7 @@ def get_question(question_id: str, db: Session = Depends(get_db)):
         data["options"] = {"A": "True", "B": "False"}
 
     elif q.question_type == "match":
-        left, right = shuffle_match(q)
-        data["left"] = left
-        data["right"] = right
+        data["pairs"] = q.pairs
 
     return data
 

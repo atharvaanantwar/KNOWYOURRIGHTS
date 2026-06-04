@@ -1,5 +1,4 @@
-from sqlalchemy import Column, String, Integer, Boolean, Text, DateTime, ForeignKey, JSON
-from sqlalchemy.dialects.postgresql import UUID
+from sqlalchemy import Column, String, Integer, Boolean, Text, DateTime, ForeignKey, JSON, Uuid
 from datetime import datetime
 import uuid
 
@@ -12,7 +11,7 @@ from db import Base
 class User(Base):
     __tablename__ = "users"
 
-    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    id = Column(Uuid, primary_key=True, default=uuid.uuid4)
 
     email = Column(String, unique=True, nullable=False)
     hashed_password = Column(String, nullable=False)
@@ -27,7 +26,7 @@ class User(Base):
 class Question(Base):
     __tablename__ = "questions"
 
-    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    id = Column(Uuid, primary_key=True, default=uuid.uuid4)
 
     # CORE GAME FILTERING
     question_type = Column(String, nullable=False)   # tf / mcq / match
@@ -59,9 +58,9 @@ class Question(Base):
 class UserProgress(Base):
     __tablename__ = "user_progress"
 
-    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    id = Column(Uuid, primary_key=True, default=uuid.uuid4)
 
-    user_id = Column(UUID(as_uuid=True), ForeignKey("users.id"), nullable=False)
+    user_id = Column(Uuid, ForeignKey("users.id"), nullable=False)
     domain = Column(String, nullable=False)
 
     current_difficulty = Column(Integer, default=1)
@@ -84,10 +83,10 @@ class UserProgress(Base):
 class UserQuestionHistory(Base):
     __tablename__ = "user_question_history"
 
-    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    id = Column(Uuid, primary_key=True, default=uuid.uuid4)
 
-    user_id = Column(UUID(as_uuid=True), ForeignKey("users.id"), nullable=False)
-    question_id = Column(UUID(as_uuid=True), ForeignKey("questions.id"), nullable=False)
+    user_id = Column(Uuid, ForeignKey("users.id"), nullable=False)
+    question_id = Column(Uuid, ForeignKey("questions.id"), nullable=False)
 
     is_correct = Column(Boolean)
     selected_answer = Column(JSON, nullable=True)  # works for MCQ + match
@@ -101,9 +100,9 @@ class UserQuestionHistory(Base):
 class UserBadge(Base):
     __tablename__ = "user_badges"
 
-    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    id = Column(Uuid, primary_key=True, default=uuid.uuid4)
 
-    user_id = Column(UUID(as_uuid=True), ForeignKey("users.id"), nullable=False)
+    user_id = Column(Uuid, ForeignKey("users.id"), nullable=False)
 
     badge_name = Column(String, nullable=False)
 

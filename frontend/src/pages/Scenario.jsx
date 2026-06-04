@@ -1,13 +1,16 @@
 import { useState, useEffect, useCallback, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { 
   LightBulbIcon, 
   ArrowRightIcon,
   CheckCircleIcon,
   XCircleIcon,
   BookOpenIcon,
-  ArrowPathIcon
+  ArrowPathIcon,
+  ArrowLeftIcon,
+  ExclamationTriangleIcon,
+  ShieldCheckIcon,
 } from '@heroicons/react/24/solid';
 import useGameStore from '../store/gameStore';
 import { api } from '../services/api';
@@ -269,11 +272,6 @@ const QuestionTypeBadge = ({ type }) => {
 };
 const DOMAIN_MAP = {
   "Consumer Rights": "consumer_law",
-  "Labor Law": "labor_law",
-  "Property Law": "property_law",
-  "Criminal Law": "criminal_law",
-  "Constitutional Rights": "constitutional_law",
-  "Cyber Law": "cyber_law",
 };
 
 const DIFFICULTY_MAP = {
@@ -285,6 +283,7 @@ const DIFFICULTY_MAP = {
 // Main Scenario component
 // ═══════════════════════════════════════════════════════════════════════
 const Scenario = () => {
+  const navigate = useNavigate();
   const {
     currentScenario,
     setCurrentScenario,
@@ -308,6 +307,7 @@ const Scenario = () => {
   const [showExplanation, setShowExplanation] = useState(false);
   const [loading, setLoading] = useState(false);
   const [backendExplanation, setBackendExplanation] = useState("");
+  const [showExitConfirm, setShowExitConfirm] = useState(false);
 
   // Match-the-pairs local state
   const [matchState, setMatchState] = useState({
@@ -359,6 +359,9 @@ console.log("Selected:", selectedDomain, selectedDifficulty);
               ? "True" // fallback (not used anyway)
               : selectedQuestion.correct_answer,
 
+          // Store answer_map for MCQ reverse-lookup when highlighting correct answer
+          answer_map: selectedQuestion.answer_map || {},
+
           match_pairs: selectedQuestion.pairs || [],
 
           scenario: selectedQuestion.question || "",
@@ -407,6 +410,26 @@ console.log("Selected:", selectedDomain, selectedDifficulty);
       );
 
       console.log("BACKEND RESULT:", res);
+
+      // 🔥 Update scenario with correct answer from backend so UI can highlight it
+      if (res.correct_answer) {
+        if (scenario.question_type === 'mcq' || !scenario.question_type) {
+          // For MCQ: backend returns the original key (e.g. "B"),
+          // but we display shuffled keys. Reverse-lookup the answer_map
+          // to find which displayed label maps to the correct original key.
+          const answerMap = scenario.answer_map || {};
+          let correctDisplayLabel = res.correct_answer;
+          for (const [displayKey, originalKey] of Object.entries(answerMap)) {
+            if (originalKey === res.correct_answer) {
+              correctDisplayLabel = displayKey;
+              break;
+            }
+          }
+          setScenario(prev => ({ ...prev, correct_answer: correctDisplayLabel }));
+        } else if (scenario.question_type === 'true_false') {
+          setScenario(prev => ({ ...prev, correct_answer: res.correct_answer }));
+        }
+      }
 
       // 🔥 USE BACKEND RESPONSE
       setIsCorrect(res.correct);
@@ -567,6 +590,92 @@ console.log("Selected:", selectedDomain, selectedDifficulty);
         </div>
       ) : (
         <div className="max-w-4xl mx-auto pt-16">
+
+        {/* ── Exit Confirmation Modal ── */}
+        <AnimatePresence>
+          {showExitConfirm && (
+            <motion.div
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              exit={{ opacity: 0 }}
+              className="fixed inset-0 z-50 flex items-center justify-center p-4"
+            >
+              {/* Backdrop */}
+              <motion.div
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                exit={{ opacity: 0 }}
+                className="absolute inset-0 bg-black/50 backdrop-blur-sm"
+                onClick={() => setShowExitConfirm(false)}
+              />
+
+              {/* Modal */}
+              <motion.div
+                initial={{ opacity: 0, scale: 0.85, y: 20 }}
+                animate={{ opacity: 1, scale: 1, y: 0 }}
+                exit={{ opacity: 0, scale: 0.85, y: 20 }}
+                transition={{ type: 'spring', stiffness: 300, damping: 25 }}
+                className="relative bg-white rounded-3xl shadow-2xl max-w-md w-full overflow-hidden"
+              >
+                {/* Top accent */}
+                <div className="h-2 bg-gradient-to-r from-amber-400 via-orange-400 to-red-400" />
+
+                <div className="p-8 text-center">
+                  {/* Icon */}
+                  <motion.div
+                    initial={{ scale: 0 }}
+                    animate={{ scale: 1 }}
+                    transition={{ delay: 0.1, type: 'spring', stiffness: 200 }}
+                    className="w-16 h-16 mx-auto mb-5 rounded-full bg-amber-100 flex items-center justify-center"
+                  >
+                    <ExclamationTriangleIcon className="w-8 h-8 text-amber-600" />
+                  </motion.div>
+
+                  <h3 className="text-xl font-bold text-slate-800 mb-2">
+                    Exit Quiz?
+                  </h3>
+                  <p className="text-slate-500 mb-6 leading-relaxed">
+                    Are you sure you want to leave? Don't worry —
+                    <span className="font-semibold text-slate-700"> your progress will be saved</span>.
+                    You can pick up right where you left off.
+                  </p>
+
+                  {/* Progress saved indicator */}
+                  <div className="bg-emerald-50 border border-emerald-200 rounded-xl p-3 mb-6 flex items-center gap-3">
+                    <ShieldCheckIcon className="w-5 h-5 text-emerald-600 flex-shrink-0" />
+                    <p className="text-sm text-emerald-700 text-left">
+                      Your XP, streak, and completed questions are safely stored.
+                    </p>
+                  </div>
+
+                  {/* Buttons */}
+                  <div className="flex gap-3">
+                    <motion.button
+                      whileHover={{ scale: 1.03 }}
+                      whileTap={{ scale: 0.97 }}
+                      onClick={() => setShowExitConfirm(false)}
+                      className="flex-1 px-5 py-3 bg-slate-100 text-slate-700 rounded-xl font-semibold hover:bg-slate-200 transition-colors"
+                    >
+                      Keep Playing
+                    </motion.button>
+                    <motion.button
+                      whileHover={{ scale: 1.03 }}
+                      whileTap={{ scale: 0.97 }}
+                      onClick={() => {
+                        setShowExitConfirm(false);
+                        navigate('/dashboard');
+                      }}
+                      className="flex-1 px-5 py-3 bg-red-600 text-white rounded-xl font-semibold hover:bg-red-700 transition-colors shadow-md"
+                    >
+                      Exit Quiz
+                    </motion.button>
+                  </div>
+                </div>
+              </motion.div>
+            </motion.div>
+          )}
+        </AnimatePresence>
+
         {/* Header Stats */}
         <motion.div
           initial={{ opacity: 0, y: -20 }}
@@ -574,6 +683,18 @@ console.log("Selected:", selectedDomain, selectedDifficulty);
           className="flex items-center justify-between mb-6"
         >
           <div className="flex items-center gap-4">
+            {/* Exit Quiz Button */}
+            <motion.button
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              onClick={() => setShowExitConfirm(true)}
+              className="flex items-center gap-2 bg-white px-4 py-2 rounded-xl shadow-md text-slate-600 hover:text-red-600 hover:bg-red-50 transition-colors border border-transparent hover:border-red-200"
+              title="Exit quiz"
+            >
+              <ArrowLeftIcon className="w-4 h-4" />
+              <span className="hidden sm:inline text-sm font-medium">Exit</span>
+            </motion.button>
+
             <div className="bg-white px-4 py-2 rounded-xl shadow-md">
               <span className="text-sm text-slate-500">Domain</span>
               <p className="font-semibold text-blue-600">{scenario.domain}</p>

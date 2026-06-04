@@ -2,12 +2,7 @@ import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import {
-  ScaleIcon,
   ShieldCheckIcon,
-  HomeModernIcon,
-  FingerPrintIcon,
-  BuildingLibraryIcon,
-  BriefcaseIcon,
   ArrowLeftIcon,
   PlayIcon,
 } from '@heroicons/react/24/solid';
@@ -21,46 +16,6 @@ const domainCards = [
     color: 'from-emerald-500 to-teal-600',
     iconBg: 'bg-emerald-100',
     iconColor: 'text-emerald-600',
-  },
-  {
-    name: 'Labor Law',
-    icon: BriefcaseIcon,
-    description: 'Overtime, termination & employee protections',
-    color: 'from-orange-500 to-amber-600',
-    iconBg: 'bg-orange-100',
-    iconColor: 'text-orange-600',
-  },
-  {
-    name: 'Property Law',
-    icon: HomeModernIcon,
-    description: 'Tenancy, ownership disputes & transfer of property',
-    color: 'from-violet-500 to-purple-600',
-    iconBg: 'bg-violet-100',
-    iconColor: 'text-violet-600',
-  },
-  {
-    name: 'Criminal Law',
-    icon: ScaleIcon,
-    description: 'Arrest rights, FIR filing & criminal protections',
-    color: 'from-red-500 to-rose-600',
-    iconBg: 'bg-red-100',
-    iconColor: 'text-red-600',
-  },
-  {
-    name: 'Constitutional Rights',
-    icon: BuildingLibraryIcon,
-    description: 'Fundamental rights, equality & freedom of assembly',
-    color: 'from-blue-500 to-indigo-600',
-    iconBg: 'bg-blue-100',
-    iconColor: 'text-blue-600',
-  },
-  {
-    name: 'Cyber Law',
-    icon: FingerPrintIcon,
-    description: 'Privacy, data protection & online offenses',
-    color: 'from-cyan-500 to-sky-600',
-    iconBg: 'bg-cyan-100',
-    iconColor: 'text-cyan-600',
   },
 ];
 

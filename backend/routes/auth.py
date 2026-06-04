@@ -70,5 +70,7 @@ def login(data: dict, db: Session = Depends(get_db)):
 
     return {
         "access_token": token,
-        "token_type": "bearer"
+        "token_type": "bearer",
+        "user_id": str(user.id),
+        "username": user.username
     }

@@ -4,6 +4,7 @@ import Dashboard from './pages/Dashboard';
 import Scenario from './pages/Scenario';
 import Challenges from './pages/Challenges';
 import Progress from './pages/Progress';
+import Profile from './pages/Profile';
 import Login from './pages/Login';
 import Signup from './pages/Signup';
 import ProtectedRoute from './components/ProtectedRoute';
@@ -47,6 +48,14 @@ function App() {
             element={
               <ProtectedRoute>
                 <Progress />
+              </ProtectedRoute>
+            }
+          />
+          <Route
+            path="/profile"
+            element={
+              <ProtectedRoute>
+                <Profile />
               </ProtectedRoute>
             }
           />
