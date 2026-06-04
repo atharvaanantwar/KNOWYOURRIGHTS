@@ -46,11 +46,11 @@
     "options": {
       "A": "Amit can file a product liability action against the seller for failing to ensure the product had safety certifications.",
       "B": "Amit can claim compensation from the online marketplace for selling an uncertified product regardless of manufacturer details.",
-      "C": "Amit can sue the manufacturer for the fire under Section 84’s design defect clause, even if they were not negligent.",
+      "C": "Amit can sue the manufacturer for the fire under Section 84\u2019s design defect clause, even if they were not negligent.",
       "D": "Amit must first notify the employer who may have purchased the cooker for workplace use, as per Section 87 exceptions."
     },
     "correct_answer": "B",
-    "explanation": "Under Section 86(d), Amit can hold the seller liable if the manufacturer’s identity is unknown or the order cannot be enforced against them. The lack of safety certification marks indicates non-compliance with safety standards, making the seller liable. Option A is incorrect because the seller’s liability is not solely for missing certifications. Option C is incorrect as the defect type is unspecified. Option D is irrelevant since the cooker was for household use.",
+    "explanation": "Under Section 86(d), Amit can hold the seller liable if the manufacturer\u2019s identity is unknown or the order cannot be enforced against them. The lack of safety certification marks indicates non-compliance with safety standards, making the seller liable. Option A is incorrect because the seller\u2019s liability is not solely for missing certifications. Option C is incorrect as the defect type is unspecified. Option D is irrelevant since the cooker was for household use.",
     "type": "scenario",
     "difficulty": "medium",
     "source": "consumer_protection_act_2019.md"
@@ -156,13 +156,13 @@
   {
     "question": "An electronics retailer, SmartGadgets Ltd., falsely advertises a smartwatch as having a '24-hour battery life' and 'waterproof up to 100 meters'. Consumer complaints reveal the battery lasts only 8 hours and the watch is not waterproof beyond 10 meters. The retailer claims the advertisement was based on 'typical usage' and not a guarantee. Which legal provision is most applicable to this misleading advertisement?",
     "options": {
-      "A": "Section 89(2) – Central Authority may impose a penalty up to ₹10 lakh on SmartGadgets Ltd. for false or misleading advertisement.",
-      "B": "Section 84(a) – SmartGadgets Ltd. is liable for product defect due to manufacturing error in battery specifications.",
-      "C": "Section 21 – Central Authority can issue directions for withdrawal of the misleading advertisement but cannot impose penalties.",
-      "D": "Section 89(4) – Penalty of ₹10 lakh may be imposed on the person publishing the misleading advertisement."
+      "A": "Section 89(2) \u2013 Central Authority may impose a penalty up to \u20b910 lakh on SmartGadgets Ltd. for false or misleading advertisement.",
+      "B": "Section 84(a) \u2013 SmartGadgets Ltd. is liable for product defect due to manufacturing error in battery specifications.",
+      "C": "Section 21 \u2013 Central Authority can issue directions for withdrawal of the misleading advertisement but cannot impose penalties.",
+      "D": "Section 89(4) \u2013 Penalty of \u20b910 lakh may be imposed on the person publishing the misleading advertisement."
     },
     "correct_answer": "A",
-    "explanation": "The correct answer is Section 89(2) because the Central Authority has the power to impose penalties up to ₹10 lakh on manufacturers or endorsers for false or misleading advertisements. Section 84(a) is incorrect as it deals with product liability for manufacturing defects, not misleading advertisements. Section 21 is incorrect because it only refers to the power to issue directions, not penalties. Section 89(4) is incorrect because it applies to the person publishing the advertisement, not the manufacturer or endorser.",
+    "explanation": "The correct answer is Section 89(2) because the Central Authority has the power to impose penalties up to \u20b910 lakh on manufacturers or endorsers for false or misleading advertisements. Section 84(a) is incorrect as it deals with product liability for manufacturing defects, not misleading advertisements. Section 21 is incorrect because it only refers to the power to issue directions, not penalties. Section 89(4) is incorrect because it applies to the person publishing the advertisement, not the manufacturer or endorser.",
     "type": "scenario",
     "difficulty": "hard",
     "source": "consumer_protection_act_2019.md"
@@ -210,7 +210,7 @@
     "source": "consumer_protection_act_2019.md"
   },
   {
-    "question": "An online retailer advertises a smartphone at a 'bargain price' of ₹15,000, claiming it is a limited-time offer. However, customers who visit the website find that the phone is listed at ₹18,000 elsewhere on the site, and the 'bargain price' is only available for a single unit. Which unfair trade practice is the retailer engaging in?",
+    "question": "An online retailer advertises a smartphone at a 'bargain price' of \u20b915,000, claiming it is a limited-time offer. However, customers who visit the website find that the phone is listed at \u20b918,000 elsewhere on the site, and the 'bargain price' is only available for a single unit. Which unfair trade practice is the retailer engaging in?",
     "options": {
       "A": "Misleading advertisement by falsely representing the price and availability of goods",
       "B": "Bait-and-switch advertising by luring customers with a low price and then selling a different product",
@@ -228,7 +228,7 @@
     "options": {
       "A": "Sale of goods as new when it is actually refurbished without disclosure.",
       "B": "Failure to provide a written warranty for the air conditioner.",
-      "C": "Charging a price higher than the manufacturer’s suggested retail price.",
+      "C": "Charging a price higher than the manufacturer\u2019s suggested retail price.",
       "D": "Delay in delivering the air conditioner after payment."
     },
     "correct_answer": "A",
@@ -400,9 +400,9 @@
     "question": "A District Collector, as Chairperson of the District Consumer Protection Council, fails to convene the mandatory minimum number of meetings in a year. What legal consequence does this action entail under Section 8?",
     "options": {
       "A": "The Collector may be removed from office under the Consumer Protection Act.",
-      "B": "The Collector’s inaction may be reported to the State Government for disciplinary action.",
+      "B": "The Collector\u2019s inaction may be reported to the State Government for disciplinary action.",
       "C": "No legal consequence is specified, as the Act only recommends meetings.",
-      "D": "The Collector’s role as Chairperson is automatically terminated."
+      "D": "The Collector\u2019s role as Chairperson is automatically terminated."
     },
     "correct_answer": "B",
     "explanation": "The correct answer is B because while the Act does not explicitly state removal, the State Government can take disciplinary action for failing to comply with statutory obligations. Option A is incorrect as removal is not directly specified. Option C is incorrect because the Act mandates minimum meetings. Option D is incorrect as termination is not mentioned.",
@@ -456,7 +456,7 @@
     "question": "Atharva, a consumer, discovers that a product he bought was not labeled with the correct MRP as per the standards set by the Bureau of Indian Standards (BIS). Which of the following legal provisions would apply to this situation?",
     "options": {
       "A": "The product manufacturer may be liable under Section 84 for failing to provide adequate instructions or warnings regarding MRP compliance.",
-      "B": "The product seller could be held liable under Section 86 if they failed to pass on the manufacturer’s correct MRP labeling instructions.",
+      "B": "The product seller could be held liable under Section 86 if they failed to pass on the manufacturer\u2019s correct MRP labeling instructions.",
       "C": "Section 87 exception (a) would protect the manufacturer if the product was sold to an employer for workplace use with proper warnings.",
       "D": "The Bureau of Indian Standards (BIS) can directly prosecute the manufacturer under the Consumer Protection Act for incorrect MRP labeling."
     },
@@ -607,12 +607,12 @@
     "source": "consumer_protection_act_2019.md"
   },
   {
-    "question": "An engineering expert is hired by the Central Authority to investigate a product safety complaint. The expert’s report suggests a defect that could affect consumer welfare. Which legal provision governs the expert’s appointment and terms of service?",
+    "question": "An engineering expert is hired by the Central Authority to investigate a product safety complaint. The expert\u2019s report suggests a defect that could affect consumer welfare. Which legal provision governs the expert\u2019s appointment and terms of service?",
     "options": {
-      "A": "Section 13(3) and Section 104(2)(a) together determine the expert’s appointment and terms.",
+      "A": "Section 13(3) and Section 104(2)(a) together determine the expert\u2019s appointment and terms.",
       "B": "Section 12(a) invalidates any appointment lacking proper procedures.",
-      "C": "Section 104(2)(b) specifies the expert’s salary and allowances directly.",
-      "D": "Section 12(c) ensures irregularities do not invalidate the expert’s report."
+      "C": "Section 104(2)(b) specifies the expert\u2019s salary and allowances directly.",
+      "D": "Section 12(c) ensures irregularities do not invalidate the expert\u2019s report."
     },
     "correct_answer": "A",
     "explanation": "Section 13(3) allows the Central Authority to engage experts, while Section 104(2)(a) empowers regulations on their appointment procedure. Section 12 addresses procedural defects, but not appointment terms. Section 104(2)(b) relates to business allocation, not expert terms.",
@@ -699,7 +699,7 @@
       "D": "The Director-General must personally re-conduct the investigation to validate findings."
     },
     "correct_answer": "A",
-    "explanation": "Under Section 15(4), the Director-General can delegate powers, but any action beyond delegation is invalid. Thus, the Assistant Director’s unauthorized penalties are void (Option A). Option B is incorrect because only the Assistant Director’s order is void, not necessarily annulled by the Central Authority. Option C is wrong as penalties under the Act are not challenged in civil courts. Option D is incorrect because re-conducting the investigation is not mandatory; the invalid order suffices.",
+    "explanation": "Under Section 15(4), the Director-General can delegate powers, but any action beyond delegation is invalid. Thus, the Assistant Director\u2019s unauthorized penalties are void (Option A). Option B is incorrect because only the Assistant Director\u2019s order is void, not necessarily annulled by the Central Authority. Option C is wrong as penalties under the Act are not challenged in civil courts. Option D is incorrect because re-conducting the investigation is not mandatory; the invalid order suffices.",
     "type": "scenario",
     "difficulty": "medium",
     "source": "consumer_protection_act_2019.md"
@@ -708,12 +708,12 @@
     "question": "Under Section 15(4), the Director-General delegates investigative powers to the Joint Director for a specific inquiry. The Joint Director later conducts an investigation outside the scope of the delegation. Which legal principle applies to the validity of the investigation?",
     "options": {
       "A": "Delegated authority cannot exceed the scope of delegation and any act beyond it is ultra vires.",
-      "B": "The Joint Director’s investigation remains valid as the Director-General’s powers are absolute.",
+      "B": "The Joint Director\u2019s investigation remains valid as the Director-General\u2019s powers are absolute.",
       "C": "The investigation is valid only if ratified by the Director-General after the fact.",
-      "D": "The Joint Director can investigate any matter as long as it relates to the Act’s objectives."
+      "D": "The Joint Director can investigate any matter as long as it relates to the Act\u2019s objectives."
     },
     "correct_answer": "A",
-    "explanation": "The correct answer is A because delegated powers are limited to the scope of the delegation. Conducting an investigation outside this scope makes the act ultra vires (beyond legal authority). Option B is incorrect as the Director-General’s powers are not absolute; delegation is conditional. Option C is incorrect because ratification does not cure ultra vires acts. Option D is incorrect as the Joint Director’s authority is not unlimited but tied to the specific delegation.",
+    "explanation": "The correct answer is A because delegated powers are limited to the scope of the delegation. Conducting an investigation outside this scope makes the act ultra vires (beyond legal authority). Option B is incorrect as the Director-General\u2019s powers are not absolute; delegation is conditional. Option C is incorrect because ratification does not cure ultra vires acts. Option D is incorrect as the Joint Director\u2019s authority is not unlimited but tied to the specific delegation.",
     "type": "factual",
     "difficulty": "hard",
     "source": "consumer_protection_act_2019.md"
@@ -979,7 +979,7 @@
       "D": "No, the Central Authority is exempt from CAG audits under law."
     },
     "correct_answer": "A",
-    "explanation": "Under Section 26(3), the CAG or their appointee has the same powers as in government audit, including the right to demand production of records. The Central Authority cannot refuse. Option B is incorrect because the CAG’s powers are enforceable, not just recommendatory. Option C is incorrect because the CAG’s audit powers extend to all accounts of the Central Authority, not just government funds. Option D is incorrect because the law explicitly grants audit powers to the CAG over the Central Authority’s accounts.",
+    "explanation": "Under Section 26(3), the CAG or their appointee has the same powers as in government audit, including the right to demand production of records. The Central Authority cannot refuse. Option B is incorrect because the CAG\u2019s powers are enforceable, not just recommendatory. Option C is incorrect because the CAG\u2019s audit powers extend to all accounts of the Central Authority, not just government funds. Option D is incorrect because the law explicitly grants audit powers to the CAG over the Central Authority\u2019s accounts.",
     "type": "scenario",
     "difficulty": "medium",
     "source": "consumer_protection_act_2019.md"
@@ -1195,15 +1195,15 @@
     "source": "consumer_protection_act_2019.md"
   },
   {
-    "question": "The President of District Commission, North, is temporarily unavailable due to medical leave. The State Government designates a member from District Commission, South, to perform the President’s duties in North. Is this appointment legally valid under Section 32?",
+    "question": "The President of District Commission, North, is temporarily unavailable due to medical leave. The State Government designates a member from District Commission, South, to perform the President\u2019s duties in North. Is this appointment legally valid under Section 32?",
     "options": {
-      "A": "Yes, the State Government can appoint a member from another District Commission to perform the President’s duties under Section 32(b).",
+      "A": "Yes, the State Government can appoint a member from another District Commission to perform the President\u2019s duties under Section 32(b).",
       "B": "No, only a member from the same District Commission can act as President under Section 32.",
       "C": "Yes, but only if the member from South is also a qualified President under Section 29.",
       "D": "No, the State Government must first notify a different District Commission under Section 32(a) to handle the jurisdiction."
     },
     "correct_answer": "A",
-    "explanation": "Section 32(b) explicitly allows the State Government to designate a member from another District Commission to exercise the powers and discharge the functions of the President of a District Commission temporarily. Option A correctly reflects this provision. Option B is incorrect because Section 32(b) permits cross-district appointments. Option C is incorrect because Section 32(b) does not impose the additional qualification requirement mentioned. Option D is incorrect because Section 32(a) deals with jurisdiction, not the President’s duties, and is not the exclusive route under these facts.",
+    "explanation": "Section 32(b) explicitly allows the State Government to designate a member from another District Commission to exercise the powers and discharge the functions of the President of a District Commission temporarily. Option A correctly reflects this provision. Option B is incorrect because Section 32(b) permits cross-district appointments. Option C is incorrect because Section 32(b) does not impose the additional qualification requirement mentioned. Option D is incorrect because Section 32(a) deals with jurisdiction, not the President\u2019s duties, and is not the exclusive route under these facts.",
     "type": "scenario",
     "difficulty": "medium",
     "source": "consumer_protection_act_2019.md"
@@ -1421,16 +1421,16 @@
   {
     "question": "Rahul files a complaint with the District Commission for a defective product. The seller refuses to consent to mediation. Can the District Commission still refer the matter to mediation without the seller's consent?",
     "options": {
-      "A": "No, the District Commission cannot refer the matter to mediation without the seller’s written consent.",
+      "A": "No, the District Commission cannot refer the matter to mediation without the seller\u2019s written consent.",
       "B": "Yes, the District Commission can refer the matter to mediation even if the seller refuses consent.",
-      "C": "Only if the District Commission finds the seller’s refusal unreasonable, can it proceed with mediation.",
+      "C": "Only if the District Commission finds the seller\u2019s refusal unreasonable, can it proceed with mediation.",
       "D": "The District Commission may refer the matter to mediation only after obtaining consent from both parties."
     },
     "correct_answer": "A",
-    "explanation": "According to Section 37, the District Commission can refer the matter to mediation only if both parties agree and give their consent in writing. Without the seller’s consent, the District Commission cannot proceed with mediation.",
+    "explanation": "According to Section 37, the District Commission can refer the matter to mediation only if both parties agree and give their consent in writing. Without the seller\u2019s consent, the District Commission cannot proceed with mediation.",
     "why_incorrect": {
       "B": "This option is incorrect because Section 37 explicitly requires written consent from both parties for mediation referral.",
-      "C": "This option is incorrect because the law does not allow the District Commission to override a party’s refusal to consent to mediation.",
+      "C": "This option is incorrect because the law does not allow the District Commission to override a party\u2019s refusal to consent to mediation.",
       "D": "This option is incorrect because the District Commission cannot refer the matter to mediation without both parties' consent, as per Section 37."
     },
     "type": "scenario",
@@ -1820,17 +1820,17 @@
     "options": {
       "A": "Officers must comply as they work under the President's general superintendence, even if duties are not explicitly prescribed.",
       "B": "Officers can refuse since tasks outside prescribed duties are not mandatory under Section 46.",
-      "C": "Only the National Commission can assign duties, so the President’s task is invalid.",
+      "C": "Only the National Commission can assign duties, so the President\u2019s task is invalid.",
       "D": "Officers must comply only if the task is in writing and approved by the State Government."
     },
     "correct_answer": "A",
-    "explanation": "Section 46(2) states officers and employees serve under the President’s general superintendence, implying they must comply even if duties are not explicitly prescribed. Option B is incorrect because the section does not require explicit prescribed duties. Option C is wrong as Section 46 empowers the President to supervise. Option D is incorrect because no such requirement is mentioned in the context.",
+    "explanation": "Section 46(2) states officers and employees serve under the President\u2019s general superintendence, implying they must comply even if duties are not explicitly prescribed. Option B is incorrect because the section does not require explicit prescribed duties. Option C is wrong as Section 46 empowers the President to supervise. Option D is incorrect because no such requirement is mentioned in the context.",
     "type": "scenario",
     "difficulty": "hard",
     "source": "consumer_protection_act_2019.md"
   },
   {
-    "question": "Meera files a complaint against a Mumbai-based online retailer for defective goods worth ₹50 lakh. The retailer operates only in Maharashtra. Where should Meera file her complaint?",
+    "question": "Meera files a complaint against a Mumbai-based online retailer for defective goods worth \u20b950 lakh. The retailer operates only in Maharashtra. Where should Meera file her complaint?",
     "options": {
       "A": "District Commission in Mumbai, Maharashtra",
       "B": "State Commission in Mumbai, Maharashtra",
@@ -1838,13 +1838,13 @@
       "D": "District Commission in Delhi"
     },
     "correct_answer": "A",
-    "explanation": "The District Commission handles complaints where the value of goods/services is up to ₹1 crore. Since the retailer operates only in Maharashtra and the complaint value is ₹50 lakh, the correct forum is the District Commission in Mumbai. The State Commission handles higher values (₹1 crore–₹10 crore), and the National Commission handles the highest values (above ₹10 crore). Delhi is irrelevant as the retailer operates in Maharashtra.",
+    "explanation": "The District Commission handles complaints where the value of goods/services is up to \u20b91 crore. Since the retailer operates only in Maharashtra and the complaint value is \u20b950 lakh, the correct forum is the District Commission in Mumbai. The State Commission handles higher values (\u20b91 crore\u2013\u20b910 crore), and the National Commission handles the highest values (above \u20b910 crore). Delhi is irrelevant as the retailer operates in Maharashtra.",
     "type": "scenario",
     "difficulty": "easy",
     "source": "consumer_protection_act_2019.md"
   },
   {
-    "question": "A Delhi-based consumer purchases a service package worth ₹8 crore from a Bengaluru-based company. The service is delivered entirely online with no physical presence in any state. Where can the consumer file a complaint under Section 47?",
+    "question": "A Delhi-based consumer purchases a service package worth \u20b98 crore from a Bengaluru-based company. The service is delivered entirely online with no physical presence in any state. Where can the consumer file a complaint under Section 47?",
     "options": {
       "A": "In the State Commission where the consumer resides or works for gain.",
       "B": "In the State Commission where the company has a branch office.",
@@ -2225,7 +2225,7 @@
     "question": "The National Commission receives a reference from a two-member Bench that is equally divided on whether a complaint alleging misleading advertising of a product worth Rs. 15 crore falls under unfair trade practice. The President of the National Commission is tasked with resolving the deadlock. What is the procedure the President must follow under Section 58(3)?",
     "options": {
       "A": "The President must hear the point himself or refer it to one or more other members for a fresh hearing and decide based on the majority opinion within two months.",
-      "B": "The President must immediately pass an order reversing the Bench’s decision due to the deadlock.",
+      "B": "The President must immediately pass an order reversing the Bench\u2019s decision due to the deadlock.",
       "C": "The President must dismiss the complaint as it cannot be resolved due to the equal division of the Bench.",
       "D": "The President must transfer the case to the State Commission for resolution of the deadlock."
     },
@@ -2376,15 +2376,15 @@
     "source": "consumer_protection_act_2019.md"
   },
   {
-    "question": "The National Commission’s President is absent due to medical leave. The second most senior Judicial Member, who was a retired District Judge (not a High Court Judge), claims to preside over the Commission. Is this member legally entitled to preside?",
+    "question": "The National Commission\u2019s President is absent due to medical leave. The second most senior Judicial Member, who was a retired District Judge (not a High Court Judge), claims to preside over the Commission. Is this member legally entitled to preside?",
     "options": {
-      "A": "No, only a retired High Court Judge or senior-most Judicial Member can preside in the President’s absence.",
+      "A": "No, only a retired High Court Judge or senior-most Judicial Member can preside in the President\u2019s absence.",
       "B": "Yes, any Judicial Member can preside if the President is absent, regardless of their judicial background.",
       "C": "No, since the member was a District Judge, they cannot preside over the National Commission.",
-      "D": "Yes, the second most senior Judicial Member automatically becomes President pro tempore in the President’s absence."
+      "D": "Yes, the second most senior Judicial Member automatically becomes President pro tempore in the President\u2019s absence."
     },
     "correct_answer": "A",
-    "explanation": "The correct answer is A because Section 63 specifies that only a retired High Court Judge or a Judicial Member (with the senior-most taking precedence in case of multiple members) can preside in the President’s absence. A retired District Judge does not meet the qualification, making option A correct. Option B is incorrect because not all Judicial Members qualify; only those who were High Court Judges or the senior-most Judicial Member can preside. Option C is incorrect because the rule does not exclude all District Judges, only those who were not High Court Judges. Option D is incorrect because the provision does not automatically make the second most senior member President pro tempore; only specific qualifications apply.",
+    "explanation": "The correct answer is A because Section 63 specifies that only a retired High Court Judge or a Judicial Member (with the senior-most taking precedence in case of multiple members) can preside in the President\u2019s absence. A retired District Judge does not meet the qualification, making option A correct. Option B is incorrect because not all Judicial Members qualify; only those who were High Court Judges or the senior-most Judicial Member can preside. Option C is incorrect because the rule does not exclude all District Judges, only those who were not High Court Judges. Option D is incorrect because the provision does not automatically make the second most senior member President pro tempore; only specific qualifications apply.",
     "type": "scenario",
     "difficulty": "medium",
     "source": "consumer_protection_act_2019.md"
@@ -2446,7 +2446,7 @@
     "source": "consumer_protection_act_2019.md"
   },
   {
-    "question": "Anshika, a consumer, files a complaint against an e-commerce platform for defective goods. The platform claims it did not receive the notice. However, the notice was sent to the nodal officer’s address provided on the platform’s website. What is the most appropriate legal consequence under Section 65?",
+    "question": "Anshika, a consumer, files a complaint against an e-commerce platform for defective goods. The platform claims it did not receive the notice. However, the notice was sent to the nodal officer\u2019s address provided on the platform\u2019s website. What is the most appropriate legal consequence under Section 65?",
     "options": {
       "A": "The notice shall be deemed duly served on the e-commerce platform.",
       "B": "The complaint will be rejected because the platform did not acknowledge receipt of the notice.",
@@ -2454,7 +2454,7 @@
       "D": "Anshika must resend the notice to a different address before proceeding."
     },
     "correct_answer": "A",
-    "explanation": "Under Section 65(2), a notice served at the nodal officer’s address provided by an electronic service provider is valid and deemed duly served, even if the platform later claims non-receipt. This makes option A correct. Option B is incorrect because the law does not require acknowledgment for valid service. Option C is incorrect as the burden does not lie on the platform to disprove receipt. Option D is incorrect because resending is not required if service was valid initially.",
+    "explanation": "Under Section 65(2), a notice served at the nodal officer\u2019s address provided by an electronic service provider is valid and deemed duly served, even if the platform later claims non-receipt. This makes option A correct. Option B is incorrect because the law does not require acknowledgment for valid service. Option C is incorrect as the burden does not lie on the platform to disprove receipt. Option D is incorrect because resending is not required if service was valid initially.",
     "type": "scenario",
     "difficulty": "easy",
     "source": "consumer_protection_act_2019.md"
@@ -2465,7 +2465,7 @@
       "A": "The notice is deemed duly served if the postal article was properly addressed and returned with refusal endorsement.",
       "B": "The notice is not valid as the manufacturer explicitly refused to accept it.",
       "C": "The notice can only be valid if the manufacturer signs an acknowledgment of receipt.",
-      "D": "The notice must be re-sent personally to the manufacturer’s registered office address."
+      "D": "The notice must be re-sent personally to the manufacturer\u2019s registered office address."
     },
     "correct_answer": "A",
     "explanation": "Under Section 65(3), if a notice is returned with an endorsement of refusal to accept, the commission shall declare it duly served. Option A aligns with this provision. Option B is incorrect because refusal does not invalidate service under the Act. Option C is wrong as acknowledgment is not mandatory if refusal is proven. Option D is incorrect as personal service is not required under the Act.",
@@ -2574,7 +2574,7 @@
   {
     "question": "A consumer files a complaint with the District Commission 3 months after the limitation period has expired. The consumer claims they were hospitalized due to a serious illness, which prevented them from filing the complaint earlier. What is the most likely outcome?",
     "options": {
-      "A": "The District Commission may condone the delay if it finds the consumer’s illness a sufficient cause and records its reasons.",
+      "A": "The District Commission may condone the delay if it finds the consumer\u2019s illness a sufficient cause and records its reasons.",
       "B": "The District Commission must dismiss the complaint as the limitation period is strictly non-extendable.",
       "C": "The District Commission will automatically extend the limitation period by 3 months without any conditions.",
       "D": "The District Commission can only condone delays up to 2 months, so the complaint will be rejected."
@@ -2776,7 +2776,7 @@
       "D": "From the order of the District Commission to the State Commission"
     },
     "correct_answer": "A",
-    "explanation": "Option A is incorrect because Section 73 allows appeals only to the State Commission, National Commission, or Supreme Court—not to the High Court. Options B, C, and D are explicitly mentioned as valid appeal routes under Section 73 (sub-sections 1a, 1b, and 1c).",
+    "explanation": "Option A is incorrect because Section 73 allows appeals only to the State Commission, National Commission, or Supreme Court\u2014not to the High Court. Options B, C, and D are explicitly mentioned as valid appeal routes under Section 73 (sub-sections 1a, 1b, and 1c).",
     "type": "factual",
     "difficulty": "easy",
     "source": "consumer_protection_act_2019.md"
@@ -2902,7 +2902,7 @@
       "D": "The cancellation can be contested only if the mediator proves the non-disclosure was due to oversight, as regulations specify strict liability."
     },
     "correct_answer": "A",
-    "explanation": "Section 75 empowers regulations to specify grounds for removal, including non-disclosure of material facts. The context does not require proving intent, making cancellation absolute for such violations. This makes option A correct. Option B is incorrect as intent is not a factor under the given provisions. Option C is incorrect because materiality of the fact is not the issue—non-disclosure itself is grounds for cancellation. Option D is incorrect because the regulations do not differentiate between types of non-disclosure as a defense.",
+    "explanation": "Section 75 empowers regulations to specify grounds for removal, including non-disclosure of material facts. The context does not require proving intent, making cancellation absolute for such violations. This makes option A correct. Option B is incorrect as intent is not a factor under the given provisions. Option C is incorrect because materiality of the fact is not the issue\u2014non-disclosure itself is grounds for cancellation. Option D is incorrect because the regulations do not differentiate between types of non-disclosure as a defense.",
     "type": "scenario",
     "difficulty": "hard",
     "source": "consumer_protection_act_2019.md"
@@ -2997,7 +2997,7 @@
       "A": "No, the Commission must consider information from any source but must still hear the mediator before deciding to replace them.",
       "B": "Yes, anonymous tips are sufficient grounds for immediate replacement under Section 78.",
       "C": "No, the Commission can only replace the mediator if the tip is supported by written evidence from the parties involved.",
-      "D": "Yes, the Commission must replace the mediator if any third party raises concerns, regardless of the mediator’s response."
+      "D": "Yes, the Commission must replace the mediator if any third party raises concerns, regardless of the mediator\u2019s response."
     },
     "correct_answer": "A",
     "explanation": "Section 78 states the Commission may replace a mediator 'on the information received from any other person including parties to the complaint and after hearing the mediator.' Thus, while the tip may be considered, the mediator must be heard before a decision is made. Option A correctly reflects this requirement. Options B and D incorrectly suggest the tip alone or third-party concerns alone suffice. Option C introduces an unwarranted requirement for written evidence from parties, which is not specified in the section.",
@@ -3014,7 +3014,7 @@
       "D": "The mediator only if both parties mutually agree."
     },
     "correct_answer": "A",
-    "explanation": "Section 78 states that the mediator *or* the Commission (District/State/National) can replace a mediator after considering information from any source, including parties, and after hearing the mediator. Option A correctly captures this. Option B is incorrect because the complainant or opposite party cannot unilaterally replace the mediator. Option C is wrong as the Commission has the power to intervene. Option D is incorrect because the mediator’s replacement does not require mutual agreement of the parties.",
+    "explanation": "Section 78 states that the mediator *or* the Commission (District/State/National) can replace a mediator after considering information from any source, including parties, and after hearing the mediator. Option A correctly captures this. Option B is incorrect because the complainant or opposite party cannot unilaterally replace the mediator. Option C is wrong as the Commission has the power to intervene. Option D is incorrect because the mediator\u2019s replacement does not require mutual agreement of the parties.",
     "type": "authority",
     "difficulty": "easy",
     "source": "consumer_protection_act_2019.md"
@@ -3034,7 +3034,7 @@
     "source": "consumer_protection_act_2019.md"
   },
   {
-    "question": "Anita’s consumer dispute is referred for mediation by the District Commission. The mediator, after considering the circumstances of the dispute and principles of natural justice, suggests a settlement. However, one party refuses to accept it. What is the next appropriate step under Section 79?",
+    "question": "Anita\u2019s consumer dispute is referred for mediation by the District Commission. The mediator, after considering the circumstances of the dispute and principles of natural justice, suggests a settlement. However, one party refuses to accept it. What is the next appropriate step under Section 79?",
     "options": {
       "A": "The District Commission shall continue to hear all issues in the dispute.",
       "B": "The mediator shall impose a penalty on the refusing party.",
@@ -3048,7 +3048,7 @@
     "source": "consumer_protection_act_2019.md"
   },
   {
-    "question": "Under Section 79(3), the mediator must conduct mediation within a specified time and manner as per regulations. If no such regulations exist, what is the most reasonable interpretation of the mediator’s obligation?",
+    "question": "Under Section 79(3), the mediator must conduct mediation within a specified time and manner as per regulations. If no such regulations exist, what is the most reasonable interpretation of the mediator\u2019s obligation?",
     "options": {
       "A": "The mediator must conduct mediation in a fair and expeditious manner, guided by natural justice principles.",
       "B": "The mediator must delay mediation until formal regulations are issued by the National Commission.",
@@ -3056,7 +3056,7 @@
       "D": "The mediator must follow the general procedure laid down in the Code of Civil Procedure, 1908."
     },
     "correct_answer": "A",
-    "explanation": "Section 79(1) requires the mediator to be guided by natural justice principles and consider relevant factors, while Section 79(3) mandates conducting mediation within specified time and manner as per regulations. If regulations are absent, the mediator’s obligation defaults to acting fairly and promptly as per the overarching principles of natural justice, ensuring the mediation process remains effective. Option B is incorrect because delay is not justified. Option C is incorrect as the mediator’s duty persists. Option D is incorrect because no reference to external procedural laws is made.",
+    "explanation": "Section 79(1) requires the mediator to be guided by natural justice principles and consider relevant factors, while Section 79(3) mandates conducting mediation within specified time and manner as per regulations. If regulations are absent, the mediator\u2019s obligation defaults to acting fairly and promptly as per the overarching principles of natural justice, ensuring the mediation process remains effective. Option B is incorrect because delay is not justified. Option C is incorrect as the mediator\u2019s duty persists. Option D is incorrect because no reference to external procedural laws is made.",
     "type": "scenario",
     "difficulty": "hard",
     "source": "consumer_protection_act_2019.md"
@@ -3305,7 +3305,7 @@
       "A": "Yes, because the reagent lacked adequate handling instructions despite being hazardous.",
       "B": "No, because the employer purchased the reagent for workplace use and the manufacturer provided warnings to the employer.",
       "C": "Yes, unless the reagent was legally meant to be used only by experts and warnings were given to them.",
-      "D": "No, because Mira’s injuries were due to her improper handling of the reagent."
+      "D": "No, because Mira\u2019s injuries were due to her improper handling of the reagent."
     },
     "correct_answer": "B",
     "explanation": "The correct answer is B because Section 87(2)(a) exempts the manufacturer from liability if the product was purchased by an employer for workplace use and warnings were given to the employer. The other options are incorrect as they misinterpret the conditions for liability or ignore the workplace exception.",
@@ -3386,13 +3386,13 @@
   {
     "question": "A company advertises a weight loss supplement claiming it can help users lose 10 kg in 7 days without any diet or exercise. The advertisement includes before-and-after photos that appear to be manipulated. Which provision under Section 89 is most likely violated?",
     "options": {
-      "A": "The advertisement falsely describes the product’s effectiveness or quality.",
+      "A": "The advertisement falsely describes the product\u2019s effectiveness or quality.",
       "B": "The advertisement does not disclose the price of the supplement clearly.",
       "C": "The advertisement fails to mention the side effects of the supplement.",
-      "D": "The advertisement oversells the product’s availability in stores."
+      "D": "The advertisement oversells the product\u2019s availability in stores."
     },
     "correct_answer": "A",
-    "explanation": "The correct answer is A because Section 89 punishes false or misleading advertisements, and the advertisement falsely claims unrealistic weight loss results and uses manipulated photos, which constitutes a false description under Section 28(28)(i). Option B is incorrect as the question does not involve price disclosure. Option C is incorrect because side effects disclosure is not covered under Section 89’s false advertisement provisions. Option D is incorrect as the focus is on the false claims, not availability.",
+    "explanation": "The correct answer is A because Section 89 punishes false or misleading advertisements, and the advertisement falsely claims unrealistic weight loss results and uses manipulated photos, which constitutes a false description under Section 28(28)(i). Option B is incorrect as the question does not involve price disclosure. Option C is incorrect because side effects disclosure is not covered under Section 89\u2019s false advertisement provisions. Option D is incorrect as the focus is on the false claims, not availability.",
     "type": "factual",
     "difficulty": "easy",
     "source": "consumer_protection_act_2019.md"
@@ -3406,7 +3406,7 @@
       "D": "Warning to stop misleading promotions but no financial penalty."
     },
     "correct_answer": "A",
-    "explanation": "Section 89 punishes false or misleading advertisements with up to ten lakh rupees fine or two years imprisonment, or both. The scenario fits this offense as Ravi promoted the product without disclosing his inducement. Compensation (B) is a civil remedy, not a penalty under Section 89. Mandatory recall (C) is not mentioned in Section 89. A warning alone (D) is insufficient under Section 89’s penalties.",
+    "explanation": "Section 89 punishes false or misleading advertisements with up to ten lakh rupees fine or two years imprisonment, or both. The scenario fits this offense as Ravi promoted the product without disclosing his inducement. Compensation (B) is a civil remedy, not a penalty under Section 89. Mandatory recall (C) is not mentioned in Section 89. A warning alone (D) is insufficient under Section 89\u2019s penalties.",
     "type": "scenario",
     "difficulty": "medium",
     "source": "consumer_protection_act_2019.md"
@@ -3428,13 +3428,13 @@
   {
     "question": "Rahul owns a small food processing unit. During a routine inspection, authorities found that some batches of his spice mix contained non-food grade fillers, which did not cause any immediate harm to consumers. The adulterant used did not cause any injury. What is the likely punishment under Section 90 of the Act?",
     "options": {
-      "A": "Imprisonment up to 6 months and fine up to ₹1 lakh",
-      "B": "Imprisonment up to 1 year and fine up to ₹3 lakh",
-      "C": "Imprisonment up to 7 years and fine up to ₹5 lakh",
-      "D": "Imprisonment not less than 7 years and fine not less than ₹10 lakh"
+      "A": "Imprisonment up to 6 months and fine up to \u20b91 lakh",
+      "B": "Imprisonment up to 1 year and fine up to \u20b93 lakh",
+      "C": "Imprisonment up to 7 years and fine up to \u20b95 lakh",
+      "D": "Imprisonment not less than 7 years and fine not less than \u20b910 lakh"
     },
     "correct_answer": "A",
-    "explanation": "Correct: Since the adulterant did not cause any injury, Section 90(a) applies, which prescribes imprisonment up to 6 months and a fine up to ₹1 lakh. Incorrect: B and C apply to cases causing injury (not grievous hurt or death). D applies only in cases resulting in the death of a consumer.",
+    "explanation": "Correct: Since the adulterant did not cause any injury, Section 90(a) applies, which prescribes imprisonment up to 6 months and a fine up to \u20b91 lakh. Incorrect: B and C apply to cases causing injury (not grievous hurt or death). D applies only in cases resulting in the death of a consumer.",
     "type": "scenario",
     "difficulty": "easy",
     "source": "consumer_protection_act_2019.md"
@@ -3470,13 +3470,13 @@
   {
     "question": "Arjun, a retailer, was found selling counterfeit branded water bottles labeled as 'authentic' to consumers. A consumer suffered mild food poisoning after consuming contaminated water from one of these bottles. What is the maximum punishment Arjun could face under Section 91?",
     "options": {
-      "A": "Up to 1 year imprisonment and fine up to ₹3 lakh",
-      "B": "Up to 7 years imprisonment and fine up to ₹5 lakh",
-      "C": "Minimum 7 years imprisonment and fine up to ₹10 lakh",
-      "D": "Up to 6 months imprisonment and fine up to ₹1 lakh"
+      "A": "Up to 1 year imprisonment and fine up to \u20b93 lakh",
+      "B": "Up to 7 years imprisonment and fine up to \u20b95 lakh",
+      "C": "Minimum 7 years imprisonment and fine up to \u20b910 lakh",
+      "D": "Up to 6 months imprisonment and fine up to \u20b91 lakh"
     },
     "correct_answer": "A",
-    "explanation": "The correct answer is A because the consumer suffered mild injury (not grievous hurt or death), so Section 91(a) applies, which prescribes imprisonment up to 1 year and a fine up to ₹3 lakh. Options B and C are incorrect as they apply to grievous hurt or death. Option D is incorrect as it relates to Section 90 for a different offense with no injury.",
+    "explanation": "The correct answer is A because the consumer suffered mild injury (not grievous hurt or death), so Section 91(a) applies, which prescribes imprisonment up to 1 year and a fine up to \u20b93 lakh. Options B and C are incorrect as they apply to grievous hurt or death. Option D is incorrect as it relates to Section 90 for a different offense with no injury.",
     "type": "scenario",
     "difficulty": "easy",
     "source": "consumer_protection_act_2019.md"
@@ -3734,15 +3734,15 @@
     "source": "consumer_protection_act_2019.md"
   },
   {
-    "question": "A consumer files a complaint with the District Commission for goods worth ₹50,000. The District Commission rejects the complaint on the grounds that it lacks jurisdiction. The Central Government, through rules under Section 101, may specify which values of goods fall under the District Commission's jurisdiction. Which provision of Section 101 is relevant for determining this jurisdiction?",
+    "question": "A consumer files a complaint with the District Commission for goods worth \u20b950,000. The District Commission rejects the complaint on the grounds that it lacks jurisdiction. The Central Government, through rules under Section 101, may specify which values of goods fall under the District Commission's jurisdiction. Which provision of Section 101 is relevant for determining this jurisdiction?",
     "options": {
-      "A": "The Central Government may prescribe a value other than ₹1 crore for District Commission jurisdiction.",
-      "B": "The Central Government may prescribe a value other than ₹10 crore for State Commission jurisdiction.",
+      "A": "The Central Government may prescribe a value other than \u20b91 crore for District Commission jurisdiction.",
+      "B": "The Central Government may prescribe a value other than \u20b910 crore for State Commission jurisdiction.",
       "C": "The Central Government may directly increase the pecuniary jurisdiction of all consumer commissions.",
       "D": "The State Government may prescribe values for District Commission jurisdiction under Section 101."
     },
     "correct_answer": "A",
-    "explanation": "Correct: Option A refers to the proviso in Section 34(1) of the Consumer Protection Act, which empowers the Central Government to prescribe a value other than ₹1 crore for District Commission jurisdiction. This matches the question’s context of the Central Government specifying jurisdiction values.\n\nIncorrect: Option B is wrong because it refers to the State Commission’s jurisdiction (₹10 crore), not the District Commission.\n\nIncorrect: Option C is incorrect as the Central Government does not directly increase jurisdiction but prescribes specific values via rules.\n\nIncorrect: Option D is wrong because the Central Government, not the State Government, has the power under Section 101 to prescribe such values.",
+    "explanation": "Correct: Option A refers to the proviso in Section 34(1) of the Consumer Protection Act, which empowers the Central Government to prescribe a value other than \u20b91 crore for District Commission jurisdiction. This matches the question\u2019s context of the Central Government specifying jurisdiction values.\n\nIncorrect: Option B is wrong because it refers to the State Commission\u2019s jurisdiction (\u20b910 crore), not the District Commission.\n\nIncorrect: Option C is incorrect as the Central Government does not directly increase jurisdiction but prescribes specific values via rules.\n\nIncorrect: Option D is wrong because the Central Government, not the State Government, has the power under Section 101 to prescribe such values.",
     "type": "scenario",
     "difficulty": "medium",
     "source": "consumer_protection_act_2019.md"
@@ -3928,1251 +3928,5 @@
     "type": "scenario",
     "difficulty": "medium",
     "source": "consumer_protection_act_2019.md"
-  },
-  {
-    "question": "Priya files a complaint under the Protection of Women from Domestic Violence Act, 2005, alleging emotional abuse by her husband. The husband argues that the Act does not cover emotional abuse. What is the correct legal position?",
-    "options": {
-      "A": "Emotional abuse is explicitly included under 'verbal and emotional abuse' as per the Act.",
-      "B": "The Act only covers physical abuse, so emotional abuse cannot be included.",
-      "C": "Emotional abuse is covered only if it results in physical harm to the aggrieved person.",
-      "D": "The Act does not define emotional abuse, leaving it to judicial discretion for inclusion."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A. The Act explicitly includes 'verbal and emotional abuse' under Section 3(i)(a), which covers insults, ridicule, humiliation, and threats. Option B is incorrect as the Act covers more than just physical abuse. Option C is incorrect because emotional abuse is included regardless of physical harm. Option D is incorrect as the Act clearly defines emotional abuse under the explanation clauses.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "A woman seeks a protection order under the Act against her live-in partner. The partner contends that the Act does not apply to live-in relationships. Which provision of the Act supports her claim?",
-    "options": {
-      "A": "“domestic relationship” includes a relationship in the nature of marriage.",
-      "B": "“respondent” is defined as any adult male person in a domestic relationship.",
-      "C": "“aggrieved person” means any woman in a domestic relationship.",
-      "D": "“shared household” includes a household where the aggrieved person has lived in a domestic relationship."
-    },
-    "correct_answer": "A",
-    "explanation": "Option A is correct because the definition of 'domestic relationship' in Section 2(f) explicitly includes 'a relationship in the nature of marriage,' which covers live-in relationships. Option B is incorrect as it does not specifically address live-in relationships. Option C is insufficient as it only defines the aggrieved person without clarifying the scope of the relationship. Option D is irrelevant to the question as it pertains to shared households, not the applicability of the Act to live-in relationships.",
-    "type": "scenario",
-    "difficulty": "hard",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Under the Protection of Women from Domestic Violence Act, 2005, who is empowered to grant relief to the aggrieved person?",
-    "options": {
-      "A": "The Magistrate",
-      "B": "The Protection Officer",
-      "C": "The service provider",
-      "D": "The police officer"
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is 'The Magistrate' as per Section 12(1) and Section 23(2), which state that the Magistrate has the authority to grant relief and interim/ex parte orders to the aggrieved person. The Protection Officer and service provider assist in reporting but do not grant relief, and the police officer is not empowered under these sections to grant relief.",
-    "type": "authority",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "What is the definition of 'shared household' under the Protection of Women from Domestic Violence Act, 2005?",
-    "options": {
-      "A": "A household where the aggrieved person lives or has lived in a domestic relationship with the respondent.",
-      "B": "A household jointly owned by the aggrieved person and the respondent regardless of their relationship.",
-      "C": "A household rented by the respondent where the aggrieved person temporarily stays with his consent.",
-      "D": "A household inherited by the respondent but shared with his relatives and guests."
-    },
-    "correct_answer": "A",
-    "explanation": "Option A is correct as it aligns with the Act's definition of 'shared household' in Section 2(s), which includes any household where the aggrieved person lives or has lived with the respondent in a domestic relationship. Options B, C, and D are incorrect because they introduce conditions not required by the Act (joint ownership, temporary stay, or inheritance-based sharing).",
-    "type": "definition",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Priya and her husband Arjun live together in their shared household. After an altercation, Arjun forcibly takes their child (aged 12) to his parents' house and refuses to return the child to Priya. Priya files a petition under the Domestic Violence Act, 2005. What is the most appropriate relief Priya can seek regarding her child?",
-    "options": {
-      "A": "A custody order under Section 21 to determine who the child should live with.",
-      "B": "A protection order under Section 18 to prevent Arjun from removing the child.",
-      "C": "A monetary relief order under Section 22 to cover expenses for the child's return.",
-      "D": "A residence order under Section 19 to allow Priya to live in the shared household with the child."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A because Section 21 explicitly provides for a 'custody order' to determine the custody of the child. While protection orders (B) and residence orders (D) address domestic violence and shared household rights respectively, they do not specifically address custody of the child. Monetary relief (C) is for compensating losses but does not resolve custody issues. The scenario involves forcible removal of the child, making custody the most appropriate relief under the Act.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Meera, an aggrieved person, seeks a protection order against her live-in partner Rahul. During the hearing, Meera alleges that Rahul has threatened to harm her if she continues to live in the shared household. The Magistrate issues an ex parte protection order. Which section of the Act empowers the Magistrate to grant this relief?",
-    "options": {
-      "A": "Section 18",
-      "B": "Section 19",
-      "C": "Section 20",
-      "D": "Section 22"
-    },
-    "correct_answer": "A",
-    "explanation": "Section 18 defines protection orders as reliefs granted by the Magistrate to prevent domestic violence. The Magistrate issued an ex parte protection order, which aligns with the powers under Section 18. Section 19 relates to residence orders, Section 20 to monetary relief, and Section 22 to compensation orders, none of which match the scenario.",
-    "type": "factual",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Anjali is in a domestic relationship with her partner, Vivek. She files a complaint alleging physical abuse and seeks compensation for medical expenses incurred due to the injuries. Vivek argues that the relationship was not in the nature of marriage and thus the Act does not apply. Which provision of the Act clarifies the definition of 'domestic relationship' to address such claims?",
-    "options": {
-      "A": "A domestic relationship includes persons living together as a shared household, whether related by marriage or in a relationship akin to marriage.",
-      "B": "The Act applies only to legally married couples and excludes live-in partners.",
-      "C": "Domestic relationships are limited to persons related by blood or adoption.",
-      "D": "A domestic relationship requires the parties to be currently living together in the same household."
-    },
-    "correct_answer": "A",
-    "explanation": "Option A is correct because section 2(f) defines 'domestic relationship' to include persons living together in a shared household, whether related by marriage or through a relationship in the nature of marriage. Option B is incorrect as it excludes live-in partners, which the Act includes. Option C is incorrect as it excludes relationships other than blood or adoption, which the Act does not require. Option D is incorrect as the definition includes those who have lived together at any point, not just currently.",
-    "type": "definition",
-    "difficulty": "hard",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Sita, an aggrieved person, approaches a Protection Officer to file a domestic incident report. The Protection Officer refuses to register her complaint, stating that the act of domestic violence occurred more than a year ago. Which provision of the Act mandates the Protection Officer's responsibility to register the complaint regardless of the time elapsed?",
-    "options": {
-      "A": "Section 9(b) requires the Protection Officer to make a domestic incident report upon receipt of a complaint, without any time limitations.",
-      "B": "Section 9(a) empowers the Protection Officer to assist the Magistrate, but does not mandate complaint registration.",
-      "C": "Section 9(h) ensures monetary relief compliance but does not directly address complaint registration timelines.",
-      "D": "Section 10(a) allows service providers to record domestic incident reports but does not apply to Protection Officers."
-    },
-    "correct_answer": "A",
-    "explanation": "Section 9(b) explicitly states that the Protection Officer must make a domestic incident report upon receipt of a complaint, with no mention of time constraints, making this the correct provision. Option B is incorrect because it refers to assisting the Magistrate, not complaint registration. Option C is unrelated to complaint registration. Option D refers to service providers, not Protection Officers.",
-    "type": "authority",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Meera's husband, Arjun, repeatedly calls her names like 'barren' and 'worthless' in front of their family to humiliate her for not bearing a male child. Under which category of domestic violence does this conduct fall?",
-    "options": {
-      "A": "Verbal and emotional abuse due to insults and humiliation related to not having a male child",
-      "B": "Economic abuse from denying financial resources for household needs",
-      "C": "Physical abuse from causing bodily pain or harm",
-      "D": "Sexual abuse from violating dignity through degrading conduct"
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A because the context describes verbal and emotional abuse, specifically insults and ridicule related to not having a male child, which is explicitly mentioned under 'verbal and emotional abuse' in the provided context. Option B is incorrect because no economic deprivation is mentioned. Option C is incorrect as there is no physical harm or assault. Option D is incorrect because the conduct does not involve sexual nature or violation of dignity in a sexual context.",
-    "type": "factual",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Priya's in-laws have been selling her gold jewelry without her knowledge and restricting her access to the bank locker where her savings are stored. Which form of abuse is most clearly depicted in this scenario?",
-    "options": {
-      "A": "Economic abuse by controlling and misusing shared financial assets and property",
-      "B": "Physical abuse by causing bodily harm or pain to Priya",
-      "C": "Verbal abuse by insulting or humiliating Priya with hurtful words",
-      "D": "Sexual abuse by degrading Priya through unwanted sexual conduct"
-    },
-    "correct_answer": "A",
-    "explanation": "The scenario describes Priya's in-laws selling her jewelry and restricting her access to the bank locker, which aligns with 'economic abuse' under Explanation IV of Section 3. This includes disposal of assets like jewelry and prohibiting access to financial resources. The other options (B, C, D) are incorrect as there is no mention of physical harm, verbal insults, or sexual conduct in the scenario.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Kavita's husband threatens to harm their 5-year-old daughter if Kavita does not comply with his demand to transfer her ancestral land to him. Which provision of domestic violence does this scenario most directly invoke?",
-    "options": {
-      "A": "Harms or injures the aggrieved person (Kavita) by threatening her child to coerce her into meeting an unlawful demand for property.",
-      "B": "Causes physical abuse to the aggrieved person by making threats to her child.",
-      "C": "Engages in economic abuse by forcing her to transfer ancestral land against her will.",
-      "D": "Harasses the aggrieved person by restricting her access to her ancestral property."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A because the scenario directly invokes clause (b) of Section 3, which covers threats or harm to the aggrieved person or someone related to her (like her child) with the intent to coerce her into meeting an unlawful demand for property (ancestral land). Incorrect options B and C are partially correct but do not fully capture the coercion aspect tied to the threat against the child. Option D is incorrect because it focuses on restriction of access rather than the coercive threat involving harm to a related person.",
-    "type": "scenario",
-    "difficulty": "hard",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Priya, a victim of domestic violence, was not informed by the police officer about her right to apply for a protection order under this Act. What duty of the police officer under Section 5 has been violated?",
-    "options": {
-      "A": "Inform the victim of her right to make an application for a protection order",
-      "B": "Provide immediate monetary compensation to the victim",
-      "C": "Ensure the victim is arrested for false reporting",
-      "D": "Conduct a medical examination of the victim"
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A because Section 5(a) explicitly states that a police officer must inform the victim of her right to make an application for a protection order. Option B is incorrect as monetary relief is a separate provision under the Act. Option C is wrong as the Act does not impose such a duty on police officers. Option D is incorrect as medical examination is not a duty of the police officer under Section 5.",
-    "type": "scenario",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "A domestic violence complaint is filed by Anjali, a married woman, against her husband. The police officer fails to inform her about the availability of services of Protection Officers as mandated under Section 5. What remedy would be most appropriate for Anjali?",
-    "options": {
-      "A": "File a complaint against the police officer for not fulfilling their mandatory duty under the Act.",
-      "B": "Approach the Magistrate to direct the police officer to inform Anjali about the services of Protection Officers.",
-      "C": "Seek legal recourse under the Legal Services Authorities Act, 1987 for free legal aid.",
-      "D": "Ignore the omission as it does not affect the validity of her complaint."
-    },
-    "correct_answer": "B",
-    "explanation": "The correct answer is B because Section 5 mandates police officers to inform victims about the availability of Protection Officer services. If they fail to do so, the Magistrate can direct the police officer to comply, as the Protection Officer is under the Magistrate's supervision per Section 9(2). Option A is incorrect because the remedy lies with the Magistrate, not a separate complaint. Option C is partially correct but does not address the specific duty breach. Option D is wrong as the omission is a legal violation requiring redress.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Which of the following is NOT a duty of a police officer under Section 5 of this Act?",
-    "options": {
-      "A": "To assist the Magistrate in the discharge of his functions under this Act.",
-      "B": "To inform the aggrieved person of her right to make an application for a protection order.",
-      "C": "To inform the aggrieved person of the availability of services of service providers.",
-      "D": "To inform the aggrieved person of her right to free legal services under the Legal Services Authorities Act, 1987."
-    },
-    "correct_answer": "A",
-    "explanation": "The duty to assist the Magistrate is assigned to the Protection Officer under Section 9(a), not to the police officer under Section 5. The other options (B, C, D) are explicitly listed as duties of the police officer in Section 5.",
-    "type": "factual",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Under Section 5, which authority is responsible for ensuring that a victim is informed about their right to free legal services under the Legal Services Authorities Act, 1987?",
-    "options": {
-      "A": "The police officer in charge.",
-      "B": "The Protection Officer.",
-      "C": "The Magistrate.",
-      "D": "The service provider."
-    },
-    "correct_answer": "B",
-    "explanation": "Section 5(d) explicitly states that the police officer must inform the victim of their right to free legal services under the Legal Services Authorities Act, 1987. However, Section 9(d) further clarifies that the Protection Officer is tasked with ensuring this right and providing the necessary forms. Since the Protection Officer's duty under Section 9 is more specific and directly linked to legal aid, they are the correct authority. Option A is partially correct but less specific. Options C and D are incorrect as they are not explicitly mentioned in relation to this duty in Section 5.",
-    "type": "authority",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Anita is appointed as a Protection Officer under Section 8 of the Act. She is the first female officer in her district, but some male colleagues argue her appointment is invalid because the section 'as far as possible' suggests preference rather than requirement. Which authority would most likely uphold her appointment?",
-    "options": {
-      "A": "The High Court, as it interprets 'as far as possible' as a directive, not a strict mandate.",
-      "B": "The District Magistrate, since the Act allows flexible appointments under Section 8.",
-      "C": "The Central Authority, because it has the power to prescribe qualifications and experience.",
-      "D": "The State Government, as it is responsible for implementing the Act's provisions."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A. Section 8 states Protection Officers 'shall as far as possible be women,' which courts have interpreted as a directive rather than a strict requirement. The High Court would likely uphold Anita's appointment, as the phrase does not invalidate appointments that do not strictly follow the preference. Option B is incorrect because the District Magistrate does not have the authority to interpret such provisions. Option C is incorrect because the Central Authority's role is more about rule-making than validating appointments. Option D is incorrect because while the State Government implements the Act, it does not have the jurisdiction to rule on the validity of appointments.",
-    "type": "authority",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Meera, a Protection Officer, files a complaint alleging that the state government has not prescribed the terms and conditions of service for her and other officers as required by Section 8(3). The government argues that the section uses the phrase 'as may be prescribed,' implying discretion. What is the most legally sound response to this argument?",
-    "options": {
-      "A": "Prescribing terms and conditions is mandatory, not discretionary, as the law requires it.",
-      "B": "The phrase 'as may be prescribed' grants absolute discretion to the government to decide.",
-      "C": "The government can delay or refuse to prescribe terms without consequences.",
-      "D": "Terms and conditions may be prescribed later, making Meera's complaint premature."
-    },
-    "correct_answer": "A",
-    "explanation": "Section 8(3) mandates that terms and conditions 'shall be prescribed,' implying an obligation, not discretion. Thus, the government's argument fails. Option A correctly reflects this obligation. Options B, C, and D incorrectly suggest discretion, delay, or permissibility, which contradicts the mandatory nature of the provision.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Under Section 8(2), Protection Officers 'shall as far as possible be women.' A state appoints only male officers due to a lack of qualified female candidates. Which legal principle best challenges this appointment?",
-    "options": {
-      "A": "The appointment violates the mandatory statutory preference for female officers.",
-      "B": "The state's lack of qualified candidates justifies the deviation from the statutory requirement.",
-      "C": "The appointment is permissible as the state must prioritize merit over gender.",
-      "D": "The state can override the statutory preference if no women apply for the position."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A because Section 8(2) explicitly states that Protection Officers 'shall as far as possible be women,' making it a mandatory statutory requirement rather than a preference. While the state cites a lack of qualified female candidates (B, D) or merit-based selection (C), these do not override the clear statutory mandate. The principle that statutory requirements must be followed unless explicitly excused applies here.",
-    "type": "factual",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Priya visits a Protection Officer after experiencing domestic violence and requests assistance in filing a complaint. The Protection Officer refuses to provide the prescribed form without payment and does not forward the complaint to the police station. What is the most appropriate legal action against the Protection Officer?",
-    "options": {
-      "A": "File a complaint with the Magistrate for non-compliance with duties under the Act.",
-      "B": "Initiate a civil suit for damages against the Protection Officer.",
-      "C": "Report the matter to the police for criminal charges of extortion.",
-      "D": "Request the Legal Services Authority to penalize the Protection Officer."
-    },
-    "correct_answer": "A",
-    "explanation": "The Protection Officer is mandated under Section 9(d) to make available the prescribed form free of cost and under Section 9(b) to forward the complaint to the police station. Non-compliance with these duties can be reported to the Magistrate for action. Option B is incorrect as the Act provides for administrative or disciplinary action, not civil suits. Option C is incorrect because refusal to provide a form without payment does not amount to extortion. Option D is incorrect because the Legal Services Authority does not penalize officers; it provides legal aid.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Anita, a Protection Officer, receives a complaint of domestic violence and lodges the aggrieved person in a shelter home. However, she fails to forward a copy of the shelter home report to the police station and the Magistrate as required. Which legal provision is most relevant to this failure?",
-    "options": {
-      "A": "Section 9(f) of the Protection of Women from Domestic Violence Act, 2005",
-      "B": "Section 9(b) of the Protection of Women from Domestic Violence Act, 2005",
-      "C": "Section 10(3) of the Protection of Women from Domestic Violence Act, 2005",
-      "D": "Section 19(5) of the Protection of Women from Domestic Violence Act, 2005"
-    },
-    "correct_answer": "A",
-    "explanation": "The failure relates to not forwarding a copy of the shelter home report to the police station and the Magistrate, which is explicitly required under Section 9(f). Section 9(f) mandates that the Protection Officer must forward a copy of the report of lodging the aggrieved person in a shelter home to the police station and the Magistrate. Section 9(b) is about making a domestic incident report, not shelter home reports. Section 10(3) deals with legal immunity for service providers, not duties of Protection Officers. Section 19(5) relates to police assistance for protection orders, not shelter home reporting duties.",
-    "type": "scenario",
-    "difficulty": "hard",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Under Section 9(d), what is the primary duty of a Protection Officer regarding legal aid?",
-    "options": {
-      "A": "To ensure the aggrieved person is provided legal aid under the Legal Services Authorities Act, 1987.",
-      "B": "To arrange free legal aid directly to the aggrieved person from the Protection Officer’s office.",
-      "C": "To represent the aggrieved person in court as their legal counsel.",
-      "D": "To pay for legal aid services using funds allocated to the Protection Officer."
-    },
-    "correct_answer": "A",
-    "explanation": "Option A directly matches Section 9(d), which states the Protection Officer must ensure the aggrieved person is provided legal aid under the Legal Services Authorities Act, 1987. Option B is incorrect because the Protection Officer does not arrange legal aid directly but ensures access to it. Option C is incorrect as the Protection Officer does not act as legal counsel. Option D is incorrect because the Protection Officer does not fund legal aid services personally.",
-    "type": "factual",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Which authority has control and supervision over the Protection Officer as per Section 9(2)?",
-    "options": {
-      "A": "The Magistrate",
-      "B": "The police station in charge",
-      "C": "The service providers in the area",
-      "D": "The aggrieved person"
-    },
-    "correct_answer": "A",
-    "explanation": "Section 9(2) explicitly states that the Protection Officer shall be under the control and supervision of the Magistrate. The other options are incorrect as they are not mentioned as having supervisory authority over the Protection Officer.",
-    "type": "authority",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Meera is a social worker registered under Section 10(1). The aggrieved person, Riya, reports domestic violence and requests Meera to record the incident. Meera prepares the domestic incident report and forwards it to the Magistrate and Protection Officer. What is the legal validity of Meera's action?",
-    "options": {
-      "A": "Valid because Meera is a registered service provider with the power to record the incident and forward it.",
-      "B": "Invalid because only Protection Officers can record domestic incident reports.",
-      "C": "Valid only if the Magistrate had previously instructed Meera to record the report.",
-      "D": "Invalid unless the police station is also notified at the same time."
-    },
-    "correct_answer": "A",
-    "explanation": "Correct: Meera is a registered service provider under Section 10(1) and has the power under Section 10(2)(a) to record the domestic incident report and forward copies to the Magistrate and Protection Officer. This action is explicitly permitted by the Act.\n\nIncorrect options explained:\n- B: Incorrect because Section 10(2)(a) explicitly grants this power to registered service providers, not just Protection Officers.\n- C: Incorrect because no prior instruction from the Magistrate is required for Meera to act under this authority.\n- D: Incorrect because the Act does not require simultaneous notification to the police station by the service provider in this context; the Protection Officer handles police notification under Section 9(b).",
-    "type": "scenario",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Anita, a service provider under Section 10, arranges for an aggrieved woman to be medically examined and sends the report to the Protection Officer and police station. Later, the aggrieved woman alleges that the medical report was tampered with by Anita. Can Anita be held legally liable for this act?",
-    "options": {
-      "A": "No, since the act was done in good faith under the Act’s provisions, no suit lies against her.",
-      "B": "Yes, because medical reports are sensitive and must be handled with extreme care.",
-      "C": "Yes, unless she can prove the tampering was unintentional or by someone else.",
-      "D": "No, but only if she is not directly employed by the government or a public authority."
-    },
-    "correct_answer": "A",
-    "explanation": "Under Section 10(3), no legal proceeding shall lie against a service provider or its members for acts done in good faith while exercising powers under the Act. Since Anita acted under Section 10(2)(b), she is protected unless her actions were not in good faith, which is not indicated here.",
-    "type": "scenario",
-    "difficulty": "hard",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Which of the following actions is NOT a power granted to a service provider under Section 10(2) of the Act?",
-    "options": {
-      "A": "Initiate legal proceedings against the abuser on behalf of the aggrieved person.",
-      "B": "Record the domestic incident report and forward it to the Magistrate.",
-      "C": "Arrange medical examination for the aggrieved person and send the report to authorities.",
-      "D": "Provide shelter in a shelter home and report the lodging to the police."
-    },
-    "correct_answer": "A",
-    "explanation": "Under Section 10(2), service providers can record incident reports, arrange medical examinations, and provide shelter— but they are not granted the power to initiate legal proceedings. Option A is incorrect as it describes an action not listed in the powers of Section 10(2). Options B, C, and D are directly supported by clauses (a), (b), and (c) of Section 10(2).",
-    "type": "factual",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Under Section 10(3), what is the legal protection provided to service providers acting in good faith?",
-    "options": {
-      "A": "No suit, prosecution, or legal proceeding lies against them for actions done in good faith.",
-      "B": "They are exempt from all legal liabilities under the Act, even if acting negligently.",
-      "C": "They can only be held liable if the actions are proven to be intentionally wrongful.",
-      "D": "They must pay compensation for any unintended consequences of their actions."
-    },
-    "correct_answer": "A",
-    "explanation": "Section 10(3) explicitly states that no suit, prosecution, or legal proceeding shall lie against service providers or their members if they act in good faith under this Act. Option A directly matches this provision. Option B is incorrect because the protection only applies to good faith actions, not all liabilities. Option C is incorrect as the protection extends beyond intentional wrongdoing to good faith actions. Option D is incorrect because compensation is not required for unintended consequences under this section.",
-    "type": "definition",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "The State Government of Maharashtra is conducting a sensitization program on domestic violence issues for judicial officers. However, the training materials do not include recent amendments to the Act. What is the most appropriate action the judicial officers should take regarding the training?",
-    "options": {
-      "A": "Request updated training materials from the State Government and postpone further sessions until the amendments are included.",
-      "B": "Proceed with the training using the available materials and rely on personal knowledge of recent amendments.",
-      "C": "Continue the program but note the absence of amendments and research them independently after the sessions.",
-      "D": "Ignore the amendments since they are not included in the training materials and focus only on the provided content."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A. Section 11(b) mandates that government officers, including judicial officers, must receive periodic sensitization and awareness training on the issues addressed by the Act. If the training materials lack recent amendments, the officers must ensure they receive updated information to comply with their duties under the law. Option B is incorrect because relying solely on personal knowledge may not ensure accurate application of the law. Option C is incorrect as it does not address the need for updated training materials as required by the Act. Option D is incorrect because ignoring amendments would violate the duty to stay informed about the law.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "A public interest litigation is filed alleging that the Central Government has failed to comply with the provisions requiring periodic publicity of the Act through public media. Which authority is primarily responsible for ensuring compliance with this duty?",
-    "options": {
-      "A": "The Central Government, as it is duty-bound to ensure wide publicity of the Act’s provisions through public media.",
-      "B": "The National Commission, as it has the power to review and call for records of government compliance.",
-      "C": "The State Governments, as they are required to coordinate with the Central Government on publicity measures.",
-      "D": "The Central Consumer Protection Authority, as it oversees enforcement of consumer-related laws."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A because Section 11(a) explicitly states that it is the Central Government's duty to ensure wide publicity of the Act's provisions through public media. While other authorities may have related roles, the primary responsibility lies with the Central Government. Option B is incorrect because the National Commission's role (Section 58) is limited to consumer dispute jurisdiction and appeals. Option C is incorrect as State Governments are not primarily responsible for nationwide publicity. Option D is incorrect because the Central Consumer Protection Authority (Section 0) deals with consumer protection enforcement, not publicity duties.",
-    "type": "authority",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "A domestic violence survivor approaches a local NGO requesting assistance in accessing legal aid services. The NGO is unaware of the protocols set by the Ministry for such cases. Which government department is primarily responsible for preparing and implementing these protocols?",
-    "options": {
-      "A": "Ministry or Department of Law or Justice",
-      "B": "Ministry or Department of Women and Child Development",
-      "C": "Ministry or Department of Home Affairs",
-      "D": "Ministry or Department of Health and Family Welfare"
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A (Ministry or Department of Law or Justice) because Section 11(d) of the Act explicitly states that protocols for the various Ministries concerned with the delivery of services to women under this Act, including the courts, are prepared and put in place. Since legal aid services fall under the jurisdiction of the judiciary and law-related services, this responsibility primarily lies with the Ministry or Department of Law or Justice. Option B is plausible as it deals with women-related issues but does not specifically handle legal protocols. Option C (Home Affairs) focuses more on law and order rather than legal service protocols. Option D (Health and Family Welfare) is unrelated to the preparation of legal protocols.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Priya files an application under Section 12 for relief against her abusive partner. The Magistrate receives a domestic incident report from the Protection Officer. What step must the Magistrate take before passing any order on Priya's application?",
-    "options": {
-      "A": "Consider the domestic incident report received from the Protection Officer.",
-      "B": "Immediately issue a protection order without further delay.",
-      "C": "Dismiss the application if the domestic incident report is incomplete.",
-      "D": "Refer the case to the Protection Officer for further investigation."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A because Section 12 explicitly states that the Magistrate must take into consideration any domestic incident report received from the Protection Officer or service provider before passing any order on the application. Option B is incorrect because the Magistrate cannot issue an order without first considering the report. Option C is incorrect because the Magistrate is not required to dismiss the application if the report is incomplete; the report is mandatory but does not automatically lead to dismissal. Option D is incorrect because the Magistrate does not refer the case back to the Protection Officer for further investigation before passing an order.",
-    "type": "factual",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Arjun seeks compensation from his brother under the Domestic Violence Act for mental and physical abuse. The Magistrate orders Arjun to receive Rs. 10,000 as compensation. Later, Arjun wins a separate civil suit and is awarded Rs. 15,000 as damages for the same acts of domestic violence. What is the legal outcome regarding the amounts?",
-    "options": {
-      "A": "The Rs. 15,000 from the civil suit must be adjusted against the Rs. 10,000 already awarded, leaving Arjun with no further entitlement under the Domestic Violence Act.",
-      "B": "The Rs. 10,000 compensation under the Domestic Violence Act is separate and in addition to the Rs. 15,000 from the civil suit, so Arjun can retain both amounts.",
-      "C": "The Magistrate can review the Rs. 10,000 compensation order and reduce it by the Rs. 15,000 awarded in the civil suit, resulting in no payment to Arjun.",
-      "D": "The Rs. 15,000 from the civil suit will be treated as part of the Domestic Violence Act compensation, and Arjun must return the Rs. 10,000 already received."
-    },
-    "correct_answer": "B",
-    "explanation": "The compensation under the Domestic Violence Act (Rs. 10,000) is separate from damages awarded in a civil suit (Rs. 15,000) for the same acts, as they serve different legal purposes. The Act does not require adjustment or repayment of one against the other. Option A is incorrect because the amounts are not mutually adjustable. Option C is incorrect as the Magistrate cannot unilaterally reduce the compensation after it is awarded. Option D is incorrect because there is no provision for returning compensation already received.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Meera applies for relief under Section 12 against her husband for emotional abuse. The Magistrate fixes the first hearing date within three days of receiving the application. Is the Magistrate's action legally compliant?",
-    "options": {
-      "A": "Yes, the Magistrate must fix the first hearing within three days of receiving the application under Section 12(4).",
-      "B": "No, the Magistrate can delay the first hearing beyond three days if the case is complex.",
-      "C": "Yes, but only if the domestic incident report is already submitted to the Magistrate.",
-      "D": "No, the Magistrate must first consult the Protection Officer before fixing the hearing date."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A because Section 12(4) states that the Magistrate shall ordinarily fix the first hearing date within three days from the date of receipt of the application. Option B is incorrect because the section does not allow discretion to delay beyond three days. Option C is incorrect as the domestic incident report is considered before passing the order, not necessarily before fixing the hearing date. Option D is incorrect because the Magistrate is not required to consult the Protection Officer before fixing the hearing date.",
-    "type": "scenario",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Under Section 12(3), what is the format requirement for an application filed under sub-section (1)?",
-    "options": {
-      "A": "Every application must be in a prescribed form or as close to it as possible.",
-      "B": "The application must include detailed evidence of domestic violence.",
-      "C": "The application must be filed within 60 days of the incident.",
-      "D": "The application must be accompanied by a domestic incident report."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A because Section 12(3) states that every application under sub-section (1) shall be in such form and contain such particulars as may be prescribed or as nearly as possible thereto. Option B is incorrect as the law does not mandate detailed evidence at the application stage. Option C is incorrect because the 60-day timeline refers to disposal of the application, not its filing. Option D is incorrect because the domestic incident report is considered by the Magistrate before passing an order, not as part of the application format.",
-    "type": "definition",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Anita, a domestic worker, files a complaint under the Act. The Protection Officer serves a notice to the respondent but does not submit a declaration of service. The respondent claims they never received the notice. What is the legal consequence?",
-    "options": {
-      "A": "The notice is presumed served unless the respondent proves otherwise.",
-      "B": "The complaint will be dismissed because the notice was not properly served.",
-      "C": "The Magistrate must issue a fresh notice to ensure compliance.",
-      "D": "The Protection Officer must personally deliver the notice again."
-    },
-    "correct_answer": "A",
-    "explanation": "Under Section 13(2), a declaration of service by the Protection Officer is prima facie proof of service unless the respondent rebuts it. Thus, the notice is presumed served unless proven otherwise. Option B is incorrect because dismissal is not automatic. Options C and D are unnecessary steps since the presumption of service already applies.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "The Magistrate directs the Protection Officer to serve a notice on the respondent and also on the respondent's employer. The Protection Officer only serves the notice on the respondent and submits a declaration stating service was made on both. What is the validity of the declaration?",
-    "options": {
-      "A": "The declaration is valid as it serves as proof unless the contrary is proved.",
-      "B": "The declaration is invalid because the Protection Officer failed to serve the notice on the employer as directed.",
-      "C": "The declaration is valid only if the Magistrate accepts the Protection Officer's affidavit without questioning.",
-      "D": "The declaration is invalid as the Protection Officer cannot serve notices on third parties without explicit consent."
-    },
-    "correct_answer": "A",
-    "explanation": "According to Section 13(2), the declaration of service by the Protection Officer is proof that the notice was served unless the contrary is proved. The context does not require the notice to be physically served on the employer, only that the declaration is rebuttable. Thus, the declaration stands as valid unless challenged. Option B is incorrect because the Act does not mandate service on third parties like employers. Option C is incorrect as the Magistrate does not need to accept the declaration without questioning. Option D is incorrect because the Protection Officer is explicitly authorized to serve notices on third parties as directed by the Magistrate.",
-    "type": "scenario",
-    "difficulty": "hard",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Under Section 13(2), what is the evidentiary value of a declaration of service made by the Protection Officer?",
-    "options": {
-      "A": "It shall be the proof that the notice was served unless the contrary is proved.",
-      "B": "It shall be presumed that the notice was served unless the respondent proves otherwise.",
-      "C": "It shall be the sole evidence of service and cannot be challenged.",
-      "D": "It shall be considered valid only if countersigned by the Magistrate."
-    },
-    "correct_answer": "A",
-    "explanation": "Section 13(2) states that a declaration of service by the Protection Officer is the proof that notice was served unless the contrary is proved, making option A correct. Option B is incorrect as the burden is on the party challenging the service. Option C is wrong because the declaration can be challenged. Option D is incorrect as no countersignature is required.",
-    "type": "factual",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Priya has been directed by the Magistrate to undergo counselling under Section 14. The Magistrate's next hearing date is set for 3 months from now. What action should the Magistrate take to comply with the legal provisions?",
-    "options": {
-      "A": "Fix the next date of hearing within a period not exceeding two months.",
-      "B": "Fix the next date of hearing beyond three months to allow counselling to complete.",
-      "C": "Dispose of the application within sixty days from the first hearing.",
-      "D": "Ensure the first date of hearing is not beyond three days from the date of receipt."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A because Section 14(2) mandates that the Magistrate must fix the next date of hearing within a period not exceeding two months after issuing a counselling direction. Option B is incorrect as it suggests a hearing beyond the legal limit. Option C is unrelated to the counselling provision under Section 14. Option D refers to Section 12(4), which applies to the first hearing, not subsequent hearings after counselling.",
-    "type": "authority",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Rahul is required to attend counselling sessions as per the Magistrate's order under Section 14. The Magistrate initially sets the next hearing date for 1.5 months later but later postpones it to 2.5 months due to unforeseen circumstances. Is the Magistrate's action legally valid?",
-    "options": {
-      "A": "Yes, the Magistrate can extend the hearing date beyond two months for valid reasons.",
-      "B": "No, the Magistrate must strictly adhere to the two-month limit without exceptions.",
-      "C": "Yes, the Magistrate can postpone the hearing beyond two months only if both parties agree.",
-      "D": "No, the Magistrate cannot extend the hearing date beyond one month under any circumstances."
-    },
-    "correct_answer": "A",
-    "explanation": "Section 14(2) states that the Magistrate shall fix the next date of hearing within a period not exceeding two months. The provision does not prohibit extending the date beyond two months due to unforeseen circumstances, as long as the initial period is not exceeded. Option A correctly reflects this interpretation. Option B is incorrect because the law allows flexibility in exceptional cases. Option C is incorrect because the law does not require party agreement for extension. Option D is incorrect because the law permits up to two months, not one.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Under Section 14(2), what is the maximum period between the issuance of a counselling direction and the next hearing date that the Magistrate can legally fix?",
-    "options": {
-      "A": "Two months",
-      "B": "Three months",
-      "C": "One month",
-      "D": "Six weeks"
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A (Two months), as explicitly stated in Section 14(2) of the context. Option B (Three months) is incorrect as it exceeds the specified limit. Option C (One month) understates the maximum allowed period. Option D (Six weeks) is also incorrect as it is less than the maximum two-month period permitted by law.",
-    "type": "factual",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Meera and her husband live in a shared household owned by her father-in-law. After a dispute, her husband files a case to evict her from the house. Under Section 17, what is the legal position regarding her eviction?",
-    "options": {
-      "A": "Meera cannot be evicted except as per the procedure established by law.",
-      "B": "Meera can be evicted immediately if her husband files a case, as he is the owner.",
-      "C": "Meera can be evicted only if the shared household is not jointly owned by her.",
-      "D": "Meera can be evicted if the owner, her father-in-law, agrees to it."
-    },
-    "correct_answer": "A",
-    "explanation": "Section 17(2) explicitly states that an aggrieved person cannot be evicted or excluded from the shared household by the respondent unless it is done in accordance with the procedure established by law. This overrides any personal disputes or unilateral decisions by the respondent. The shared household includes property owned by the respondent's family, so ownership alone does not permit eviction without legal process. Options B, C, and D incorrectly suggest that eviction can be allowed based on ownership, consent, or joint ownership, which contradicts the clear mandate of Section 17.",
-    "type": "scenario",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Arjun, who is not the owner, resides in a shared household with his sister and her husband. After a family conflict, the sister and her husband decide to exclude Arjun from the house without following any legal procedure. What right does Arjun have under Section 17?",
-    "options": {
-      "A": "Arjun cannot be evicted or excluded from the shared household without following the procedure established by law.",
-      "B": "Arjun can claim ownership of the shared household since he resides there.",
-      "C": "Arjun can demand rent from his sister for living in the shared household.",
-      "D": "Arjun can file a case against his sister for illegal possession of the shared household."
-    },
-    "correct_answer": "A",
-    "explanation": "Section 17 states that the aggrieved person (anyone in a domestic relationship) cannot be evicted or excluded from the shared household without following the procedure established by law. Since Arjun resides in the shared household, he has the right to not be excluded unlawfully. Options B, C, and D are incorrect as they either misinterpret ownership rights, financial demands, or legal claims that are not covered under Section 17.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Which legal provision ensures that an aggrieved person cannot be evicted from a shared household without following due process of law?",
-    "options": {
-      "A": "Section 17 states the aggrieved person shall not be evicted without following the procedure established by law.",
-      "B": "Section 19 allows the Magistrate to direct the respondent to leave the shared household.",
-      "C": "Section 2 defines the rights of the aggrieved person in domestic relationships.",
-      "D": "Section 8 empowers the Protection Officer to assist the aggrieved person."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is Section 17, which explicitly states that the aggrieved person cannot be evicted or excluded from the shared household without following the procedure established by law. Option B is incorrect because Section 19 deals with residence orders but does not address eviction procedures. Option C is incorrect as Section 2 defines terms without addressing eviction. Option D is incorrect because Section 8 pertains to the role of the Protection Officer, not eviction procedures.",
-    "type": "factual",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Meera files a domestic violence complaint against her husband for repeatedly calling her workplace to harass her. Which provision under Section 18 is most likely violated in this case?",
-    "options": {
-      "A": "Attempting to communicate with the aggrieved person, including oral or telephonic contact.",
-      "B": "Committing any act of domestic violence against the aggrieved person.",
-      "C": "Entering the place of employment of the aggrieved person.",
-      "D": "Causing violence to the dependants or relatives assisting the aggrieved person."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A because Section 18(d) explicitly prohibits attempting to communicate with the aggrieved person through any form, including telephonic contact, which directly applies to repeated workplace calls. Option B is incorrect because Meera’s complaint is about communication, not physical violence. Option C is incorrect because the scenario does not mention entering the workplace, only calling it. Option D is incorrect because the complaint is about harassment, not violence against dependants or relatives.",
-    "type": "scenario",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Arjun, who is prohibited by a protection order from entering his wife's school premises, is found lurking near the school gates. Which specific sub-section of Section 18 does this action violate?",
-    "options": {
-      "A": "Entering a place frequented by the aggrieved person, such as a school",
-      "B": "Committing any act of domestic violence",
-      "C": "Aiding or abetting in the commission of acts of domestic violence",
-      "D": "Causing violence to dependants or persons assisting the aggrieved"
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A because Section 18(c) explicitly prohibits entering any place frequented by the aggrieved person, including a school. Option B is incorrect because Arjun is not committing an act of domestic violence itself. Option C is incorrect as he is not aiding or abetting violence. Option D is incorrect because he is not causing violence to dependants or helpers.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Under Section 18(e), what is the legal consequence if a respondent withdraws funds from a joint bank account without the Magistrate's permission?",
-    "options": {
-      "A": "The Magistrate may treat this as a violation of protection orders and take action under Section 25(2).",
-      "B": "The respondent must return the funds within 30 days or face automatic imprisonment.",
-      "C": "The aggrieved person can reclaim the funds directly from the bank without court intervention.",
-      "D": "The Magistrate may order the respondent to pay additional monetary relief under Section 20."
-    },
-    "correct_answer": "D",
-    "explanation": "The correct answer is D because Section 20(6) allows the Magistrate to direct payment from the respondent's funds if monetary relief is not paid, and withdrawing funds without permission could be deemed non-compliance. Option A is incorrect because Section 25(2) deals with altering orders, not specifically with financial violations. Option B is wrong as there is no automatic imprisonment provision mentioned. Option C is incorrect because direct bank intervention is not permitted without court orders.",
-    "type": "factual",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Which authority is responsible for granting leave under Section 18(e) for alienating assets or operating bank accounts?",
-    "options": {
-      "A": "The Chief Commissioner or Commissioner with prior approval of the Central Authority",
-      "B": "The Comptroller and Auditor-General of India as per Section 26(3)",
-      "C": "The Central Government under Section 12 for vacancy-related matters",
-      "D": "The experts engaged under Section 13(3) for technical approvals"
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A because Section 18(e) requires prior approval of the Central Authority (via the Chief Commissioner or Commissioner) for alienating assets or operating bank accounts, as implied by the Act's procedural requirements. Option B refers to audit rights (Section 26), Option C deals with vacancy invalidation (Section 12), and Option D pertains to expert engagement (Section 13), none of which relate to leave approvals under Section 18(e).",
-    "type": "authority",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Priya's estranged husband, who owns the shared household, obtains an order restraining her from entering any part of the house where she resides. Priya challenges this on the grounds that the order violates her fundamental rights. Which clause of Section 19 is most likely in violation?",
-    "options": {
-      "A": "Clause (c): Restraining the respondent or any of his relatives from entering any portion of the shared household in which the aggrieved person resides.",
-      "B": "Clause (a): Restraining the respondent from dispossessing or disturbing the possession of the aggrieved person from the shared household.",
-      "C": "Clause (d): Restraining the respondent from alienating or disposing of the shared household or encumbering the same.",
-      "D": "Clause (b): Directing the respondent to remove himself from the shared household."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is Clause (c) because it directly restrains the respondent (Priya's husband) from entering the portion of the shared household where Priya resides, which is what the order obtained does. Clause (a) protects the aggrieved person's possession, not restraining her. Clause (d) concerns alienation or disposal of property, not entry. Clause (b) involves the respondent removing himself, not restraining the aggrieved person.",
-    "type": "scenario",
-    "difficulty": "hard",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Under Section 19(1)(f), what condition must be met for the Magistrate to direct the respondent to provide alternate accommodation or pay rent?",
-    "options": {
-      "A": "The circumstances so require",
-      "B": "The aggrieved person requests it",
-      "C": "The respondent agrees to it",
-      "D": "The shared household is damaged"
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is 'The circumstances so require' because Section 19(1)(f) explicitly states that the Magistrate can direct the respondent to secure alternate accommodation or pay rent only if the circumstances so require. Option B is incorrect because the request alone does not mandate the order. Option C is incorrect because the respondent's agreement is not a condition. Option D is incorrect because damage to the shared household is not mentioned as a condition.",
-    "type": "factual",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Which authority is responsible for executing an order directing the respondent to execute a bond for preventing domestic violence under Section 19(3)?",
-    "options": {
-      "A": "The Magistrate who passed the order",
-      "B": "The Protection Officer",
-      "C": "The police officer in charge of the nearest police station",
-      "D": "The aggrieved person's lawyer"
-    },
-    "correct_answer": "A",
-    "explanation": "According to Section 19(3), the Magistrate may require the respondent to execute a bond to prevent domestic violence. The Magistrate is the authority responsible for executing this order, as the bond is part of the court's directives. The Protection Officer and police officer assist in implementation but do not execute the bond order. The aggrieved person's lawyer has no role in executing such orders.",
-    "type": "authority",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Meera was physically abused by her partner and incurred medical expenses for treatment. She also lost her job temporarily due to the injuries sustained. Under Section 20(1), what monetary reliefs can Meera claim?",
-    "options": {
-      "A": "Medical expenses and loss of earnings",
-      "B": "Medical expenses and compensation for emotional distress",
-      "C": "Loss of earnings and compensation for property damage",
-      "D": "Medical expenses and maintenance for her children only"
-    },
-    "correct_answer": "A",
-    "explanation": "Section 20(1) explicitly lists medical expenses (b) and loss of earnings (a) as monetary reliefs Meera can claim. Option B is wrong because emotional distress is not mentioned. Option C is wrong because property damage (c) is not relevant here, and Option D is wrong because maintenance for children is only one part of the relief, not the only claim.",
-    "type": "scenario",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "After obtaining a protection order against her abusive spouse, Priya filed an application for monetary relief under Section 20. The Magistrate ordered a lump sum payment of ₹50,000 and monthly maintenance of ₹10,000. The spouse failed to pay the first installment. What can the Magistrate do under Section 20(6)?",
-    "options": {
-      "A": "Direct Priya’s spouse’s employer to pay a portion of his salary directly to Priya.",
-      "B": "Cancel the protection order due to non-payment of monetary relief.",
-      "C": "Ask Priya to file a fresh application for enforcement of the order.",
-      "D": "Impose a fine on Priya’s spouse equal to the unpaid amount."
-    },
-    "correct_answer": "A",
-    "explanation": "Section 20(6) empowers the Magistrate to direct the respondent’s employer or debtor to pay a portion of wages or debt directly to the aggrieved person when the respondent fails to pay monetary relief. Option A correctly reflects this provision. Option B is incorrect as non-payment of monetary relief does not lead to cancellation of the protection order. Option C is incorrect because the Magistrate can take suo moto action under Section 20(6). Option D is incorrect as the Act does not provide for imposing a fine in this context.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Under Section 20(2), what principle governs the quantum of monetary relief granted to an aggrieved person?",
-    "options": {
-      "A": "The relief must be adequate, fair, and reasonable as per the aggrieved person's standard of living.",
-      "B": "The relief should cover only the actual expenses incurred by the aggrieved person.",
-      "C": "The relief must be a fixed amount equal to the average monthly income of the respondent.",
-      "D": "The relief should be decided based on the respondent's ability to pay without considering the aggrieved person's lifestyle."
-    },
-    "correct_answer": "A",
-    "explanation": "Section 20(2) explicitly states that the monetary relief granted must be adequate, fair, and reasonable and consistent with the standard of living to which the aggrieved person is accustomed. Option B is incorrect because it limits relief to actual expenses only, ignoring fairness and lifestyle. Option C is wrong as the relief is not fixed or income-based. Option D is incorrect because the aggrieved person's lifestyle is a key consideration.",
-    "type": "factual",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Which authority is responsible for ensuring the payment of monetary relief under Section 20(5) and Section 20(6)?",
-    "options": {
-      "A": "The Magistrate who passed the order under Section 20(1).",
-      "B": "The police station where the respondent resides.",
-      "C": "The aggrieved person’s legal representative.",
-      "D": "The employer of the respondent."
-    },
-    "correct_answer": "A",
-    "explanation": "Under Section 20(5), the respondent is required to pay the monetary relief within the period specified in the order. If the respondent fails to pay, Section 20(6) empowers the Magistrate (who passed the order under Section 20(1)) to direct the employer or debtor of the respondent to pay the aggrieved person directly. Thus, the Magistrate has the authority to ensure payment and enforce compliance. Option B is incorrect because the police station is only informed of the order under Section 20(4), not responsible for enforcement. Option C is incorrect because the legal representative does not have enforcement powers. Option D is incorrect because while the employer or debtor may be directed to pay, the ultimate authority ensuring payment is the Magistrate.",
-    "type": "authority",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Priya and Rohan are divorced, and their child lives with Priya. Rohan files an application under Section 21 to visit the child during weekends. Priya opposes this, claiming Rohan has a history of domestic violence. The Magistrate is unsure whether the visits would harm the child’s interests. What is the most appropriate decision the Magistrate should take?",
-    "options": {
-      "A": "Refuse Rohan’s visit request, as the Magistrate may find it harmful to the child’s interests.",
-      "B": "Allow Rohan’s visits but impose strict conditions to ensure the child’s safety.",
-      "C": "Order Rohan to pay rent for alternate accommodation for Priya and the child.",
-      "D": "Require Priya to secure a bond from Rohan to prevent future domestic violence."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A because Section 21 explicitly states that the Magistrate must refuse a visit if it may harm the child’s interests. Option B is incorrect because the Magistrate cannot allow visits if there is a risk of harm. Option C is unrelated to Section 21 and pertains to Section 19. Option D is incorrect as it refers to Section 23, not Section 21.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Under Section 21, can a Magistrate refuse visitation rights if the custodial parent raises concerns about harm to the child without prior evidence of such harm?",
-    "options": {
-      "A": "Yes, the Magistrate may refuse visitation if harm to the child is a possibility, even without prior evidence.",
-      "B": "No, the Magistrate cannot refuse visitation unless there is documented evidence of harm.",
-      "C": "Only if the respondent has a prior history of harm to the child.",
-      "D": "The Magistrate must always grant visitation unless the child directly expresses fear."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A because Section 21 states the Magistrate *shall* refuse visitation if they believe it may be harmful to the child, regardless of prior evidence. The law focuses on protecting the child's interests, so the Magistrate can act on reasonable apprehension of harm. Option B is incorrect because the law does not require prior documented evidence. Option C is incorrect because prior harm is not a condition for refusal. Option D is incorrect because the child's direct expression of fear is not a legal requirement for refusal.",
-    "type": "factual",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "What is the primary criterion for a Magistrate to refuse visitation under Section 21?",
-    "options": {
-      "A": "If the visit may harm the child's interests",
-      "B": "If the respondent has a history of domestic violence",
-      "C": "If the aggrieved person objects to the visit",
-      "D": "If the child expresses discomfort during visits"
-    },
-    "correct_answer": "A",
-    "explanation": "Correct: The Magistrate may refuse visitation if they believe it could be harmful to the child's interests. Incorrect: B is not mentioned as a criterion, C is not a legal basis, D is subjective and not specified in the law.",
-    "type": "definition",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Meera files an application under Section 18 alleging that her husband has been physically abusing her and threatens further violence. The Magistrate reviews her affidavit and believes there is a likelihood of future violence. What order can the Magistrate grant without hearing the respondent?",
-    "options": {
-      "A": "An ex parte protection order under Section 18 based on Meera’s affidavit.",
-      "B": "A residence order directing Meera’s husband to move out of the shared household.",
-      "C": "A monetary relief order to compensate Meera for medical expenses.",
-      "D": "An order for Meera’s husband to return her stridhan immediately."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A, as Section 23 allows the Magistrate to grant an ex parte order (including a protection order under Section 18) without hearing the respondent if there is a likelihood of domestic violence, based on the aggrieved person’s affidavit. Option B is incorrect because a residence order (Section 19) can be granted ex parte, but the question specifies the application is under Section 18. Option C is incorrect as monetary relief (Section 22) is not typically granted ex parte under Section 23. Option D is incorrect because returning stridhan (Section 19(8)) is not an ex parte order under Section 23 but may be part of a broader order.",
-    "type": "scenario",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Arjun is accused of domestic violence by his partner, who files an application under Section 20. The Magistrate is not fully satisfied with the prima facie evidence but suspects a risk of violence. What is the correct course of action for the Magistrate?",
-    "options": {
-      "A": "Grant an ex parte order based on the suspicion of risk, even without full prima facie satisfaction.",
-      "B": "Dismiss the application immediately due to lack of prima facie evidence.",
-      "C": "Ask the aggrieved person to provide additional evidence before proceeding.",
-      "D": "Refer the matter to the Protection Officer for further investigation without granting any interim relief."
-    },
-    "correct_answer": "A",
-    "explanation": "Under Section 23(2), the Magistrate may grant an ex parte order if satisfied that there is a likelihood of domestic violence, even if prima facie evidence is not fully established. This allows for preventive action based on suspicion of risk. Option B is incorrect as Section 23 allows ex parte orders even without full prima facie evidence if there is a likelihood of violence. Option C is incorrect because the Magistrate is empowered to act on suspicion of risk, not just after additional evidence. Option D is incorrect as the Magistrate can grant interim relief without waiting for the Protection Officer's report.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Under which section does the Magistrate have the power to grant an ex parte order in cases of domestic violence?",
-    "options": {
-      "A": "Section 23(2)",
-      "B": "Section 18",
-      "C": "Section 19(1)",
-      "D": "Section 21"
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is Section 23(2), which explicitly grants the Magistrate the power to grant an ex parte order based on the affidavit of the aggrieved person. Section 18 deals with protection orders, Section 19 with residence orders, and Section 21 with custody orders, none of which mention ex parte orders.",
-    "type": "factual",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Ravi received a court order in a consumer dispute case through email but was charged Rs. 50 for a printed copy by the court clerk. What remedy is most appropriate under Section 24 of the Consumer Protection Act?",
-    "options": {
-      "A": "Court must provide the printed copy free of cost as Section 24 mandates free copies.",
-      "B": "Ravi should complain to the court administration for charging fees in violation of Section 24.",
-      "C": "Section 24 applies only to physical orders, so the charge is valid.",
-      "D": "The court may charge a nominal fee not exceeding Rs. 20 for printed copies."
-    },
-    "correct_answer": "A",
-    "explanation": "Section 24 explicitly states that the court must provide copies of orders free of cost. Option A directly reflects this legal requirement. Options B and D are partially correct but misinterpret or limit the scope of Section 24. Option C is incorrect because Section 24 does not differentiate between physical and electronic orders.",
-    "type": "scenario",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "A consumer forum passes an order in favor of Priya, directing the opposite party to pay compensation. The order is sent via post, but Priya requests a certified copy for execution. Is the court obligated to provide a free copy under Section 24?",
-    "options": {
-      "A": "Yes, the court must provide a free certified copy as Section 24 mandates free copies of orders.",
-      "B": "No, Section 24 only requires free copies of orders, not certified copies for execution.",
-      "C": "Yes, but only if Priya pays a nominal fee for the certified copy.",
-      "D": "No, the court is not obligated to provide any copy, certified or otherwise."
-    },
-    "correct_answer": "A",
-    "explanation": "Section 24 explicitly states that the court must provide copies of orders free of cost. While the initial order was sent via post, Priya's request for a certified copy for execution still falls under the requirement of providing a free copy as per Section 24. Option B is incorrect because Section 24 does not distinguish between regular and certified copies. Options C and D are incorrect as the section does not impose fees or exempt certified copies from the free provision.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Under Section 24, which of the following best describes the obligation of the court regarding copies of orders?",
-    "options": {
-      "A": "The court must provide copies of orders free of cost.",
-      "B": "The court may charge a nominal fee for providing copies of orders.",
-      "C": "The court must provide copies of orders only to the aggrieved person.",
-      "D": "The court is not required to provide copies of orders."
-    },
-    "correct_answer": "A",
-    "explanation": "Section 24 explicitly states that the court must give copies of the order free of cost, making option A the correct choice. Options B and D contradict the section, while option C is incorrect because the section does not restrict the provision of copies to the aggrieved person only.",
-    "type": "factual",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Anita obtained a protection order against her neighbor under the Act. Later, she learns that her neighbor has moved out of the city. What is the most appropriate step Anita should take regarding the existing order?",
-    "options": {
-      "A": "The order remains enforceable throughout India despite the neighbor moving.",
-      "B": "Anita must file a new complaint in the neighbor’s new city to update the order.",
-      "C": "The order automatically becomes invalid once the neighbor leaves the city.",
-      "D": "Anita needs to request the court to modify the order to match the neighbor’s new location."
-    },
-    "correct_answer": "A",
-    "explanation": "According to Section 27(2), any order made under the Act is enforceable throughout India, regardless of where the respondent resides. Thus, Anita does not need to take any further action for enforcement. Option B is incorrect because the order does not need to be updated or reissued in a new location. Option C is wrong because the order does not become invalid upon the respondent’s relocation. Option D is incorrect because the order’s validity and enforceability are not location-dependent.",
-    "type": "scenario",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Rahul has a protection order against his business partner due to harassment. After six months, Rahul and his partner reconcile their differences and agree to dissolve their partnership amicably. What remedy does the Magistrate have under Section 25?",
-    "options": {
-      "A": "Modify or revoke the protection order since circumstances have changed.",
-      "B": "Dismiss the case immediately as the parties have reconciled.",
-      "C": "Increase the protection order restrictions to prevent future harassment.",
-      "D": "Order Rahul to pay compensation to his business partner for past actions."
-    },
-    "correct_answer": "A",
-    "explanation": "Under Section 25, the Magistrate can alter, modify, or revoke any protection order if satisfied that there is a change in circumstances. Reconciliation and amicable dissolution of the partnership qualify as changed circumstances. Option B is incorrect because the Magistrate cannot dismiss the case without considering the application. Option C is incorrect as the Magistrate would not increase restrictions without evidence of continued risk. Option D is unrelated to the Magistrate's power under Section 25.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Under Section 25, which authority has the power to alter or revoke an order made under the Act?",
-    "options": {
-      "A": "The Magistrate",
-      "B": "The Central Authority",
-      "C": "The District Consumer Disputes Redressal Commission",
-      "D": "The Appropriate Government"
-    },
-    "correct_answer": "A",
-    "explanation": "Section 25 explicitly states that the Magistrate has the power to alter, modify, or revoke an order upon receiving an application and being satisfied of a change in circumstances. The Central Authority's powers under Section 21 relate to false advertisements, not order alteration. The other options are not mentioned in Section 25.",
-    "type": "authority",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "A consumer files a civil suit against a manufacturer for defective goods and separately files a complaint under the Act. Can the consumer seek additional relief under the Act even though a civil suit is already pending?",
-    "options": {
-      "A": "Yes, relief under the Act can be sought in addition to other legal proceedings.",
-      "B": "No, the consumer must choose either the civil suit or the Act for relief.",
-      "C": "Only if the civil suit is withdrawn, can relief be sought under the Act.",
-      "D": "Relief under the Act is only available if no civil suit is filed."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A because Section 26(2) explicitly allows seeking relief under the Act in addition to other legal proceedings. Option B is incorrect as it contradicts the law. Option C is wrong because the Act does not require withdrawal of a civil suit. Option D is incorrect as the Act permits concurrent relief even with a civil suit pending.",
-    "type": "factual",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Priya obtains a compensation order from a consumer forum for a defective product. Later, she files another case in a civil court seeking additional damages. The manufacturer argues that Priya must disclose the earlier relief. Is the manufacturer's argument correct?",
-    "options": {
-      "A": "Yes, Priya must inform the court about the earlier relief obtained from the consumer forum.",
-      "B": "No, Priya is not required to disclose the earlier relief unless the manufacturer specifically requests it.",
-      "C": "Yes, but only if the earlier relief was for the same product defect and the same damages.",
-      "D": "No, the consumer forum’s relief does not affect Priya’s right to seek additional damages in civil court."
-    },
-    "correct_answer": "A",
-    "explanation": "Under Section 26(3), the aggrieved person must inform the Magistrate of any relief obtained in other proceedings. Since the civil court is a legal proceeding, Priya must disclose the earlier relief. Option A is correct. Option B is incorrect because disclosure is mandatory. Option C is incorrect as the law does not limit disclosure based on the nature of the relief. Option D is incorrect because the earlier relief does not prevent seeking additional damages, but it must still be disclosed.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Under Section 26(3), what obligation does the aggrieved person have if they obtain relief in a proceeding other than under this Act?",
-    "options": {
-      "A": "Inform the Magistrate of the grant of such relief.",
-      "B": "File a fresh complaint under this Act for the same relief.",
-      "C": "Return the relief obtained if it conflicts with this Act.",
-      "D": "Wait for the Magistrate to update the record automatically."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A because Section 26(3) explicitly states that the aggrieved person must inform the Magistrate if relief has been obtained in any proceeding other than under this Act. Option B is incorrect as the Act does not require filing a fresh complaint. Option C is incorrect because the Act does not mandate returning the relief. Option D is incorrect as the Magistrate does not update records automatically without notification.",
-    "type": "authority",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Ankur, a resident of Mumbai, files a complaint under the Act against a respondent who resides in Delhi. The cause of action arose in Pune. Which court has jurisdiction to grant a protection order?",
-    "options": {
-      "A": "Pune court, since the cause of action arose there.",
-      "B": "Delhi court, because the respondent resides there.",
-      "C": "Mumbai court, as Ankur resides there.",
-      "D": "Any court in India, since orders are enforceable nationwide."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A because Section 27(c) states that the court where the cause of action arose has jurisdiction. The cause of action arose in Pune, so the Pune court has jurisdiction. Option B is incorrect because while the respondent's residence may be relevant, the primary jurisdiction is where the cause of action arose. Option C is incorrect because the aggrieved person's residence alone does not determine jurisdiction. Option D is incorrect because jurisdiction is tied to specific locations as outlined in Section 27.",
-    "type": "scenario",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Riya, a freelance consultant based in Bangalore, receives a protection order under the Act while temporarily visiting Chennai for a month. She now resides in Pune. Can she enforce the order in Pune?",
-    "options": {
-      "A": "Yes, any order under this Act is enforceable throughout India.",
-      "B": "No, the order can only be enforced in the city where it was issued.",
-      "C": "Yes, but only if she files a new application in Pune.",
-      "D": "No, since she no longer resides in the place where the order was issued."
-    },
-    "correct_answer": "A",
-    "explanation": "According to Section 27(2), any order made under this Act shall be enforceable throughout India. Thus, Riya can enforce the order in Pune regardless of where it was issued. Option A correctly reflects this. Options B, C, and D are incorrect because they impose unnecessary restrictions not supported by the law.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Under Section 27(2), where can an order made under the Act be enforced?",
-    "options": {
-      "A": "Throughout India",
-      "B": "Only in the state where it was issued",
-      "C": "Only in the district where the respondent resides",
-      "D": "Only in the court where the order was made"
-    },
-    "correct_answer": "A",
-    "explanation": "Section 27(2) explicitly states that any order made under the Act shall be enforceable throughout India. Option B is incorrect because the law allows enforcement beyond the state of issuance. Option C is incorrect as it restricts enforcement to a specific district, which is not required. Option D is incorrect because the order is enforceable in any court with jurisdiction, not just the issuing court.",
-    "type": "factual",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "A consumer forum passes an order directing an e-commerce platform to refund a customer for a defective product. The platform files an appeal against this order. Under Section 29, who is the appropriate appellate authority for the e-commerce platform?",
-    "options": {
-      "A": "The State Commission",
-      "B": "The District Commission",
-      "C": "The National Consumer Disputes Redressal Commission",
-      "D": "The High Court"
-    },
-    "correct_answer": "C",
-    "explanation": "Section 29 states that appeals against orders of the District Commission lie to the State Commission, appeals against orders of the State Commission lie to the National Commission, and appeals against orders of the National Commission lie to the Supreme Court. Since the e-commerce platform is likely appealing an order from the District or State Commission, the appropriate appellate authority would be the National Commission.",
-    "type": "authority",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Rahul files a complaint with the District Consumer Disputes Redressal Commission alleging deficiency in service by a bank. The bank argues that the dispute falls under the jurisdiction of the State Commission due to the high claim amount. Which authority has the jurisdiction to hear Rahul's complaint?",
-    "options": {
-      "A": "District Commission, as the cause of action arose within its jurisdiction.",
-      "B": "State Commission, since the bank’s argument suggests a higher claim value.",
-      "C": "National Commission, as the claim likely exceeds the District Commission’s limit.",
-      "D": "State Commission, if the bank’s branch office is within its territorial limits."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A. The District Commission has jurisdiction where the cause of action arises (Section 34(2)(c)), and the bank’s argument does not automatically shift jurisdiction to the State Commission unless the claim amount exceeds the District Commission’s limit (which is not stated here). Option B is incorrect because the bank’s argument alone does not determine jurisdiction. Option C is incorrect as there is no evidence the claim exceeds the threshold for the State Commission. Option D is incorrect because the bank’s branch office alone does not determine jurisdiction without considering the cause of action.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "A consumer forum dismisses a complaint due to lack of jurisdiction. The complainant believes the forum erred in its decision. What is the most appropriate remedy available to the complainant under Section 29?",
-    "options": {
-      "A": "File an appeal against the order before the State Commission within 30 days.",
-      "B": "File a fresh complaint before the appropriate forum having jurisdiction.",
-      "C": "Request the District Commission to review its decision under Section 40.",
-      "D": "Approach the National Commission directly for redressal."
-    },
-    "correct_answer": "A",
-    "explanation": "Under Section 29, the correct remedy for challenging a forum's decision on jurisdiction is to file an appeal before the higher forum (State Commission in this case) within the prescribed time limit. Option B is incorrect as a fresh complaint is not the remedy for jurisdictional errors. Option C is wrong because Section 40 deals with review, not appeals. Option D is incorrect as the National Commission cannot be approached directly without exhausting lower remedies.",
-    "type": "scenario",
-    "difficulty": "hard",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Rahul, who was previously restrained by a protection order from contacting his estranged wife Priya, repeatedly called her over the past month despite the order. The Magistrate who issued the order is handling the case. What is the most likely legal outcome under Section 31?",
-    "options": {
-      "A": "Rahul may be tried by the same Magistrate who issued the protection order.",
-      "B": "The Magistrate will dismiss the case as Rahul did not physically harm Priya.",
-      "C": "Rahul can avoid punishment since Priya did not file a formal complaint.",
-      "D": "The case will be transferred to a civil court for resolution."
-    },
-    "correct_answer": "A",
-    "explanation": "Under Section 31(2), the offence of breach of a protection order shall as far as practicable be tried by the Magistrate who had passed the order. This is a mandatory procedural requirement. Option B is incorrect because breach of a protection order does not require physical harm. Option C is wrong because the law allows conviction based on the aggrieved person’s testimony (Section 32(2)). Option D is incorrect as the case remains in criminal jurisdiction under the Magistrate.",
-    "type": "scenario",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "During the trial for breach of a protection order under Section 31, additional evidence emerges suggesting that Anjali’s husband had also subjected her to cruelty under Section 498A of the IPC. What procedural step can the Magistrate take under sub-section (3)?",
-    "options": {
-      "A": "Frame charges under Section 498A of the IPC along with the breach of protection order.",
-      "B": "Dismiss the case for breach of protection order and initiate separate proceedings under Section 498A of the IPC.",
-      "C": "Transfer the entire case to a higher court for combined trial under IPC and domestic violence laws.",
-      "D": "Allow the breach case to proceed but record the evidence separately for potential Section 498A proceedings."
-    },
-    "correct_answer": "A",
-    "explanation": "Under Section 31(3), the Magistrate has the power to frame charges under Section 498A of the IPC or any other relevant provision if the facts disclose the commission of such offences during the trial for breach of a protection order. Option A directly reflects this provision. Option B is incorrect because the Magistrate is not required to dismiss the breach case; instead, they can consolidate charges. Option C is incorrect as there is no provision for transferring the case to a higher court under this section. Option D is incorrect because the Magistrate is empowered to frame charges under Section 498A, not merely record evidence separately.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Under Section 31(2), which Magistrate is primarily responsible for trying an offence of breach of a protection order?",
-    "options": {
-      "A": "The Magistrate who passed the order allegedly breached by the accused.",
-      "B": "Any Magistrate within the jurisdiction where the breach occurred.",
-      "C": "The Magistrate of the district where the aggrieved person resides.",
-      "D": "The Magistrate designated by the High Court for such offences."
-    },
-    "correct_answer": "A",
-    "explanation": "Section 31(2) explicitly states that the offence shall, as far as practicable, be tried by the Magistrate who had passed the order breached by the accused. Option B is incorrect because it broadens the responsibility beyond the specific Magistrate. Option C is incorrect as it refers to a different criterion (residence of the aggrieved person). Option D is incorrect because the section does not mention designation by the High Court.",
-    "type": "authority",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "A consumer files a complaint alleging that a seller provided false information about the durability of a product, leading to a financial loss. The only evidence presented is the consumer's sworn statement. Under Section 32(2), can the court rely solely on this testimony to conclude that an offence under Section 31(1) has been committed?",
-    "options": {
-      "A": "Yes, the court may conclude the offence based solely on the aggrieved person's testimony.",
-      "B": "No, the court must require additional evidence beyond the sworn statement to prove the offence.",
-      "C": "Only if the sworn statement is supported by documentary proof or expert testimony.",
-      "D": "The court can rely on the testimony but must first verify its credibility through cross-examination."
-    },
-    "correct_answer": "A",
-    "explanation": "Section 32(2) explicitly states that the court may conclude an offence under Section 31(1) based solely on the testimony of the aggrieved person. Option A directly reflects this provision. Option B is incorrect because the section does not mandate additional evidence. Option C is incorrect as it imposes an unnecessary condition not found in the text. Option D is incorrect because the section does not require verification through cross-examination.",
-    "type": "scenario",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "An aggrieved person submits a complaint to the court alleging an offence under Section 31(1), but their testimony lacks specific details about the accused's actions. Can the court still conclude that the offence was committed based solely on this testimony?",
-    "options": {
-      "A": "Yes, the court may conclude the offence was committed solely on the aggrieved person's testimony.",
-      "B": "No, the court must require detailed evidence beyond the aggrieved person's testimony.",
-      "C": "Only if the testimony is supported by a domestic incident report from the Protection Officer.",
-      "D": "Only if the aggrieved person provides physical evidence of the violence."
-    },
-    "correct_answer": "A",
-    "explanation": "According to Section 32(2), the court may conclude that an offence under sub-section (1) of section 31 has been committed solely based on the testimony of the aggrieved person, regardless of the level of detail. The other options incorrectly impose additional requirements not stated in the law.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Which of the following best describes the legal provision under Section 32(2) regarding the court's reliance on the aggrieved person's testimony?",
-    "options": {
-      "A": "The court may conclude an offence under Section 31(1) based solely on the aggrieved person's testimony.",
-      "B": "The court must require additional evidence beyond the aggrieved person's testimony to prove an offence under Section 31(1).",
-      "C": "The aggrieved person's testimony alone is insufficient unless corroborated by a protection order.",
-      "D": "The court can disregard the aggrieved person's testimony if the respondent denies the allegations."
-    },
-    "correct_answer": "A",
-    "explanation": "Section 32(2) explicitly states that the court *may* conclude an offence under Section 31(1) based solely on the aggrieved person's testimony. Option A directly reflects this provision. Option B is incorrect because the section does not require additional evidence. Option C is wrong as the testimony alone is sufficient. Option D contradicts the provision, which does not condition reliance on the respondent's denial.",
-    "type": "factual",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "A Protection Officer fails to file a domestic incident report within the stipulated time after receiving a complaint of domestic violence. What is the most likely legal consequence under Section 33?",
-    "options": {
-      "A": "The Protection Officer may be subject to penal action for not discharging their duty.",
-      "B": "The Magistrate may issue a notice to the Protection Officer for explanation.",
-      "C": "The complaint of domestic violence will automatically be dismissed.",
-      "D": "The aggrieved person must file a fresh complaint to the Magistrate directly."
-    },
-    "correct_answer": "A",
-    "explanation": "Section 33 specifically penalizes a Protection Officer for not discharging their duties under the Act, including the duty to file a domestic incident report. The correct consequence is penal action. Option B is incorrect because the section does not mention issuing notices as the primary consequence. Option C is wrong because the complaint is not dismissed automatically. Option D is incorrect as the aggrieved person does not need to file a fresh complaint; the Protection Officer's failure does not nullify the complaint.",
-    "type": "scenario",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "During an investigation into a domestic violence complaint, a Protection Officer knowingly withholds critical evidence that could support the victim's case. Which provision of Section 33 would this action most likely violate?",
-    "options": {
-      "A": "Failure to perform duties imposed by the Magistrate or Government under the Act.",
-      "B": "Failure to assist the Magistrate in discharging functions under this Act.",
-      "C": "Failure to maintain a list of service providers in the local area.",
-      "D": "Failure to ensure legal aid is provided to the aggrieved person."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A because Section 33 penalizes the Protection Officer for not discharging duties imposed by the Magistrate or Government under the Act. Knowingly withholding critical evidence violates the duty to perform assigned functions impartially and thoroughly. Option B is incorrect because assisting the Magistrate is only one of many duties, and the violation here is broader. Option C is irrelevant as maintaining a list of service providers is unrelated to evidence handling. Option D is incorrect because the issue is about evidence, not legal aid provision.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Under Section 33, what is the nature of the penalty imposed for a Protection Officer's failure to perform their statutory duties?",
-    "options": {
-      "A": "Fine extending up to one year imprisonment or both",
-      "B": "Suspension without pay for up to three months",
-      "C": "Mandatory counseling and training",
-      "D": "Public apology and reprimand by the Magistrate"
-    },
-    "correct_answer": "A",
-    "explanation": "Section 33 specifies that a Protection Officer who fails to discharge duties under the Act shall be penalized with imprisonment up to one year, a fine, or both. Options B, C, and D are incorrect as they do not align with the statutory penalty provided in Section 33.",
-    "type": "factual",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "A government official, Priya, conducts an inspection of a commercial establishment under Section 35, suspecting a violation of consumer protection regulations. The inspection reveals no wrongdoing, but the establishment owner files a complaint against Priya for harassment. What protection does Priya have under Section 35?",
-    "options": {
-      "A": "Priya is protected from legal action if she acted in good faith during the inspection.",
-      "B": "Priya can be held liable for damages if the inspection caused any inconvenience.",
-      "C": "Priya’s actions are protected only if the Central Authority approves them beforehand.",
-      "D": "Priya must prove the inspection was necessary to avoid liability for harassment."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A because Section 35 does not explicitly protect officials from legal action, but general legal principles (like acting in good faith) may apply. B is incorrect as no liability is mentioned. C is wrong because prior approval is not required under Section 35. D is incorrect as the burden of proof does not lie with Priya.",
-    "type": "scenario",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "During a routine market survey, an officer, Arjun, seizes a batch of packaged food products from a local vendor, Dinesh, for analysis under consumer protection laws. Dinesh claims the seizure was arbitrary and demands compensation for business loss. Can Dinesh succeed in claiming compensation?",
-    "options": {
-      "A": "No, because seizure under consumer laws is not an arbitrary act and does not entitle compensation unless proven malicious.",
-      "B": "Yes, because any seizure of goods by authorities automatically grants compensation for business losses.",
-      "C": "No, unless Dinesh proves the seizure was done without proper authority or in bad faith.",
-      "D": "Yes, but only if the products were later found to be compliant with safety standards after analysis."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is A. Under Section 18 of the Consumer Protection Act, the Central Authority has powers to inquire into violations of consumer rights, including seizures for analysis. Such actions are not arbitrary unless done maliciously or without authority, and mere seizure does not automatically grant compensation. Option B is incorrect because compensation is not automatic. Option C is partially correct but misleading because it implies compensation is possible only if the seizure was without authority, which is not the case here. Option D is incorrect because compliance after analysis does not retroactively justify compensation for seizure.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "Which of the following actions is NOT protected under Section 35 of the Consumer Protection Act?",
-    "options": {
-      "A": "A consumer filing a complaint about unfair trade practices in goods they purchased.",
-      "B": "A recognized consumer association filing a complaint on behalf of its members.",
-      "C": "A group of consumers filing a complaint together with the permission of the District Commission.",
-      "D": "A manufacturer filing a complaint against a retailer for selling defective goods."
-    },
-    "correct_answer": "D",
-    "explanation": "Section 35 lists who can file a complaint, including consumers, recognized consumer associations, groups of consumers with the District Commission's permission, and government authorities. It does not include manufacturers filing complaints against retailers. Options A, B, and C are explicitly mentioned in Section 35, while D is not.",
-    "type": "factual",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "The Central Government is framing rules under Section 37 of the Act regarding the qualifications and experience required for a Protection Officer. Which clause of Section 37(2) empowers the government to make such rules?",
-    "options": {
-      "A": "Clause (a) of Section 37(2)",
-      "B": "Clause (b) of Section 37(2)",
-      "C": "Clause (k) of Section 37(2)",
-      "D": "Clause (m) of Section 37(2)"
-    },
-    "correct_answer": "A",
-    "explanation": "Clause (a) of Section 37(2) explicitly empowers the Central Government to make rules regarding the qualifications and experience that a Protection Officer shall possess under sub-section (2) of section 8. Clause (b) pertains to terms and conditions of service, clause (k) to counselling qualifications, and clause (m) to matters that may be prescribed generally, none of which directly relate to qualifications and experience for Protection Officers.",
-    "type": "factual",
-    "difficulty": "easy",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "A service provider registered under Section 10 of the Act fails to comply with the rules regulating its registration. The Protection Officer, while investigating the matter, realizes that the rules governing registration were framed under which clause of Section 37(2)?",
-    "options": {
-      "A": "The form regulating registration of service providers under clause (g) of Section 37(2).",
-      "B": "The qualifications and experience for counselling under clause (k) of Section 37(2).",
-      "C": "The form and manner of domestic incident reports under clause (c) of Section 37(2).",
-      "D": "The duties of Protection Officers under clause (f) of Section 37(2)."
-    },
-    "correct_answer": "A",
-    "explanation": "The correct answer is clause (g) of Section 37(2), as it specifically pertains to the rules regulating the registration of service providers under Section 10. Option B is incorrect because clause (k) relates to counselling qualifications, not registration. Option C is wrong as it deals with domestic incident reports. Option D is incorrect because clause (f) concerns other duties of Protection Officers, not registration rules.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
-  },
-  {
-    "question": "An aggrieved person files an application seeking reliefs under the Act. The form and particulars required for this application are specified under which clause of Section 37(2)?",
-    "options": {
-      "A": "The form and particulars are prescribed under the rules made under this Act.",
-      "B": "The form and particulars are specified in sub-section (3) of Section 12.",
-      "C": "The form and particulars must be as nearly as possible to the prescribed format.",
-      "D": "The form and particulars are determined by the Magistrate during the hearing."
-    },
-    "correct_answer": "B",
-    "explanation": "The correct option is B because Section 12(3) explicitly states that every application under sub-section (1) shall be in such form and contain such particulars as may be prescribed or as nearly as possible thereto. Option A is incorrect as it refers to general rules rather than the specific section. Option C is partially correct but vague. Option D is incorrect as the Magistrate does not determine the form but follows the prescribed rules.",
-    "type": "scenario",
-    "difficulty": "medium",
-    "source": "Protection of Women from Domestic Violence Act, 2005.md"
   }
 ]

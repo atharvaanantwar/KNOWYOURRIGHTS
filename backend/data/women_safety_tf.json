@@ -1,0 +1,2093 @@
+[
+  {
+    "question": "This law protects women from domestic violence in India.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "",
+      "section": null,
+      "section_title": null,
+      "chunk_id": 0
+    },
+    "answer": true
+  },
+  {
+    "question": "The law was passed in the year 2000.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "",
+      "section": null,
+      "section_title": null,
+      "chunk_id": 0
+    },
+    "answer": false
+  },
+  {
+    "question": "The law protects women from violence only outside the family.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "",
+      "section": null,
+      "section_title": null,
+      "chunk_id": 0
+    },
+    "answer": false
+  },
+  {
+    "question": "The law starts working immediately after it is passed by Parliament.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "",
+      "section": "1",
+      "section_title": "Short title, extent and commencement. ",
+      "chunk_id": 1
+    },
+    "answer": false
+  },
+  {
+    "question": "The law can only be enforced after the President signs it.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "",
+      "section": "1",
+      "section_title": "Short title, extent and commencement. ",
+      "chunk_id": 1
+    },
+    "answer": false
+  },
+  {
+    "question": "An aggrieved person under this law must be currently in a domestic relationship with the respondent.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "DOMESTIC VIOLENCE",
+      "section": "2",
+      "section_title": "Definitions. ",
+      "chunk_id": 2
+    },
+    "answer": false
+  },
+  {
+    "question": "A child includes any person below the age of eighteen years, whether natural, adopted, step, or foster.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "DOMESTIC VIOLENCE",
+      "section": "2",
+      "section_title": "Definitions. ",
+      "chunk_id": 2
+    },
+    "answer": true
+  },
+  {
+    "question": "A respondent can only be an adult male person who has been in a domestic relationship with the aggrieved person.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "DOMESTIC VIOLENCE",
+      "section": "2",
+      "section_title": "Definitions. ",
+      "chunk_id": 2
+    },
+    "answer": false
+  },
+  {
+    "question": "A shared household includes a home owned or rented by the respondent, even if the aggrieved person has no legal claim to it.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "DOMESTIC VIOLENCE",
+      "section": "2",
+      "section_title": "Definitions. ",
+      "chunk_id": 2
+    },
+    "answer": true
+  },
+  {
+    "question": "Physical abuse includes causing pain or harm to the body.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "3",
+      "section_title": "Definition of domestic violence. ",
+      "chunk_id": 3
+    },
+    "answer": true
+  },
+  {
+    "question": "Economic abuse only involves withholding money from the aggrieved person.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "3",
+      "section_title": "Definition of domestic violence. ",
+      "chunk_id": 3
+    },
+    "answer": false
+  },
+  {
+    "question": "Verbal and emotional abuse includes insults about not having a male child.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "3",
+      "section_title": "Definition of domestic violence. ",
+      "chunk_id": 3
+    },
+    "answer": true
+  },
+  {
+    "question": "Domestic violence can only occur if the harasser lives with the victim.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "3",
+      "section_title": "Definition of domestic violence. ",
+      "chunk_id": 3
+    },
+    "answer": false
+  },
+  {
+    "question": "A person can be held legally responsible for giving false information to a Protection Officer in good faith.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "4",
+      "section_title": "Information to Protection Officer and exclusion of liability of informant .",
+      "chunk_id": 4
+    },
+    "answer": false
+  },
+  {
+    "question": "If a person lies to a Protection Officer while thinking they are telling the truth, they can still be punished.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "4",
+      "section_title": "Information to Protection Officer and exclusion of liability of informant .",
+      "chunk_id": 4
+    },
+    "answer": false
+  },
+  {
+    "question": "The law protects informants from being sued or prosecuted for giving information to a Protection Officer in good faith.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "4",
+      "section_title": "Information to Protection Officer and exclusion of liability of informant .",
+      "chunk_id": 4
+    },
+    "answer": true
+  },
+  {
+    "question": "Police officers must inform victims about their right to apply for a protection order under the Act.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "5",
+      "section_title": "Duties of police officers, service providers and Magistrate .",
+      "chunk_id": 5
+    },
+    "answer": true
+  },
+  {
+    "question": "The Act allows police officers to ignore their legal duty to investigate crimes even if they receive information about a cognizable offence.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "5",
+      "section_title": "Duties of police officers, service providers and Magistrate .",
+      "chunk_id": 5
+    },
+    "answer": false
+  },
+  {
+    "question": "Victims must be told about the availability of free legal services under the Legal Services Authorities Act, 1987.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "5",
+      "section_title": "Duties of police officers, service providers and Magistrate .",
+      "chunk_id": 5
+    },
+    "answer": true
+  },
+  {
+    "question": "The Act requires police officers to inform victims about services of service providers but does not require informing about Protection Officers.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "5",
+      "section_title": "Duties of police officers, service providers and Magistrate .",
+      "chunk_id": 5
+    },
+    "answer": false
+  },
+  {
+    "question": "Protection Officers must be women.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "8",
+      "section_title": "Appointment of Protection Officers.",
+      "chunk_id": 6
+    },
+    "answer": false
+  },
+  {
+    "question": "The qualifications and experience for Protection Officers are not specified in the context.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "8",
+      "section_title": "Appointment of Protection Officers.",
+      "chunk_id": 6
+    },
+    "answer": true
+  },
+  {
+    "question": "The terms and conditions of service for Protection Officers are fixed and cannot be changed.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "8",
+      "section_title": "Appointment of Protection Officers.",
+      "chunk_id": 6
+    },
+    "answer": false
+  },
+  {
+    "question": "A Protection Officer must assist the Magistrate in performing their functions under the Domestic Violence Act.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "9",
+      "section_title": "Duties and functions of Protection Officers .",
+      "chunk_id": 7
+    },
+    "answer": true
+  },
+  {
+    "question": "A Protection Officer can make a domestic incident report only if the police officer approves it first.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "9",
+      "section_title": "Duties and functions of Protection Officers .",
+      "chunk_id": 7
+    },
+    "answer": false
+  },
+  {
+    "question": "A Protection Officer must ensure the aggrieved person receives free legal aid if they request it.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "9",
+      "section_title": "Duties and functions of Protection Officers .",
+      "chunk_id": 7
+    },
+    "answer": true
+  },
+  {
+    "question": "A Protection Officer is required to personally medically examine the aggrieved person if they have injuries.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "9",
+      "section_title": "Duties and functions of Protection Officers .",
+      "chunk_id": 7
+    },
+    "answer": false
+  },
+  {
+    "question": "A service provider can record a domestic incident report only if the victim requests it.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "10",
+      "section_title": "Service providers. ",
+      "chunk_id": 8
+    },
+    "answer": true
+  },
+  {
+    "question": "A service provider must ensure the victim is provided shelter in a shelter home if she wants it.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "10",
+      "section_title": "Service providers. ",
+      "chunk_id": 8
+    },
+    "answer": false
+  },
+  {
+    "question": "A service provider can forward a medical report to the police station and Protection Officer if the victim is medically examined.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "10",
+      "section_title": "Service providers. ",
+      "chunk_id": 8
+    },
+    "answer": true
+  },
+  {
+    "question": "A service provider can be sued for actions taken in good faith under this Act.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "10",
+      "section_title": "Service providers. ",
+      "chunk_id": 8
+    },
+    "answer": false
+  },
+  {
+    "question": "The government must publicize the provisions of this Act through television, radio, and print media regularly.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "11",
+      "section_title": "Duties of Government .",
+      "chunk_id": 9
+    },
+    "answer": true
+  },
+  {
+    "question": "Police officers are not required to participate in sensitization and awareness training on the issues addressed by this Act.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "11",
+      "section_title": "Duties of Government .",
+      "chunk_id": 9
+    },
+    "answer": false
+  },
+  {
+    "question": "Effective coordination between Ministries and Departments must be established to address issues of domestic violence.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "11",
+      "section_title": "Duties of Government .",
+      "chunk_id": 9
+    },
+    "answer": true
+  },
+  {
+    "question": "Protocols for Ministries delivering services to women under this Act do not need to be prepared or put in place.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "11",
+      "section_title": "Duties of Government .",
+      "chunk_id": 9
+    },
+    "answer": false
+  },
+  {
+    "question": "The Magistrate must consider a domestic incident report before making any order on an application under this law.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "12",
+      "section_title": "Application to Magistrate. ",
+      "chunk_id": 10
+    },
+    "answer": true
+  },
+  {
+    "question": "A Magistrate can order compensation or damages even if the applicant has not filed a separate lawsuit for the same injury.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "12",
+      "section_title": "Application to Magistrate. ",
+      "chunk_id": 10
+    },
+    "answer": true
+  },
+  {
+    "question": "If a court has already awarded compensation, the Magistrate's order for compensation cannot be enforced at all.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "12",
+      "section_title": "Application to Magistrate. ",
+      "chunk_id": 10
+    },
+    "answer": false
+  },
+  {
+    "question": "Every application under this law must follow a strict government-prescribed form.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "12",
+      "section_title": "Application to Magistrate. ",
+      "chunk_id": 10
+    },
+    "answer": false
+  },
+  {
+    "question": "A Protection Officer\u2019s declaration of service is automatically proof that notice was served.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "13",
+      "section_title": "Service of notice. ",
+      "chunk_id": 11
+    },
+    "answer": false
+  },
+  {
+    "question": "The Magistrate can direct that notice also be served on other persons.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "13",
+      "section_title": "Service of notice. ",
+      "chunk_id": 11
+    },
+    "answer": true
+  },
+  {
+    "question": "The Protection Officer\u2019s declaration of service is final and cannot be challenged.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "13",
+      "section_title": "Service of notice. ",
+      "chunk_id": 11
+    },
+    "answer": false
+  },
+  {
+    "question": "The form of the declaration of service must follow rules set by the Magistrate.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "13",
+      "section_title": "Service of notice. ",
+      "chunk_id": 11
+    },
+    "answer": false
+  },
+  {
+    "question": "The Magistrate must set the next court date within two months after giving a direction under Section 14.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "14",
+      "section_title": "Counselling .",
+      "chunk_id": 12
+    },
+    "answer": true
+  },
+  {
+    "question": "The Magistrate can delay setting the next hearing date beyond two months if the case is complex.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "14",
+      "section_title": "Counselling .",
+      "chunk_id": 12
+    },
+    "answer": false
+  },
+  {
+    "question": "If the Magistrate issues a direction under Section 14, the next hearing date must be fixed immediately.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "14",
+      "section_title": "Counselling .",
+      "chunk_id": 12
+    },
+    "answer": false
+  },
+  {
+    "question": "The time limit for fixing the next hearing date is strictly not more than two months.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "14",
+      "section_title": "Counselling .",
+      "chunk_id": 12
+    },
+    "answer": true
+  },
+  {
+    "question": "The respondent can evict the aggrieved person from the shared household without following any legal procedure.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "17",
+      "section_title": "Right to reside in a shared household. ",
+      "chunk_id": 13
+    },
+    "answer": false
+  },
+  {
+    "question": "The shared household includes only the parts of the home where the respondent lives.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "17",
+      "section_title": "Right to reside in a shared household. ",
+      "chunk_id": 13
+    },
+    "answer": false
+  },
+  {
+    "question": "The respondent must follow a legal procedure to evict or exclude the aggrieved person from the shared household.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "17",
+      "section_title": "Right to reside in a shared household. ",
+      "chunk_id": 13
+    },
+    "answer": true
+  },
+  {
+    "question": "A protection order can stop someone from entering the workplace of the person they are accused of abusing.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "18",
+      "section_title": "Protection orders. ",
+      "chunk_id": 14
+    },
+    "answer": true
+  },
+  {
+    "question": "The law allows the respondent to take money from a shared bank account without permission if the aggrieved person does not object.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "18",
+      "section_title": "Protection orders. ",
+      "chunk_id": 14
+    },
+    "answer": false
+  },
+  {
+    "question": "A person can be protected from all forms of communication, including emails or phone calls, under a protection order.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "18",
+      "section_title": "Protection orders. ",
+      "chunk_id": 14
+    },
+    "answer": true
+  },
+  {
+    "question": "The protection order only applies if the abuser lives in the same home as the victim.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "18",
+      "section_title": "Protection orders. ",
+      "chunk_id": 14
+    },
+    "answer": false
+  },
+  {
+    "question": "A restraining order can prevent a respondent from removing the aggrieved person from the shared household, even if the respondent owns the house.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "19",
+      "section_title": "Residence orders. ",
+      "chunk_id": 15
+    },
+    "answer": true
+  },
+  {
+    "question": "The Magistrate cannot pass an order directing the respondent to leave the shared household if the respondent is a woman.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "19",
+      "section_title": "Residence orders. ",
+      "chunk_id": 15
+    },
+    "answer": true
+  },
+  {
+    "question": "A residence order can require the respondent to pay rent for alternate accommodation for the aggrieved person, but only if the respondent agrees.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "19",
+      "section_title": "Residence orders. ",
+      "chunk_id": 15
+    },
+    "answer": false
+  },
+  {
+    "question": "The Magistrate can impose additional conditions to protect the aggrieved person, even if those conditions are not specifically listed in the law.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "19",
+      "section_title": "Residence orders. ",
+      "chunk_id": 15
+    },
+    "answer": true
+  },
+  {
+    "question": "Monetary relief can include the loss of earnings suffered by the aggrieved person.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "20",
+      "section_title": "Monetary reliefs .",
+      "chunk_id": 16
+    },
+    "answer": true
+  },
+  {
+    "question": "The Magistrate can order a lump sum payment or monthly payments of maintenance.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "20",
+      "section_title": "Monetary reliefs .",
+      "chunk_id": 16
+    },
+    "answer": true
+  },
+  {
+    "question": "The Magistrate must send a copy of the monetary relief order only to the aggrieved person.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "20",
+      "section_title": "Monetary reliefs .",
+      "chunk_id": 16
+    },
+    "answer": false
+  },
+  {
+    "question": "If the respondent fails to pay the monetary relief, the Magistrate can direct the employer to pay the aggrieved person directly from the respondent's wages.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "20",
+      "section_title": "Monetary reliefs .",
+      "chunk_id": 16
+    },
+    "answer": true
+  },
+  {
+    "question": "The Magistrate must allow visits if the respondent requests them.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "21",
+      "section_title": "Custody orders. ",
+      "chunk_id": 17
+    },
+    "answer": false
+  },
+  {
+    "question": "A Magistrate can refuse a visit if they believe it may harm the child.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "21",
+      "section_title": "Custody orders. ",
+      "chunk_id": 17
+    },
+    "answer": true
+  },
+  {
+    "question": "The Magistrate can allow visits even if the child's interests are at risk.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "21",
+      "section_title": "Custody orders. ",
+      "chunk_id": 17
+    },
+    "answer": false
+  },
+  {
+    "question": "The Magistrate can grant an ex parte order only if the respondent has already committed an act of domestic violence.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "23",
+      "section_title": "Power to grant interim and _ex parte_ orders .",
+      "chunk_id": 18
+    },
+    "answer": false
+  },
+  {
+    "question": "An ex parte order can be granted based on the affidavit of the aggrieved person without the respondent being present.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "23",
+      "section_title": "Power to grant interim and _ex parte_ orders .",
+      "chunk_id": 18
+    },
+    "answer": true
+  },
+  {
+    "question": "The Magistrate must be satisfied that there is a likelihood the respondent may commit an act of domestic violence before granting an ex parte order.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "23",
+      "section_title": "Power to grant interim and _ex parte_ orders .",
+      "chunk_id": 18
+    },
+    "answer": true
+  },
+  {
+    "question": "An ex parte order can be granted under Section 23 even if the affidavit does not disclose any act of domestic violence.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "23",
+      "section_title": "Power to grant interim and _ex parte_ orders .",
+      "chunk_id": 18
+    },
+    "answer": false
+  },
+  {
+    "question": "The court must provide copies of orders free of cost.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "24",
+      "section_title": "Court to give copies of order free of cost.",
+      "chunk_id": 19
+    },
+    "answer": true
+  },
+  {
+    "question": "Courts can charge a small fee for providing copies of orders.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "24",
+      "section_title": "Court to give copies of order free of cost.",
+      "chunk_id": 19
+    },
+    "answer": false
+  },
+  {
+    "question": "Section 24 requires courts to give copies of orders without any condition.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "24",
+      "section_title": "Court to give copies of order free of cost.",
+      "chunk_id": 19
+    },
+    "answer": false
+  },
+  {
+    "question": "The rule applies to all types of court orders.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "24",
+      "section_title": "Court to give copies of order free of cost.",
+      "chunk_id": 19
+    },
+    "answer": true
+  },
+  {
+    "question": "The Magistrate can change an order if both the aggrieved person and the respondent agree.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "25",
+      "section_title": "Duration and alteration of orders .",
+      "chunk_id": 20
+    },
+    "answer": false
+  },
+  {
+    "question": "The Magistrate must record reasons in writing before altering an order.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "25",
+      "section_title": "Duration and alteration of orders .",
+      "chunk_id": 20
+    },
+    "answer": true
+  },
+  {
+    "question": "The Magistrate can alter an order only if there is a change in circumstances.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "25",
+      "section_title": "Duration and alteration of orders .",
+      "chunk_id": 20
+    },
+    "answer": true
+  },
+  {
+    "question": "The Magistrate can revoke an order even if no one applies for it.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "25",
+      "section_title": "Duration and alteration of orders .",
+      "chunk_id": 20
+    },
+    "answer": false
+  },
+  {
+    "question": "A person can ask for relief under Section 26 in the same case where they are also seeking other types of relief.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "26",
+      "section_title": "Relief in other suits and legal proceedings .",
+      "chunk_id": 21
+    },
+    "answer": true
+  },
+  {
+    "question": "If a person gets relief from a court that is not under this Act, they do not need to tell the Magistrate about it.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "26",
+      "section_title": "Relief in other suits and legal proceedings .",
+      "chunk_id": 21
+    },
+    "answer": false
+  },
+  {
+    "question": "Relief under Section 26 can only be sought in criminal court proceedings.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "26",
+      "section_title": "Relief in other suits and legal proceedings .",
+      "chunk_id": 21
+    },
+    "answer": false
+  },
+  {
+    "question": "The Magistrate must be informed if relief was granted in another legal proceeding.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "26",
+      "section_title": "Relief in other suits and legal proceedings .",
+      "chunk_id": 21
+    },
+    "answer": true
+  },
+  {
+    "question": "A protection order under this Act can only be granted by a court where the respondent lives.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "27",
+      "section_title": "Jurisdiction .",
+      "chunk_id": 22
+    },
+    "answer": false
+  },
+  {
+    "question": "If the cause of action happened in Delhi, a court in Delhi can grant a protection order under this Act.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "27",
+      "section_title": "Jurisdiction .",
+      "chunk_id": 22
+    },
+    "answer": true
+  },
+  {
+    "question": "An order made under this Act is valid only in the state where it was issued.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "27",
+      "section_title": "Jurisdiction .",
+      "chunk_id": 22
+    },
+    "answer": false
+  },
+  {
+    "question": "A court can grant a protection order if the person seeking it works in that court's area, even if they do not live there.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "27",
+      "section_title": "Jurisdiction .",
+      "chunk_id": 22
+    },
+    "answer": true
+  },
+  {
+    "question": "The court has the power to create its own procedure for handling applications under Section 12.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "28",
+      "section_title": "Procedure .",
+      "chunk_id": 23
+    },
+    "answer": true
+  },
+  {
+    "question": "The court must follow the procedure set in sub-section (1) and cannot change it for any application.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "28",
+      "section_title": "Procedure .",
+      "chunk_id": 23
+    },
+    "answer": false
+  },
+  {
+    "question": "The court can set its own procedure for disposal of applications under sub-section (2) of Section 23.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "28",
+      "section_title": "Procedure .",
+      "chunk_id": 23
+    },
+    "answer": true
+  },
+  {
+    "question": "Sub-section (1) completely prevents the court from making any changes to the standard procedure for disposal of applications.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "28",
+      "section_title": "Procedure .",
+      "chunk_id": 23
+    },
+    "answer": false
+  },
+  {
+    "question": "An appeal is a request to a higher court to review a lower court's decision.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "29",
+      "section_title": "Appeal. ",
+      "chunk_id": 24
+    },
+    "answer": true
+  },
+  {
+    "question": "Section 29 allows any person to appeal any court decision without restrictions.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "29",
+      "section_title": "Appeal. ",
+      "chunk_id": 24
+    },
+    "answer": false
+  },
+  {
+    "question": "Appeals can only be made if the original court agrees to the request.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "29",
+      "section_title": "Appeal. ",
+      "chunk_id": 24
+    },
+    "answer": false
+  },
+  {
+    "question": "The purpose of an appeal is to correct errors made in the original trial.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "29",
+      "section_title": "Appeal. ",
+      "chunk_id": 24
+    },
+    "answer": true
+  },
+  {
+    "question": "Protection officers under Section 30 are considered public servants.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "30",
+      "section_title": "Protection Officers and members of service providers to be public servants .",
+      "chunk_id": 25
+    },
+    "answer": true
+  },
+  {
+    "question": "Members of service providers are not covered under Section 30.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "30",
+      "section_title": "Protection Officers and members of service providers to be public servants .",
+      "chunk_id": 25
+    },
+    "answer": false
+  },
+  {
+    "question": "Section 30 applies only to protection officers and not to their assistants.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "30",
+      "section_title": "Protection Officers and members of service providers to be public servants .",
+      "chunk_id": 25
+    },
+    "answer": false
+  },
+  {
+    "question": "Protection officers and service provider members have legal immunity like other public servants.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "30",
+      "section_title": "Protection Officers and members of service providers to be public servants .",
+      "chunk_id": 25
+    },
+    "answer": true
+  },
+  {
+    "question": "The Magistrate who originally passed the protection order must try the breach case if possible.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "31",
+      "section_title": "Penalty for breach of protection order by respondent. ",
+      "chunk_id": 26
+    },
+    "answer": true
+  },
+  {
+    "question": "The Magistrate can only try charges for breaching the protection order under this section.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "31",
+      "section_title": "Penalty for breach of protection order by respondent. ",
+      "chunk_id": 26
+    },
+    "answer": false
+  },
+  {
+    "question": "The Magistrate may also charge the accused under the Dowry Prohibition Act if the facts support it.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "31",
+      "section_title": "Penalty for breach of protection order by respondent. ",
+      "chunk_id": 26
+    },
+    "answer": true
+  },
+  {
+    "question": "The court can use only the victim's statement to decide if a crime under section 31(1) was committed.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "32",
+      "section_title": "Cognizance and proof .",
+      "chunk_id": 27
+    },
+    "answer": true
+  },
+  {
+    "question": "The court must have additional evidence besides the victim's testimony to prove the crime.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "32",
+      "section_title": "Cognizance and proof .",
+      "chunk_id": 27
+    },
+    "answer": false
+  },
+  {
+    "question": "Section 32 allows the court to consider the victim's statement alone for proving the offence.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "32",
+      "section_title": "Cognizance and proof .",
+      "chunk_id": 27
+    },
+    "answer": true
+  },
+  {
+    "question": "The victim's testimony alone is not sufficient for the court to find the accused guilty.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "32",
+      "section_title": "Cognizance and proof .",
+      "chunk_id": 27
+    },
+    "answer": false
+  },
+  {
+    "question": "A Protection Officer can be penalized for failing to perform their duty.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "33",
+      "section_title": "Penalty for not discharging duty by Protection Officer.",
+      "chunk_id": 28
+    },
+    "answer": true
+  },
+  {
+    "question": "Penalty under Section 33 applies only if the Protection Officer intentionally ignores their duty.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "33",
+      "section_title": "Penalty for not discharging duty by Protection Officer.",
+      "chunk_id": 28
+    },
+    "answer": false
+  },
+  {
+    "question": "A Protection Officer cannot be penalized if the duty is not discharged due to lack of resources.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "33",
+      "section_title": "Penalty for not discharging duty by Protection Officer.",
+      "chunk_id": 28
+    },
+    "answer": false
+  },
+  {
+    "question": "A Protection Officer can be prosecuted for an offence committed during duty without prior sanction.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "34",
+      "section_title": "Cognizance of offence committed by Protection Officer .",
+      "chunk_id": 29
+    },
+    "answer": false
+  },
+  {
+    "question": "No court can take cognizance of an offence committed by a Protection Officer unless a complaint is made by the designated authority.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "34",
+      "section_title": "Cognizance of offence committed by Protection Officer .",
+      "chunk_id": 29
+    },
+    "answer": true
+  },
+  {
+    "question": "A complaint against a Protection Officer must be filed within 6 months of the offence being committed.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "34",
+      "section_title": "Cognizance of offence committed by Protection Officer .",
+      "chunk_id": 29
+    },
+    "answer": false
+  },
+  {
+    "question": "The designated authority has the power to grant sanction for prosecuting a Protection Officer.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "34",
+      "section_title": "Cognizance of offence committed by Protection Officer .",
+      "chunk_id": 29
+    },
+    "answer": true
+  },
+  {
+    "question": "Protection under Section 35 applies only if the action is taken with a good intention.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "35",
+      "section_title": "Protection of action taken in good faith .",
+      "chunk_id": 30
+    },
+    "answer": true
+  },
+  {
+    "question": "Section 35 protects all actions taken by a person, even if done maliciously.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "35",
+      "section_title": "Protection of action taken in good faith .",
+      "chunk_id": 30
+    },
+    "answer": false
+  },
+  {
+    "question": "Good faith under Section 35 means the person acted honestly, regardless of the outcome.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "35",
+      "section_title": "Protection of action taken in good faith .",
+      "chunk_id": 30
+    },
+    "answer": true
+  },
+  {
+    "question": "Protection under Section 35 is automatic and does not require any conditions to be met.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "35",
+      "section_title": "Protection of action taken in good faith .",
+      "chunk_id": 30
+    },
+    "answer": false
+  },
+  {
+    "question": "This law replaces all other existing laws.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "36",
+      "section_title": "Act not in derogation of any other law.",
+      "chunk_id": 31
+    },
+    "answer": false
+  },
+  {
+    "question": "This law does not cancel out other laws unless it says so.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "36",
+      "section_title": "Act not in derogation of any other law.",
+      "chunk_id": 31
+    },
+    "answer": true
+  },
+  {
+    "question": "If another law conflicts with this one, this law will automatically override it.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "36",
+      "section_title": "Act not in derogation of any other law.",
+      "chunk_id": 31
+    },
+    "answer": false
+  },
+  {
+    "question": "This law is meant to work together with other laws, not against them.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "36",
+      "section_title": "Act not in derogation of any other law.",
+      "chunk_id": 31
+    },
+    "answer": true
+  },
+  {
+    "question": "The Central Government can make rules about the qualifications required for a Protection Officer.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "37",
+      "section_title": "Power of Central Government to make rules. ",
+      "chunk_id": 32
+    },
+    "answer": true
+  },
+  {
+    "question": "Rules made under this Act do not need to be approved by Parliament.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "37",
+      "section_title": "Power of Central Government to make rules. ",
+      "chunk_id": 32
+    },
+    "answer": false
+  },
+  {
+    "question": "The form for filing an application for a protection order is specified in the rules under this section.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "37",
+      "section_title": "Power of Central Government to make rules. ",
+      "chunk_id": 32
+    },
+    "answer": true
+  },
+  {
+    "question": "Modifications made by Parliament to a rule do not affect actions already taken under that rule.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "37",
+      "section_title": "Power of Central Government to make rules. ",
+      "chunk_id": 32
+    },
+    "answer": true
+  }
+]

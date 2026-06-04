@@ -17,6 +17,14 @@ const domainCards = [
     iconBg: 'bg-emerald-100',
     iconColor: 'text-emerald-600',
   },
+  {
+    name: 'Women Safety',
+    icon: ShieldCheckIcon,
+    description: 'Protection from domestic violence and workplace harassment',
+    color: 'from-pink-500 to-rose-600',
+    iconBg: 'bg-pink-100',
+    iconColor: 'text-pink-600',
+  }
 ];
 
 const difficulties = [

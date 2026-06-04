@@ -272,6 +272,7 @@ const QuestionTypeBadge = ({ type }) => {
 };
 const DOMAIN_MAP = {
   "Consumer Rights": "consumer_law",
+  "Women Safety": "women_safety",
 };
 
 const DIFFICULTY_MAP = {

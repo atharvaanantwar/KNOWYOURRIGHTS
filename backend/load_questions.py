@@ -31,15 +31,15 @@ def map_type(t):
         return "mcq"
 
 
-def extract_domain(metadata):
-    # You can customize this later
-    return "consumer_law"
-
-
 # =========================
 # LOADER
 # =========================
-def load_file(filepath, db):
+def load_file(filepath, db, domain_name):
+    import os
+    if not os.path.exists(filepath):
+        print(f"⚠️ File not found: {filepath}")
+        return
+
     with open(filepath, "r", encoding="utf-8") as f:
         data = json.load(f)
 
@@ -63,7 +63,7 @@ def load_file(filepath, db):
             # 🧱 Base object
             question = Question(
                 question_type=q_type,
-                domain=extract_domain(q.get("metadata", {})),
+                domain=domain_name,
                 difficulty=difficulty,
                 question_text=question_text,
                 extra_metadata=q.get("metadata"),
@@ -97,6 +97,11 @@ def load_file(filepath, db):
 
         except IntegrityError:
             db.rollback()
+            # Update domain if it changed
+            existing = db.query(Question).filter_by(content_hash=content_hash).first()
+            if existing and existing.domain != domain_name:
+                existing.domain = domain_name
+                db.commit()
             skipped += 1
 
         except Exception as e:
@@ -115,9 +120,13 @@ def main():
 
     print("🚀 Loading questions...")
 
-    load_file("data/tf.json", db)
-    load_file("data/mcq.json", db)
-    load_file("data/match_pair.json", db)
+    load_file("data/consumer_rights_tf.json", db, "consumer_law")
+    load_file("data/consumer_rights_mcq.json", db, "consumer_law")
+    load_file("data/consumer_rights_match_pair.json", db, "consumer_law")
+
+    load_file("data/women_safety_tf.json", db, "women_safety")
+    load_file("data/women_safety_mcq.json", db, "women_safety")
+    load_file("data/women_safety_match_pair.json", db, "women_safety")
 
     db.close()
 
@@ -125,4 +134,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main()
