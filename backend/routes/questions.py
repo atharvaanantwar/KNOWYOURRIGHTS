@@ -6,6 +6,8 @@ from uuid import UUID
 from db import get_db
 from storage import repo
 from models.models import Question
+from config.references import get_references_by_domain
+from schema.question import ReferenceLink
 
 router = APIRouter(prefix="/questions", tags=["Questions"])
 
@@ -160,9 +162,23 @@ def submit_answer(
 
     elif q.question_type == "tf":
         response["correct_answer"] = q.answer
+        response["explanation"] = q.explanation
 
     elif q.question_type == "match":
         response["correct_answer"] = q.correct_pairs
+        response["explanation"] = q.explanation
+
+    # Attach references based on domain
+    domain = q.domain  # Assuming domain field exists on Question model
+    reference_data = get_references_by_domain(domain)
+    response["references"] = [
+        ReferenceLink(
+            title=ref["title"],
+            url=ref["url"],
+            description=ref["description"]
+        ).dict()
+        for ref in reference_data
+    ]
 
     return response
 

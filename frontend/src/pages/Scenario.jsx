@@ -11,6 +11,7 @@ import {
   ArrowLeftIcon,
   ExclamationTriangleIcon,
   ShieldCheckIcon,
+  ArrowTopRightOnSquareIcon,
 } from '@heroicons/react/24/solid';
 import useGameStore from '../store/gameStore';
 import { api } from '../services/api';
@@ -451,6 +452,11 @@ console.log("Selected:", selectedDomain, selectedDifficulty);
         setBackendExplanation(res.explanation);
       }
 
+      // Store references from backend
+      if (res.references) {
+        setScenario(prev => ({ ...prev, references: res.references }));
+      }
+
     } catch (err) {
       console.error("Answer error:", err);
     }
@@ -824,12 +830,39 @@ console.log("Selected:", selectedDomain, selectedDifficulty);
                 {backendExplanation || scenario.explanation}
               </p>
 
-              <div className="bg-white/60 rounded-xl p-4">
+              <div className="bg-white/60 rounded-xl p-4 mb-4">
                 <p className="text-sm text-slate-500 mb-1">Legal Reference</p>
                 <p className="font-semibold text-blue-700">
                   {scenario.legal_reference}
                 </p>
               </div>
+
+              {/* Official References Section */}
+              {scenario.references && scenario.references.length > 0 && (
+                <div className="bg-white/60 rounded-xl p-4 border border-blue-200">
+                  <h4 className="text-sm font-bold text-blue-700 mb-3 flex items-center gap-2">
+                    <ArrowTopRightOnSquareIcon className="w-4 h-4" />
+                    Official Documents & Resources
+                  </h4>
+                  <div className="space-y-2">
+                    {scenario.references.map((ref, idx) => (
+                      <a
+                        key={idx}
+                        href={ref.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex items-start gap-3 text-blue-600 hover:text-blue-800 hover:underline text-sm font-medium p-2 rounded hover:bg-blue-50 transition group"
+                      >
+                        <ArrowTopRightOnSquareIcon className="w-4 h-4 mt-0.5 flex-shrink-0 group-hover:translate-x-0.5 transition" />
+                        <div className="flex-1">
+                          <div className="font-semibold">{ref.title}</div>
+                          <div className="text-xs text-slate-600 mt-0.5">{ref.description}</div>
+                        </div>
+                      </a>
+                    ))}
+                  </div>
+                </div>
+              )}
             </motion.div>
           )}
         </AnimatePresence>

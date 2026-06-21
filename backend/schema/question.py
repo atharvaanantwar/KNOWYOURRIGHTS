@@ -32,11 +32,19 @@ class QuestionOut(BaseModel):
         from_attributes = True  # allows converting SQLAlchemy model directly to this schema
 
 
+class ReferenceLink(BaseModel):
+    """Official reference link for a question domain."""
+    title: str              # e.g., "Official Consumer Protection Portal"
+    url: str                # Official link URL
+    description: str        # Brief description of the resource
+
+
 class FeedbackOut(BaseModel):
-    """Returned by GET /feedback/{question_id} after user submits an answer."""
-    question_id:   UUID
+    """Returned after user submits an answer."""
+    correct: bool
     correct_answer: str
-    feedback:      Optional[str] = None
+    explanation: Optional[str] = None
+    references: Optional[List[ReferenceLink]] = None
 
     class Config:
         from_attributes = True

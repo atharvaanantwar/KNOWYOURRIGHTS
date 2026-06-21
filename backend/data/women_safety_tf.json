@@ -4,6 +4,8 @@
     "type": "true_false",
     "difficulty": "easy",
     "used": false,
+    "answer": true,
+    "explanation": "This is TRUE. The Protection of Women from Domestic Violence Act, 2005 is a comprehensive Indian law enacted to protect women from domestic violence. It provides legal remedies and protection orders to women experiencing abuse within their homes.",
     "metadata": {
       "source": "Protection of Women from Domestic Violence Act, 2005.md",
       "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
@@ -13,8 +15,7 @@
       "section": null,
       "section_title": null,
       "chunk_id": 0
-    },
-    "answer": true
+    }
   },
   {
     "question": "The law was passed in the year 2000.",

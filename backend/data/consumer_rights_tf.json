@@ -4,6 +4,8 @@
     "type": "true_false",
     "difficulty": "easy",
     "used": false,
+    "answer": false,
+    "explanation": "This is FALSE. The Consumer Protection Act, 2019 was enacted to protect the rights of consumers, not businesses. The Act provides remedies for consumers who purchase defective goods or services, and establishes consumer protection authorities and commissions.",
     "metadata": {
       "source": "consumer_protection_act_2019.md",
       "document_name": "consumer_protection_act_2019.md",
@@ -13,14 +15,15 @@
       "section": null,
       "section_title": null,
       "chunk_id": 0
-    },
-    "answer": false
+    }
   },
   {
     "question": "Under the Consumer Protection Act, 2019, the government can set up authorities to settle consumer disputes.",
     "type": "true_false",
     "difficulty": "easy",
     "used": false,
+    "answer": true,
+    "explanation": "This is TRUE. The Consumer Protection Act, 2019 establishes the Central Consumer Protection Authority (CCPA) and State and District Consumer Disputes Redressal Commissions to handle consumer complaints and disputes. These authorities are responsible for settling disputes between consumers and manufacturers/sellers.",
     "metadata": {
       "source": "consumer_protection_act_2019.md",
       "document_name": "consumer_protection_act_2019.md",
@@ -30,8 +33,7 @@
       "section": null,
       "section_title": null,
       "chunk_id": 0
-    },
-    "answer": true
+    }
   },
   {
     "question": "The Consumer Protection Act, 2019 applies only to goods and not services.",

@@ -75,6 +75,7 @@ def load_file(filepath, db, domain_name):
             # =========================
             if q_type == "tf":
                 question.answer = q["answer"]
+                question.explanation = q.get("explanation")
 
             elif q_type == "mcq":
                 question.options = q.get("options")
@@ -89,6 +90,7 @@ def load_file(filepath, db, domain_name):
             elif q_type == "match":
                 question.pairs = q["pairs"]
                 question.correct_pairs = q["correct_pairs"]
+                question.explanation = q.get("explanation")
 
             # =========================
             db.add(question)
@@ -134,4 +136,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main()
