@@ -1,0 +1,1982 @@
+[
+  {
+    "question": "The Consumer Protection Act, 2019 extends to the whole of India.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. The Consumer Protection Act, 2019 applies throughout India. This means consumers across the country can use the protections and remedies provided by this law when they face issues related to goods, services, unfair trade practices, or consumer rights violations.",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "PRELIMINARY",
+      "section": "1",
+      "section_title": "Short title, extent, commencement and application",
+      "chunk_id": 0
+    },
+    "answer": true
+  },
+  {
+    "question": "The Consumer Protection Act, 2019 applies only to goods and not to services.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is incorrect. The Act protects consumers who purchase both goods and services. For example, if a person buys a defective product or receives poor-quality services such as banking, insurance, transportation, or online services, they may seek remedies under this law.",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "PRELIMINARY",
+      "section": "1",
+      "section_title": "Short title, extent, commencement and application",
+      "chunk_id": 1
+    },
+    "answer": false
+  },
+  {
+    "question": "A consumer includes a person who purchases goods online for personal use.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. The Act recognizes modern forms of shopping, including online purchases. A person who buys goods through websites, mobile applications, or other digital platforms for personal use is considered a consumer and is entitled to legal protection.",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "PRELIMINARY",
+      "section": "2",
+      "section_title": "Definitions",
+      "chunk_id": 2
+    },
+    "answer": true
+  },
+  {
+    "question": "A person buying goods for resale is considered a consumer under the Act.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is incorrect. The law mainly protects people who buy goods or services for personal use. Someone who purchases products for resale or for running a business is generally not treated as a consumer because the purchase is made for commercial purposes.",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "PRELIMINARY",
+      "section": "2",
+      "section_title": "Definitions",
+      "chunk_id": 3
+    },
+    "answer": false
+  },
+  {
+    "question": "Consumer rights include the right to consumer awareness.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. Consumer awareness means people should know their rights, responsibilities, and available remedies when purchasing goods or services. An informed consumer is less likely to be deceived by unfair business practices.",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "PRELIMINARY",
+      "section": "2",
+      "section_title": "Definitions",
+      "chunk_id": 4
+    },
+    "answer": true
+  },
+  {
+    "question": "A misleading advertisement may include deliberately concealing important information.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. An advertisement can be misleading not only by making false claims but also by hiding important facts. For example, if a company advertises a product's benefits but intentionally hides major risks, limitations, or costs, consumers may be misled.",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "PRELIMINARY",
+      "section": "2",
+      "section_title": "Definitions",
+      "chunk_id": 5
+    },
+    "answer": true
+  },
+  {
+    "question": "Deficiency in service includes deliberate withholding of relevant information from a consumer.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. A service provider is expected to provide accurate and necessary information to consumers. Intentionally hiding important details that affect a consumer's decision or rights can amount to a deficiency in service under the Act.",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "PRELIMINARY",
+      "section": "2",
+      "section_title": "Definitions",
+      "chunk_id": 6
+    },
+    "answer": true
+  },
+  {
+    "question": "The Central Consumer Protection Council is an adjudicatory body that decides consumer disputes.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is incorrect. The Central Consumer Protection Council does not decide individual consumer cases. Its role is to promote and protect consumer rights by advising the government and raising awareness about consumer issues.",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "CONSUMER PROTECTION COUNCILS",
+      "section": "3",
+      "section_title": "Central Consumer Protection Council",
+      "chunk_id": 7
+    },
+    "answer": false
+  },
+  {
+    "question": "The Central Consumer Protection Council must hold at least one meeting every year.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. Regular meetings help the Council review consumer issues, discuss emerging challenges, and recommend measures to improve consumer protection across the country.",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "CONSUMER PROTECTION COUNCILS",
+      "section": "4",
+      "section_title": "Procedure for meetings of Central Council",
+      "chunk_id": 8
+    },
+    "answer": true
+  },
+  {
+    "question": "The object of the State Consumer Protection Council is to render advice on promotion and protection of consumer rights within the State.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. The State Consumer Protection Council works to promote consumer welfare and advise on measures that can help protect consumers within that particular state.",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "CONSUMER PROTECTION COUNCILS",
+      "section": "7",
+      "section_title": "Objects of State Council",
+      "chunk_id": 9
+    },
+    "answer": true
+  },
+  {
+    "question": "Every District Consumer Protection Council must hold at least two meetings every year.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. The District Consumer Protection Council is responsible for discussing consumer-related issues and promoting consumer welfare at the district level. Holding regular meetings ensures that local consumer problems are reviewed and that steps can be taken to improve consumer protection and awareness.",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "CONSUMER PROTECTION COUNCILS",
+      "section": "8",
+      "section_title": "District Consumer Protection Council",
+      "chunk_id": 10
+    },
+    "answer": true
+  },
+  {
+    "question": "The District Consumer Protection Council is headed by the Chief Commissioner of the Central Authority.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is incorrect. The District Consumer Protection Council is led by the District Collector or an equivalent district-level administrative officer. The Chief Commissioner of the Central Consumer Protection Authority works at the national level and does not head district councils.",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "CONSUMER PROTECTION COUNCILS",
+      "section": "8",
+      "section_title": "District Consumer Protection Council",
+      "chunk_id": 11
+    },
+    "answer": false
+  },
+  {
+    "question": "The Central Consumer Protection Authority (CCPA) was established to protect and enforce consumer rights as a class.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. The Central Consumer Protection Authority (CCPA) was created to safeguard consumers from unfair trade practices, misleading advertisements, and unsafe goods or services. Instead of helping only one individual consumer, it can take action to protect the interests of consumers as a whole.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENTRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "10",
+      "section_title": "Establishment of Central Consumer Protection Authority",
+      "chunk_id": 12
+    },
+    "answer": true
+  },
+  {
+    "question": "The headquarters of the Central Consumer Protection Authority must be located in Mumbai.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is incorrect. The headquarters of the Central Consumer Protection Authority is located in the National Capital Region (NCR) of Delhi. From there, it coordinates actions and policies related to consumer protection across the country.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENTRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "10",
+      "section_title": "Establishment of Central Consumer Protection Authority",
+      "chunk_id": 13
+    },
+    "answer": false
+  },
+  {
+    "question": "A vacancy in the Central Authority automatically invalidates all its proceedings.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is incorrect. Government bodies often continue functioning even when some positions are vacant. The law ensures that the work of the Central Consumer Protection Authority does not stop simply because a post is temporarily unfilled or there is a minor defect in its composition.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENTRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "12",
+      "section_title": "Vacancy not to invalidate proceedings",
+      "chunk_id": 14
+    },
+    "answer": false
+  },
+  {
+    "question": "The Central Authority may engage experts in fields such as law, medicine, engineering and consumer welfare.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. Consumer issues can involve complex subjects such as product safety, healthcare services, technology, engineering defects, or legal disputes. Therefore, the Authority can seek help from specialists who have expert knowledge in these areas.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENTRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "13",
+      "section_title": "Appointment of experts and professionals",
+      "chunk_id": 15
+    },
+    "answer": true
+  },
+  {
+    "question": "The Investigation Wing of the Central Authority is headed by a Director-General.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. The Investigation Wing is responsible for examining complaints, gathering evidence, and investigating possible violations of consumer rights. A Director-General leads this wing to ensure investigations are conducted effectively.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENTRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "15",
+      "section_title": "Investigation Wing",
+      "chunk_id": 16
+    },
+    "answer": true
+  },
+  {
+    "question": "Only the Central Authority can receive complaints relating to consumer rights violations.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is incorrect. Consumers are not required to approach only the Central Authority. Complaints can also be reported to designated local authorities such as District Collectors or regional offices, making it easier for consumers to seek help.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENTRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "17",
+      "section_title": "Complaints to authorities",
+      "chunk_id": 17
+    },
+    "answer": false
+  },
+  {
+    "question": "The Central Authority may undertake and promote research in the field of consumer rights.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. Research helps identify emerging consumer issues, new types of fraud, unsafe products, and changing market practices. By studying these topics, the Authority can develop better policies and protections for consumers.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENTRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "18",
+      "section_title": "Powers and functions of Central Authority",
+      "chunk_id": 18
+    },
+    "answer": true
+  },
+  {
+    "question": "The Central Authority can issue safety notices warning consumers about dangerous or hazardous goods and services.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. One of the important responsibilities of the Central Consumer Protection Authority is to protect consumers from unsafe products and services. If a product or service is found to pose risks to health, safety, or property, the Authority can issue public warnings so that consumers can avoid harm and make informed decisions.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENTRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "18",
+      "section_title": "Powers and functions of Central Authority",
+      "chunk_id": 19
+    },
+    "answer": true
+  },
+  {
+    "question": "The Central Authority may order the recall of goods found to be dangerous, hazardous or unsafe to consumers.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. If an investigation shows that a product could harm consumers, the Central Consumer Protection Authority can require the manufacturer or seller to remove that product from the market. This process, known as a recall, helps prevent injuries and protects the public from unsafe goods.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENTRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "20",
+      "section_title": "Power of Central Authority to recall goods",
+      "chunk_id": 20
+    },
+    "answer": true
+  },
+  {
+    "question": "Before ordering the recall of goods, the Central Authority must provide the concerned person an opportunity to be heard.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. The law follows the principle of natural justice, which means that a person or business affected by an order should be given a chance to explain their side of the case before a final decision is made.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENTRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "20",
+      "section_title": "Power of Central Authority to recall goods",
+      "chunk_id": 21
+    },
+    "answer": true
+  },
+  {
+    "question": "For a first false or misleading advertisement, the Central Authority may impose a penalty of up to ten lakh rupees on the manufacturer or endorser.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. Businesses and endorsers are expected to provide truthful information in advertisements. If an advertisement contains false claims or misleads consumers, the Authority can impose substantial financial penalties to discourage deceptive marketing practices.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENTRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "21",
+      "section_title": "Directions and penalties against misleading advertisements",
+      "chunk_id": 22
+    },
+    "answer": true
+  },
+  {
+    "question": "An endorser who exercised due diligence to verify advertisement claims can still be penalized without exception.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is incorrect. The law recognizes that endorsers may rely on information provided by companies. If an endorser took reasonable steps to verify the claims made in an advertisement and acted responsibly, they may be protected from penalties. This encourages careful verification rather than blind promotion.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENTRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "21",
+      "section_title": "Directions and penalties against misleading advertisements",
+      "chunk_id": 23
+    },
+    "answer": false
+  },
+  {
+    "question": "The Central Authority may prohibit an endorser of a misleading advertisement from endorsing products for a specified period.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. In serious cases involving misleading advertisements, the Authority can temporarily ban an endorser from promoting products or services. This measure helps ensure that public figures and influencers act responsibly when making endorsements that could influence consumer decisions.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENTRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "21",
+      "section_title": "Directions and penalties against misleading advertisements",
+      "chunk_id": 24
+    },
+    "answer": true
+  },
+  {
+    "question": "The Director-General may conduct search and seizure operations when there is reason to believe that consumer rights have been violated.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. When there is reasonable suspicion that a business has violated consumer rights or engaged in unfair practices, the Investigation Wing can inspect premises, collect evidence, and seize relevant documents or materials. These powers help authorities investigate complaints effectively and prevent businesses from hiding evidence.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENTRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "22",
+      "section_title": "Search and seizure",
+      "chunk_id": 25
+    },
+    "answer": true
+  },
+  {
+    "question": "A person aggrieved by an order under Sections 20 or 21 may appeal to the National Commission within thirty days.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. The law provides a right to appeal so that individuals or businesses affected by certain orders of the Central Consumer Protection Authority can request a higher authority to review the decision. This helps ensure fairness and accountability in the legal process.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENTRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "24",
+      "section_title": "Appeal",
+      "chunk_id": 26
+    },
+    "answer": true
+  },
+  {
+    "question": "The District Commission is established by the Central Government in every district.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is incorrect. District Consumer Commissions are established by State Governments, not the Central Government. These commissions serve as the first level of consumer dispute resolution and help consumers seek remedies locally.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTES REDRESSAL COMMISSION",
+      "section": "28",
+      "section_title": "Establishment of District Commission",
+      "chunk_id": 27
+    },
+    "answer": false
+  },
+  {
+    "question": "A District Commission consists of a President and at least two members.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. The District Commission is designed to function as a multi-member body so that consumer disputes can be examined fairly from different perspectives. The President leads the Commission, while other members assist in deciding cases.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTES REDRESSAL COMMISSION",
+      "section": "28",
+      "section_title": "Establishment of District Commission",
+      "chunk_id": 28
+    },
+    "answer": true
+  },
+  {
+    "question": "The District Commission has jurisdiction to entertain complaints where the value of goods or services paid as consideration does not exceed one crore rupees.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. Consumer disputes are divided among different commissions based on the value involved. Claims up to the prescribed monetary limit can be filed before the District Commission, making consumer justice more accessible at the local level.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTES REDRESSAL COMMISSION",
+      "section": "34",
+      "section_title": "Jurisdiction of District Commission",
+      "chunk_id": 29
+    },
+    "answer": true
+  },
+  {
+    "question": "The District Commission may refer consumer disputes to mediation when appropriate.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. Mediation is a process in which an impartial mediator helps both parties reach a mutually acceptable solution. Referring suitable cases to mediation can save time, reduce legal costs, and help resolve disputes without a lengthy court process.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTES REDRESSAL COMMISSION",
+      "section": "37",
+      "section_title": "Reference to mediation",
+      "chunk_id": 30
+    },
+    "answer": true
+  },
+  {
+    "question": "The District Commission has the power to review its own orders in certain cases.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. Sometimes a court or commission may discover an error in its own decision or find valid reasons to reconsider an order. The law allows the District Commission to review certain orders so that mistakes can be corrected and justice can be properly served.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTES REDRESSAL COMMISSION",
+      "section": "40",
+      "section_title": "Review by District Commission",
+      "chunk_id": 31
+    },
+    "answer": true
+  },
+  {
+    "question": "An appeal against an order of the District Commission lies directly to the Supreme Court of India.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is incorrect. Consumer disputes follow a structured appeal system. If a party is dissatisfied with a decision of the District Commission, the appeal must first be filed before the State Commission. Higher courts are approached only through subsequent levels of appeal provided by law.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTES REDRESSAL COMMISSION",
+      "section": "41",
+      "section_title": "Appeal against order of District Commission",
+      "chunk_id": 32
+    },
+    "answer": false
+  },
+  {
+    "question": "Every State Government must establish a State Consumer Disputes Redressal Commission.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. The State Consumer Commission serves as an important forum for resolving consumer disputes and hearing appeals from District Commissions. Establishing such a commission ensures that consumers have access to justice at the state level.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTES REDRESSAL COMMISSION",
+      "section": "42",
+      "section_title": "Establishment of State Commission",
+      "chunk_id": 33
+    },
+    "answer": true
+  },
+  {
+    "question": "The State Commission has the power to transfer consumer cases in accordance with the Act.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. In certain situations, it may be necessary to move a case from one District Commission to another to ensure convenience, fairness, or proper administration of justice. The State Commission has the authority to order such transfers when permitted by law.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTES REDRESSAL COMMISSION",
+      "section": "48",
+      "section_title": "Transfer of cases",
+      "chunk_id": 34
+    },
+    "answer": true
+  },
+  {
+    "question": "A party dissatisfied with an order of the State Commission may appeal to the National Commission.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. The consumer dispute system provides multiple levels of review. If a party believes that the State Commission's decision is incorrect or unfair, they can approach the National Commission for further examination of the case.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTES REDRESSAL COMMISSION",
+      "section": "51",
+      "section_title": "Appeal to National Commission",
+      "chunk_id": 35
+    },
+    "answer": true
+  },
+  {
+    "question": "The National Consumer Disputes Redressal Commission is established under Section 53 of the Act.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. The National Consumer Disputes Redressal Commission, often called the National Commission, is the highest consumer dispute resolution body under the Consumer Protection Act. It handles high-value consumer disputes and appeals from State Commissions.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTES REDRESSAL COMMISSION",
+      "section": "53",
+      "section_title": "Establishment of National Commission",
+      "chunk_id": 36
+    },
+    "answer": true
+  },
+  {
+    "question": "The National Commission has the power to set aside ex parte orders in appropriate cases.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. An ex parte order is a decision made when one party does not appear before the Commission. If there is a valid reason for the absence and fairness requires reconsideration, the National Commission can cancel or set aside such an order and provide an opportunity to be heard.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTES REDRESSAL COMMISSION",
+      "section": "61",
+      "section_title": "Power to set aside ex parte orders",
+      "chunk_id": 37
+    },
+    "answer": true
+  },
+  {
+    "question": "The orders of the Consumer Commissions automatically become void after one year.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is incorrect. Orders passed by Consumer Commissions do not automatically expire after a fixed period such as one year. Once an order becomes final, it continues to remain valid and enforceable unless it is modified, set aside, or overturned through the legal process.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTES REDRESSAL COMMISSION",
+      "section": "68",
+      "section_title": "Finality of orders",
+      "chunk_id": 38
+    },
+    "answer": false
+  },
+  {
+    "question": "Failure to comply with orders of the District Commission, State Commission or National Commission may attract penalties under the Act.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. Orders issued by Consumer Commissions are legally binding. If a person or business refuses to obey these orders, the law provides penalties and enforcement mechanisms to ensure that consumers receive the relief granted to them.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTES REDRESSAL COMMISSION",
+      "section": "72",
+      "section_title": "Penalty for non-compliance of order",
+      "chunk_id": 39
+    },
+    "answer": true
+  },
+  {
+    "question": "Consumer mediation cells may be established under the Consumer Protection Act, 2019.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. Consumer mediation cells provide an alternative way to resolve disputes without going through a full legal hearing. Mediation encourages both parties to discuss the issue with the help of a neutral mediator and reach a mutually acceptable solution.",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MEDIATION",
+      "section": "74",
+      "section_title": "Establishment of consumer mediation cell",
+      "chunk_id": 40
+    },
+    "answer": true
+  },
+  {
+    "question": "A mediator is required to disclose circumstances that may give rise to a conflict of interest.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. A mediator must remain neutral and unbiased. If there is any personal, financial, or professional connection that could affect the mediator's independence, it must be disclosed so that both parties can have confidence in the fairness of the mediation process.",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MEDIATION",
+      "section": "77",
+      "section_title": "Duty of mediator to disclose certain facts",
+      "chunk_id": 41
+    },
+    "answer": true
+  },
+  {
+    "question": "A settlement reached through mediation can be recorded and made the basis of an order by the Consumer Commission.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. When both parties successfully resolve their dispute through mediation, the agreement can be formally recorded and recognized by the Consumer Commission. This gives the settlement legal validity and makes it enforceable.",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MEDIATION",
+      "section": "81",
+      "section_title": "Recording settlement and passing of order",
+      "chunk_id": 42
+    },
+    "answer": true
+  },
+  {
+    "question": "A product liability action is a complaint seeking compensation for harm caused by a defective product or related deficiency in service.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. Product liability allows consumers to seek compensation when they suffer injury, loss, or damage because of a defective product or a service connected with that product. The purpose is to hold responsible parties accountable for consumer harm.",
+      "type": "legal_document",
+      "chapter": "CHAPTER VI",
+      "chapter_title": "PRODUCT LIABILITY",
+      "section": "83",
+      "section_title": "Product liability action",
+      "chunk_id": 43
+    },
+    "answer": true
+  },
+  {
+    "question": "Only product manufacturers can be held liable under the product liability provisions of the Act.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is incorrect. Responsibility for consumer harm may extend beyond the manufacturer. Depending on the circumstances, product sellers and service providers may also be held liable if their actions contributed to the defect, safety issue, or harm suffered by the consumer.",
+      "type": "legal_document",
+      "chapter": "CHAPTER VI",
+      "chapter_title": "PRODUCT LIABILITY",
+      "section": "84-86",
+      "section_title": "Liability provisions",
+      "chunk_id": 44
+    },
+    "answer": false
+  },
+  {
+    "question": "The Act provides certain exceptions where a product liability action may not be maintainable.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. Product liability laws are designed to protect consumers, but they do not apply in every situation. The Act recognizes certain circumstances where a manufacturer, seller, or service provider may not be held responsible, such as when the consumer misuses the product or ignores clear safety instructions.",
+      "type": "legal_document",
+      "chapter": "CHAPTER VI",
+      "chapter_title": "PRODUCT LIABILITY",
+      "section": "87",
+      "section_title": "Exceptions to product liability action",
+      "chunk_id": 45
+    },
+    "answer": true
+  },
+  {
+    "question": "Publishing a false or misleading advertisement may result in punishment under the Consumer Protection Act, 2019.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. Advertisements play an important role in influencing consumer decisions. If a business makes false claims, hides important facts, or otherwise misleads consumers through advertising, it may face legal penalties because such conduct can cause financial loss and unfairly influence purchasing decisions.",
+      "type": "legal_document",
+      "chapter": "CHAPTER VII",
+      "chapter_title": "OFFENCES AND PENALTIES",
+      "section": "89",
+      "section_title": "Punishment for false or misleading advertisement",
+      "chunk_id": 46
+    },
+    "answer": true
+  },
+  {
+    "question": "Manufacturing or selling products containing adulterants may attract punishment under the Act.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. Adulterants are substances that reduce the quality or safety of a product and may pose health risks to consumers. The law imposes penalties on those who manufacture, store, distribute, import, or sell such products in order to protect public health and consumer safety.",
+      "type": "legal_document",
+      "chapter": "CHAPTER VII",
+      "chapter_title": "OFFENCES AND PENALTIES",
+      "section": "90",
+      "section_title": "Punishment relating to adulterants",
+      "chunk_id": 47
+    },
+    "answer": true
+  },
+  {
+    "question": "The Central Government may take measures to prevent unfair trade practices in e-commerce and direct selling.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is correct. As online shopping and direct selling have become increasingly common, the government has the authority to introduce rules and safeguards that protect consumers from deceptive practices, hidden charges, unfair contract terms, and other forms of exploitation in digital and direct-selling markets.",
+      "type": "legal_document",
+      "chapter": "CHAPTER VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "94",
+      "section_title": "Measures to prevent unfair trade practices in e-commerce",
+      "chunk_id": 48
+    },
+    "answer": true
+  },
+  {
+    "question": "The Consumer Protection Act, 2019 completely overrides all other laws relating to consumer welfare.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "explanation": "This statement is incorrect. The Consumer Protection Act works alongside other laws rather than replacing them. Consumers may continue to have rights and remedies under other legal provisions, and the protections provided by this Act are intended to supplement those existing rights.",
+      "type": "legal_document",
+      "chapter": "CHAPTER VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "100",
+      "section_title": "Act not in derogation of any other law",
+      "chunk_id": 49
+    },
+    "answer": false
+  },
+  {
+    "question": "The Protection of Women from Domestic Violence Act, 2005 applies only in metropolitan cities of India.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is incorrect. Section 1 states that the Act extends to the whole of India. This means women across the country can seek protection under this law, regardless of whether they live in a city, town, or village.",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "PRELIMINARY",
+      "section": "1",
+      "section_title": "Short title, extent and commencement",
+      "chunk_id": 1
+    },
+    "answer": false
+  },
+  {
+    "question": "The Protection of Women from Domestic Violence Act, 2005 came into force on a date notified by the Central Government.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The Act did not automatically come into force when it was passed. The Central Government officially notified the date from which the law became operational.",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "PRELIMINARY",
+      "section": "1",
+      "section_title": "Short title, extent and commencement",
+      "chunk_id": 2
+    },
+    "answer": true
+  },
+  {
+    "question": "An aggrieved person under this Act can be any woman who alleges that she has been subjected to domestic violence.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The Act defines an aggrieved person as a woman who is or has been in a domestic relationship with the respondent and claims to have experienced domestic violence.",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "PRELIMINARY",
+      "section": "2",
+      "section_title": "Definitions",
+      "chunk_id": 3
+    },
+    "answer": true
+  },
+  {
+    "question": "A child under the Act means a person below 21 years of age.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is incorrect. Under the Act, a child is a person below the age of 18 years. The definition also includes adopted, step, and foster children.",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "PRELIMINARY",
+      "section": "2",
+      "section_title": "Definitions",
+      "chunk_id": 4
+    },
+    "answer": false
+  },
+  {
+    "question": "A domestic relationship can include people related through marriage, adoption, or living together as a joint family.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The Act uses a broad definition of domestic relationship and includes family relationships based on marriage, blood relation, adoption, relationships in the nature of marriage, and joint family living arrangements.",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "PRELIMINARY",
+      "section": "2",
+      "section_title": "Definitions",
+      "chunk_id": 5
+    },
+    "answer": true
+  },
+  {
+    "question": "A shared household means only a house that is legally owned by the aggrieved woman.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is incorrect. A shared household includes any home where the woman lived in a domestic relationship, whether or not she owns it. The purpose is to protect her residential rights even if the property belongs to someone else in the family.",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "PRELIMINARY",
+      "section": "2",
+      "section_title": "Definitions",
+      "chunk_id": 6
+    },
+    "answer": false
+  },
+  {
+    "question": "Domestic violence under the Act includes physical, sexual, verbal, emotional, and economic abuse.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The Act recognizes that violence is not limited to physical assault. Emotional humiliation, verbal abuse, financial control, and sexual abuse can also amount to domestic violence.",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "DOMESTIC VIOLENCE",
+      "section": "3",
+      "section_title": "Definition of domestic violence",
+      "chunk_id": 7
+    },
+    "answer": true
+  },
+  {
+    "question": "Demanding dowry and harassing a woman to fulfill that demand can amount to domestic violence under the Act.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The Act specifically treats harassment connected with unlawful demands for dowry, property, or valuable security as a form of domestic violence.",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "DOMESTIC VIOLENCE",
+      "section": "3",
+      "section_title": "Definition of domestic violence",
+      "chunk_id": 8
+    },
+    "answer": true
+  },
+  {
+    "question": "Economic abuse can include denying a woman access to money, property, maintenance, or household necessities.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The Act recognizes financial control and deprivation of resources as a form of abuse because it can make a woman dependent and vulnerable even without physical violence.",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "DOMESTIC VIOLENCE",
+      "section": "3",
+      "section_title": "Definition of domestic violence",
+      "chunk_id": 9
+    },
+    "answer": true
+  },
+  {
+    "question": "Only physical injuries are considered while deciding whether domestic violence has occurred.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is incorrect. The Act requires consideration of the overall facts and circumstances. Mental harm, emotional suffering, threats, financial abuse, and other forms of mistreatment can also constitute domestic violence.",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "DOMESTIC VIOLENCE",
+      "section": "3",
+      "section_title": "Definition of domestic violence",
+      "chunk_id": 10
+    },
+    "answer": false
+  },
+  {
+    "question": "Only the aggrieved woman herself can report domestic violence to a Protection Officer.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is incorrect. Any person who has reason to believe that domestic violence has occurred, is occurring, or is likely to occur may inform the Protection Officer. This allows friends, relatives, neighbors, or other concerned individuals to help victims seek protection.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "4",
+      "section_title": "Information to Protection Officer and exclusion of liability of informant",
+      "chunk_id": 11
+    },
+    "answer": false
+  },
+  {
+    "question": "A person who reports suspected domestic violence in good faith can be held criminally liable if the allegation later turns out to be incorrect.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is incorrect. The Act protects people who provide information in good faith. As long as the person honestly believed that domestic violence may have occurred, they are protected from civil and criminal liability.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "4",
+      "section_title": "Information to Protection Officer and exclusion of liability of informant",
+      "chunk_id": 12
+    },
+    "answer": false
+  },
+  {
+    "question": "A police officer receiving a domestic violence complaint must inform the woman about her right to seek legal remedies under the Act.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The Act requires police officers, Protection Officers, service providers, and Magistrates to inform the aggrieved woman about the protections and remedies available to her under the law.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "5",
+      "section_title": "Duties of police officers, service providers and Magistrate",
+      "chunk_id": 13
+    },
+    "answer": true
+  },
+  {
+    "question": "A woman complaining of domestic violence has no right to free legal services.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is incorrect. The Act specifically requires authorities to inform an aggrieved woman about her right to obtain free legal services under the Legal Services Authorities Act, 1987.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "5",
+      "section_title": "Duties of police officers, service providers and Magistrate",
+      "chunk_id": 14
+    },
+    "answer": false
+  },
+  {
+    "question": "A shelter home must provide shelter to an aggrieved woman when requested by her, a Protection Officer, or a service provider acting on her behalf.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The law ensures that women facing domestic violence have access to immediate shelter and safety when needed.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "6",
+      "section_title": "Duties of shelter homes",
+      "chunk_id": 15
+    },
+    "answer": true
+  },
+  {
+    "question": "Medical facilities may refuse treatment to an aggrieved woman if she does not have a court order.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is incorrect. If medical aid is requested by the woman, a Protection Officer, or a service provider on her behalf, the medical facility must provide assistance. A court order is not required for emergency medical support.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "7",
+      "section_title": "Duties of medical facilities",
+      "chunk_id": 16
+    },
+    "answer": false
+  },
+  {
+    "question": "The State Government appoints Protection Officers for districts under this Act.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The State Government is responsible for appointing Protection Officers and defining the areas where they will perform their duties.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "8",
+      "section_title": "Appointment of Protection Officers",
+      "chunk_id": 17
+    },
+    "answer": true
+  },
+  {
+    "question": "The Act states that Protection Officers should, as far as possible, be women.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The law encourages the appointment of women as Protection Officers because victims of domestic violence may feel more comfortable discussing sensitive issues with them.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "8",
+      "section_title": "Appointment of Protection Officers",
+      "chunk_id": 18
+    },
+    "answer": true
+  },
+  {
+    "question": "One duty of a Protection Officer is to help an aggrieved woman obtain legal aid and access prescribed complaint forms free of cost.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. Protection Officers play an important support role by helping victims access legal assistance, file complaints, and navigate the legal process.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "9",
+      "section_title": "Duties and functions of Protection Officers",
+      "chunk_id": 19
+    },
+    "answer": true
+  },
+  {
+    "question": "A Protection Officer has no responsibility to assist a woman in obtaining medical examination after domestic violence.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is incorrect. If the aggrieved woman has suffered bodily injuries, the Protection Officer must help arrange a medical examination and forward the medical report to the appropriate authorities. This helps document injuries and support legal proceedings.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "9",
+      "section_title": "Duties and functions of Protection Officers",
+      "chunk_id": 20
+    },
+    "answer": false
+  },
+  {
+    "question": "A registered service provider can record a domestic incident report if the aggrieved woman requests it.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. Registered service providers are authorized to record a Domestic Incident Report (DIR) when requested by the aggrieved woman and forward it to the relevant authorities. This helps document the complaint and initiate the legal process.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "10",
+      "section_title": "Service providers",
+      "chunk_id": 21
+    },
+    "answer": true
+  },
+  {
+    "question": "A service provider can be sued for actions honestly performed under the Act to prevent domestic violence.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is incorrect. The Act protects service providers and their members from legal proceedings for actions taken in good faith while carrying out their duties under the law.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "10",
+      "section_title": "Service providers",
+      "chunk_id": 22
+    },
+    "answer": false
+  },
+  {
+    "question": "The Government is required to spread awareness about the Domestic Violence Act through media such as television, radio, and newspapers.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The Act requires the Central and State Governments to publicize its provisions so that women are aware of their rights and available remedies.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "11",
+      "section_title": "Duties of Government",
+      "chunk_id": 23
+    },
+    "answer": true
+  },
+  {
+    "question": "Police officers and judicial officers are required to receive awareness and sensitization training regarding domestic violence issues.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The Act recognizes that effective implementation depends on trained officials who understand the nature and impact of domestic violence.",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "11",
+      "section_title": "Duties of Government",
+      "chunk_id": 24
+    },
+    "answer": true
+  },
+  {
+    "question": "Only a Protection Officer can file an application before a Magistrate under this Act.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is incorrect. An application may be presented by the aggrieved woman herself, a Protection Officer, or any other person acting on her behalf. This ensures that women can receive help even when they cannot personally approach the court.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "12",
+      "section_title": "Application to Magistrate",
+      "chunk_id": 25
+    },
+    "answer": false
+  },
+  {
+    "question": "A Magistrate should ordinarily fix the first hearing within three days of receiving an application under the Act.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The law aims to provide quick relief to victims, so the first hearing should normally be scheduled within three days of receiving the application.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "12",
+      "section_title": "Application to Magistrate",
+      "chunk_id": 26
+    },
+    "answer": true
+  },
+  {
+    "question": "The Magistrate should make efforts to dispose of an application under the Act within sixty days from the first hearing.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The Act emphasizes speedy justice because delays can leave victims without protection and support.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "12",
+      "section_title": "Application to Magistrate",
+      "chunk_id": 27
+    },
+    "answer": true
+  },
+  {
+    "question": "A notice of hearing must always be served personally by the Magistrate.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is incorrect. The Magistrate gives the notice to the Protection Officer, who is responsible for ensuring that it is served on the respondent using prescribed methods.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "13",
+      "section_title": "Service of notice",
+      "chunk_id": 28
+    },
+    "answer": false
+  },
+  {
+    "question": "The Magistrate may direct either the aggrieved person or the respondent to undergo counselling during proceedings under the Act.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. Counselling may be ordered when the Magistrate believes it could help address issues involved in the dispute or assist in resolving the situation.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "14",
+      "section_title": "Counselling",
+      "chunk_id": 29
+    },
+    "answer": true
+  },
+  {
+    "question": "If counselling is ordered, the next hearing must be fixed within a period not exceeding two months.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The law prevents counselling from causing unnecessary delays by requiring the next hearing to be scheduled within two months.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "14",
+      "section_title": "Counselling",
+      "chunk_id": 30
+    },
+    "answer": true
+  },
+  {
+    "question": "A welfare expert assisting the Magistrate under this Act must always be a relative of the aggrieved woman.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is incorrect. The Magistrate may seek assistance from a welfare expert whether or not that person is related to the aggrieved woman. The law only states that the person should preferably be a woman and capable of assisting in family welfare matters.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "15",
+      "section_title": "Assistance of welfare expert",
+      "chunk_id": 31
+    },
+    "answer": false
+  },
+  {
+    "question": "Proceedings under the Act may be conducted in private if the Magistrate considers it appropriate and a party requests it.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The Magistrate may conduct proceedings in camera, meaning privately and away from public view, to protect the privacy and dignity of those involved.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "16",
+      "section_title": "Proceedings to be held in camera",
+      "chunk_id": 32
+    },
+    "answer": true
+  },
+  {
+    "question": "A woman in a domestic relationship has the right to reside in the shared household even if she has no ownership rights in the property.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The Act protects a woman's right to live in the shared household regardless of whether she owns the property or has any legal title to it.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "17",
+      "section_title": "Right to reside in a shared household",
+      "chunk_id": 33
+    },
+    "answer": true
+  },
+  {
+    "question": "A respondent may legally evict an aggrieved woman from the shared household whenever he chooses.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is incorrect. The Act specifically states that an aggrieved woman cannot be evicted or excluded from the shared household except through a procedure established by law.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "17",
+      "section_title": "Right to reside in a shared household",
+      "chunk_id": 34
+    },
+    "answer": false
+  },
+  {
+    "question": "A protection order may prohibit the respondent from contacting the aggrieved woman through phone calls, messages, or electronic communication.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. A protection order can restrict any form of communication with the aggrieved woman if such contact may contribute to domestic violence or harassment.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "18",
+      "section_title": "Protection orders",
+      "chunk_id": 35
+    },
+    "answer": true
+  },
+  {
+    "question": "A protection order can be granted only after the Magistrate is satisfied that domestic violence has occurred or is likely to occur.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The Magistrate must first be satisfied on a prima facie basis that domestic violence has taken place or may occur before issuing a protection order.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "18",
+      "section_title": "Protection orders",
+      "chunk_id": 36
+    },
+    "answer": true
+  },
+  {
+    "question": "A residence order may direct the respondent to provide alternative accommodation or pay rent for the aggrieved woman.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The law allows the Magistrate to ensure that an aggrieved woman has a safe place to live, including ordering alternative accommodation or rent payments.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "19",
+      "section_title": "Residence orders",
+      "chunk_id": 37
+    },
+    "answer": true
+  },
+  {
+    "question": "A Magistrate can order any woman respondent to remove herself from the shared household under Section 19.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is incorrect. The Act specifically provides that an order directing a person to remove themselves from the shared household cannot be passed against a woman.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "19",
+      "section_title": "Residence orders",
+      "chunk_id": 38
+    },
+    "answer": false
+  },
+  {
+    "question": "The Magistrate may direct the respondent to return the aggrieved woman's stridhan or other property to which she is entitled.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The law recognizes a woman's right to recover her stridhan and other property that legally belongs to her.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "19",
+      "section_title": "Residence orders",
+      "chunk_id": 39
+    },
+    "answer": true
+  },
+  {
+    "question": "Monetary relief under the Act may include medical expenses, loss of earnings, and maintenance for the woman and her children.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. Monetary relief is intended to compensate for financial losses caused by domestic violence and help maintain the woman's standard of living.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "20",
+      "section_title": "Monetary reliefs",
+      "chunk_id": 40
+    },
+    "answer": true
+  },
+  {
+    "question": "The monetary relief granted by the Magistrate should be fair, reasonable, and consistent with the standard of living of the aggrieved woman.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The purpose of monetary relief is not merely symbolic compensation. The Magistrate must ensure that the amount is fair and sufficient to help the aggrieved woman maintain a standard of living similar to what she was accustomed to before the domestic violence occurred.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "20",
+      "section_title": "Monetary reliefs",
+      "chunk_id": 41
+    },
+    "answer": true
+  },
+  {
+    "question": "The Magistrate may grant temporary custody of a child to the aggrieved woman during proceedings under the Act.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The Act allows the Magistrate to grant temporary custody of children to protect their welfare and provide stability while legal proceedings are ongoing.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "21",
+      "section_title": "Custody orders",
+      "chunk_id": 42
+    },
+    "answer": true
+  },
+  {
+    "question": "The Magistrate must allow the respondent to visit the child even if such visits may harm the child's interests.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is incorrect. If the Magistrate believes that allowing the respondent to visit the child may be harmful to the child's welfare or safety, the Magistrate can refuse such visits.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "21",
+      "section_title": "Custody orders",
+      "chunk_id": 43
+    },
+    "answer": false
+  },
+  {
+    "question": "Compensation under the Act may be awarded for mental torture and emotional distress caused by domestic violence.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The Act recognizes that domestic violence causes emotional and psychological harm in addition to physical injuries, and compensation may be awarded for such suffering.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "22",
+      "section_title": "Compensation orders",
+      "chunk_id": 44
+    },
+    "answer": true
+  },
+  {
+    "question": "A Magistrate can grant interim or ex parte orders in urgent situations even before hearing the respondent.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. An ex parte order allows immediate protection when there is sufficient evidence that domestic violence has occurred or may occur. This prevents delays from putting the aggrieved woman at further risk.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "23",
+      "section_title": "Power to grant interim and ex parte orders",
+      "chunk_id": 45
+    },
+    "answer": true
+  },
+  {
+    "question": "Copies of orders passed under the Act must be provided free of cost to the parties concerned.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The law ensures that parties have free access to court orders so that they can understand, enforce, and comply with the directions issued by the Magistrate.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "24",
+      "section_title": "Court to give copies of order free of cost",
+      "chunk_id": 46
+    },
+    "answer": true
+  },
+  {
+    "question": "A protection order automatically expires after six months, even if the aggrieved woman still needs protection.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is incorrect. A protection order remains in force until the aggrieved woman applies for its discharge or the court modifies or revokes it according to law.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "25",
+      "section_title": "Duration and alteration of orders",
+      "chunk_id": 47
+    },
+    "answer": false
+  },
+  {
+    "question": "Reliefs available under the Domestic Violence Act can also be sought in certain civil, family, or criminal court proceedings.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The Act allows women to seek reliefs such as protection, residence, maintenance, custody, and compensation even in other related legal proceedings, ensuring broader access to justice.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "26",
+      "section_title": "Relief in other suits and legal proceedings",
+      "chunk_id": 48
+    },
+    "answer": true
+  },
+  {
+    "question": "An order passed under the Domestic Violence Act is enforceable only within the state where it was issued.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is incorrect. The Act specifically provides that orders passed under it are enforceable throughout India, ensuring protection even if the parties move to another state.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "27",
+      "section_title": "Jurisdiction",
+      "chunk_id": 49
+    },
+    "answer": false
+  },
+  {
+    "question": "A person aggrieved by an order of the Magistrate may appeal to the Court of Session within thirty days.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The Act provides a right to appeal, allowing either the aggrieved woman or the respondent to challenge a Magistrate's order before the Court of Session within the prescribed time limit.",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAINING ORDERS OF RELIEFS",
+      "section": "29",
+      "section_title": "Appeal",
+      "chunk_id": 50
+    },
+    "answer": true
+  },
+  {
+    "question": "Protection Officers and members of registered service providers are treated as public servants while performing duties under the Act.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The Act treats Protection Officers and service provider members as public servants when they perform duties under the law. This gives them legal authority and protection while helping victims of domestic violence.",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "30",
+      "section_title": "Protection Officers and members of service providers to be public servants",
+      "chunk_id": 51
+    },
+    "answer": true
+  },
+  {
+    "question": "Violating a protection order issued under the Act is not considered a criminal offence.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is incorrect. Breaching a protection order or interim protection order is a criminal offence under the Act and can lead to imprisonment, a fine, or both.",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "31",
+      "section_title": "Penalty for breach of protection order by respondent",
+      "chunk_id": 52
+    },
+    "answer": false
+  },
+  {
+    "question": "A respondent who breaches a protection order may be punished with imprisonment for up to one year.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The Act provides that a person who violates a protection order may face imprisonment for a term that may extend to one year, a fine, or both.",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "31",
+      "section_title": "Penalty for breach of protection order by respondent",
+      "chunk_id": 53
+    },
+    "answer": true
+  },
+  {
+    "question": "The offence of breaching a protection order is bailable and non-cognizable.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is incorrect. Section 32 clearly states that the offence arising from the breach of a protection order is cognizable and non-bailable. This means police can take action without a warrant and bail is not automatically available.",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "32",
+      "section_title": "Cognizance and proof",
+      "chunk_id": 54
+    },
+    "answer": false
+  },
+  {
+    "question": "The court may conclude that a protection order was breached based solely on the testimony of the aggrieved woman.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The Act specifically allows the court to conclude that an offence has been committed based on the sole testimony of the aggrieved person if the court finds it credible.",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "32",
+      "section_title": "Cognizance and proof",
+      "chunk_id": 55
+    },
+    "answer": true
+  },
+  {
+    "question": "A Protection Officer who refuses to perform duties assigned by the Magistrate without sufficient reason may face punishment.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. Protection Officers have legal responsibilities under the Act. Failure or refusal to perform those duties without valid cause may result in criminal penalties.",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "33",
+      "section_title": "Penalty for not discharging duty by Protection Officer",
+      "chunk_id": 56
+    },
+    "answer": true
+  },
+  {
+    "question": "A Protection Officer can be prosecuted without any approval from the State Government.",
+    "type": "true_false",
+    "difficulty": "hard",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is incorrect. The Act requires previous sanction from the State Government or an authorized officer before legal proceedings can be initiated against a Protection Officer for actions connected with official duties.",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "34",
+      "section_title": "Cognizance of offence committed by Protection Officer",
+      "chunk_id": 57
+    },
+    "answer": false
+  },
+  {
+    "question": "A Protection Officer is protected from legal action for acts done honestly and in good faith while performing duties under the Act.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. The law protects Protection Officers from lawsuits and prosecutions when they act honestly and with the intention of carrying out their legal responsibilities.",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "35",
+      "section_title": "Protection of action taken in good faith",
+      "chunk_id": 58
+    },
+    "answer": true
+  },
+  {
+    "question": "The Domestic Violence Act replaces and cancels all other laws related to women's rights and family matters.",
+    "type": "true_false",
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is incorrect. The Act works alongside other laws. It adds additional protections and remedies but does not cancel or override other legal rights available under different laws.",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "36",
+      "section_title": "Act not in derogation of any other law",
+      "chunk_id": 59
+    },
+    "answer": false
+  },
+  {
+    "question": "The Central Government has the power to make rules for carrying out the provisions of the Domestic Violence Act.",
+    "type": "true_false",
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "explanation": "This statement is correct. Parliament created the Act, but the Central Government can make detailed rules to help implement it effectively, such as forms, procedures, qualifications, and administrative requirements.",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "37",
+      "section_title": "Power of Central Government to make rules",
+      "chunk_id": 60
+    },
+    "answer": true
+  }
+]
