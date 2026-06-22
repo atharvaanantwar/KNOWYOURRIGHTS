@@ -1,0 +1,1252 @@
+[
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Purpose of the Act",
+        "right": "Protect women from violence at home"
+      },
+      {
+        "left": "Year the Act was created",
+        "right": "2005"
+      },
+      {
+        "left": "Who can use this law",
+        "right": "Women facing family violence"
+      },
+      {
+        "left": "Type of violence covered",
+        "right": "Any kind happening within the family"
+      }
+    ],
+    "correct_pairs": {
+      "Purpose of the Act": "Protect women from violence at home",
+      "Year the Act was created": "2005",
+      "Who can use this law": "Women facing family violence",
+      "Type of violence covered": "Any kind happening within the family"
+    },
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "",
+      "section": null,
+      "section_title": null,
+      "chunk_id": 0
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Short title",
+        "right": "The official name of the law"
+      },
+      {
+        "left": "Extent of the law",
+        "right": "Where the law applies"
+      },
+      {
+        "left": "Commencement of the law",
+        "right": "When the law starts"
+      },
+      {
+        "left": "Official Gazette",
+        "right": "Government's publication for laws"
+      }
+    ],
+    "correct_pairs": {
+      "Short title": "The official name of the law",
+      "Extent of the law": "Where the law applies",
+      "Commencement of the law": "When the law starts",
+      "Official Gazette": "Government's publication for laws"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "",
+      "section": "1",
+      "section_title": "Short title, extent and commencement. ",
+      "chunk_id": 1
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Aggrieved person",
+        "right": "Woman who claims to have suffered domestic violence in a domestic relationship"
+      },
+      {
+        "left": "Domestic relationship",
+        "right": "Living together as family, relatives, or partners"
+      },
+      {
+        "left": "Protection order",
+        "right": "Court command to stop domestic violence"
+      },
+      {
+        "left": "Monetary relief",
+        "right": "Money paid to cover losses caused by domestic violence"
+      }
+    ],
+    "correct_pairs": {
+      "Aggrieved person": "Woman who claims to have suffered domestic violence in a domestic relationship",
+      "Domestic relationship": "Living together as family, relatives, or partners",
+      "Protection order": "Court command to stop domestic violence",
+      "Monetary relief": "Money paid to cover losses caused by domestic violence",
+      "Respondent": "Adult male in a domestic relationship with the victim",
+      "Shared household": "Home where the victim lived with the abuser"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "DOMESTIC VIOLENCE",
+      "section": "2",
+      "section_title": "Definitions. ",
+      "chunk_id": 2
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Hitting or pushing someone",
+        "right": "Physical abuse"
+      },
+      {
+        "left": "Demanding money or property under threat",
+        "right": "Economic abuse"
+      },
+      {
+        "left": "Insulting someone about not having children",
+        "right": "Verbal and emotional abuse"
+      },
+      {
+        "left": "Forcing someone into unwanted sexual acts",
+        "right": "Sexual abuse"
+      }
+    ],
+    "correct_pairs": {
+      "Hitting or pushing someone": "Physical abuse",
+      "Demanding money or property under threat": "Economic abuse",
+      "Insulting someone about not having children": "Verbal and emotional abuse",
+      "Forcing someone into unwanted sexual acts": "Sexual abuse"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "3",
+      "section_title": "Definition of domestic violence. ",
+      "chunk_id": 3
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Protection Officer",
+        "right": "Person who receives information"
+      },
+      {
+        "left": "Good faith",
+        "right": "Honest belief without deceit"
+      },
+      {
+        "left": "Exclusion of liability",
+        "right": "No legal responsibility"
+      },
+      {
+        "left": "Civil or criminal",
+        "right": "Types of legal trouble"
+      }
+    ],
+    "correct_pairs": {
+      "Protection Officer": "Person who receives information",
+      "Good faith": "Honest belief without deceit",
+      "Exclusion of liability": "No legal responsibility",
+      "Civil or criminal": "Types of legal trouble"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "4",
+      "section_title": "Information to Protection Officer and exclusion of liability of informant .",
+      "chunk_id": 4
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Protection order",
+        "right": "Court order to prevent harm"
+      },
+      {
+        "left": "Monetary relief",
+        "right": "Money given to compensate for harm"
+      },
+      {
+        "left": "Free legal services",
+        "right": "Lawyer help paid by the government"
+      },
+      {
+        "left": "Protection Officer",
+        "right": "Government worker who helps victims"
+      }
+    ],
+    "correct_pairs": {
+      "Protection order": "Court order to prevent harm",
+      "Monetary relief": "Money given to compensate for harm",
+      "Free legal services": "Lawyer help paid by the government",
+      "Protection Officer": "Government worker who helps victims"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "5",
+      "section_title": "Duties of police officers, service providers and Magistrate .",
+      "chunk_id": 5
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Protection Officers",
+        "right": "Government-appointed helpers"
+      },
+      {
+        "left": "Prescribed qualifications",
+        "right": "Specific rules set by authorities"
+      },
+      {
+        "left": "Subordinate officers",
+        "right": "Junior staff reporting to Protection Officers"
+      },
+      {
+        "left": "Terms and conditions",
+        "right": "Rules for working hours and pay"
+      }
+    ],
+    "correct_pairs": {
+      "Protection Officers": "Government-appointed helpers",
+      "Prescribed qualifications": "Specific rules set by authorities",
+      "Subordinate officers": "Junior staff reporting to Protection Officers",
+      "Terms and conditions": "Rules for working hours and pay"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "8",
+      "section_title": "Appointment of Protection Officers.",
+      "chunk_id": 6
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Help Magistrate with legal duties",
+        "right": "Assist the Magistrate in the discharge of his functions under this Act"
+      },
+      {
+        "left": "Report domestic violence to police",
+        "right": "Make a domestic incident report to the Magistrate and forward copies to police"
+      },
+      {
+        "left": "Arrange shelter for victim",
+        "right": "Make available a safe shelter home if the aggrieved person so requires"
+      },
+      {
+        "left": "Check if victim gets legal aid",
+        "right": "Ensure that the aggrieved person is provided legal aid under the Legal Services Authorities Act"
+      }
+    ],
+    "correct_pairs": {
+      "Help Magistrate with legal duties": "Assist the Magistrate in the discharge of his functions under this Act",
+      "Report domestic violence to police": "Make a domestic incident report to the Magistrate and forward copies to police",
+      "Arrange shelter for victim": "Make available a safe shelter home if the aggrieved person so requires",
+      "Check if victim gets legal aid": "Ensure that the aggrieved person is provided legal aid under the Legal Services Authorities Act"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "9",
+      "section_title": "Duties and functions of Protection Officers .",
+      "chunk_id": 7
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Record domestic incident report",
+        "right": "Write down details of abuse and send to authorities"
+      },
+      {
+        "left": "Get medical examination done",
+        "right": "Arrange doctor's check-up and send report to police"
+      },
+      {
+        "left": "Provide shelter in shelter home",
+        "right": "Offer safe place to stay and notify police"
+      },
+      {
+        "left": "Legal protection for service provider",
+        "right": "Cannot be sued for honest actions under this law"
+      }
+    ],
+    "correct_pairs": {
+      "Record domestic incident report": "Write down details of abuse and send to authorities",
+      "Get medical examination done": "Arrange doctor's check-up and send report to police",
+      "Provide shelter in shelter home": "Offer safe place to stay and notify police",
+      "Legal protection for service provider": "Cannot be sued for honest actions under this law"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "POWERS AND DUTIES OF PROTECTION OFFICERS, SERVICE PROVIDERS, ETC.",
+      "section": "10",
+      "section_title": "Service providers. ",
+      "chunk_id": 8
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Publicity of Act",
+        "right": "Spread info via TV, radio, and newspapers"
+      },
+      {
+        "left": "Sensitization training",
+        "right": "Train government officers on the Act"
+      },
+      {
+        "left": "Coordination between departments",
+        "right": "Officials from law and health work together"
+      },
+      {
+        "left": "Protocols for courts",
+        "right": "Set rules for how courts help victims"
+      }
+    ],
+    "correct_pairs": {
+      "Publicity of Act": "Spread info via TV, radio, and newspapers",
+      "Sensitization training": "Train government officers on the Act",
+      "Coordination between departments": "Officials from law and health work together",
+      "Protocols for courts": "Set rules for how courts help victims"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "11",
+      "section_title": "Duties of Government .",
+      "chunk_id": 9
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Domestic incident report",
+        "right": "A document the Magistrate reviews before making orders"
+      },
+      {
+        "left": "Payment of compensation",
+        "right": "One type of relief the victim can ask for"
+      },
+      {
+        "left": "Set off against decree",
+        "right": "Reducing a court\u2019s payment by amounts already paid by the Magistrate"
+      },
+      {
+        "left": "First date of hearing",
+        "right": "Must be scheduled within three days of filing"
+      }
+    ],
+    "correct_pairs": {
+      "Domestic incident report": "A document the Magistrate reviews before making orders",
+      "Payment of compensation": "One type of relief the victim can ask for",
+      "Set off against decree": "Reducing a court\u2019s payment by amounts already paid by the Magistrate",
+      "First date of hearing": "Must be scheduled within three days of filing"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "12",
+      "section_title": "Application to Magistrate. ",
+      "chunk_id": 10
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Declaration of service",
+        "right": "Proof that notice was given"
+      },
+      {
+        "left": "Protection Officer's form",
+        "right": "Official document for service proof"
+      },
+      {
+        "left": "Contrary is proved",
+        "right": "Someone shows evidence it wasn't served"
+      },
+      {
+        "left": "Respondent",
+        "right": "Person receiving the notice"
+      }
+    ],
+    "correct_pairs": {
+      "Declaration of service": "Proof that notice was given",
+      "Protection Officer's form": "Official document for service proof",
+      "Contrary is proved": "Someone shows evidence it wasn't served",
+      "Respondent": "Person receiving the notice"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "13",
+      "section_title": "Service of notice. ",
+      "chunk_id": 11
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Magistrate's direction under Section 14",
+        "right": "Counselling required by court order"
+      },
+      {
+        "left": "Next hearing date",
+        "right": "Fixed within 2 months of direction"
+      },
+      {
+        "left": "Sub-section (1)",
+        "right": "Original counselling directive"
+      },
+      {
+        "left": "Period not exceeding two months",
+        "right": "Maximum time to set next hearing"
+      }
+    ],
+    "correct_pairs": {
+      "Magistrate's direction under Section 14": "Counselling required by court order",
+      "Next hearing date": "Fixed within 2 months of direction",
+      "Sub-section (1)": "Original counselling directive",
+      "Period not exceeding two months": "Maximum time to set next hearing"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "14",
+      "section_title": "Counselling .",
+      "chunk_id": 12
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Calling the victim repeatedly",
+        "right": "Attempting to communicate in any form"
+      },
+      {
+        "left": "Taking money from a joint bank account",
+        "right": "Alienating any assets or operating bank accounts"
+      },
+      {
+        "left": "Visiting the victim's workplace",
+        "right": "Entering the place of employment of the aggrieved person"
+      },
+      {
+        "left": "Harming the victim's friend who helped them",
+        "right": "Causing violence to a person who gives assistance"
+      }
+    ],
+    "correct_pairs": {
+      "Calling the victim repeatedly": "Attempting to communicate in any form",
+      "Taking money from a joint bank account": "Alienating any assets or operating bank accounts",
+      "Visiting the victim's workplace": "Entering the place of employment of the aggrieved person",
+      "Harming the victim's friend who helped them": "Causing violence to a person who gives assistance"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "18",
+      "section_title": "Protection orders. ",
+      "chunk_id": 14
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Order to stay away from the home",
+        "right": "Directing the respondent to remove himself from the shared household"
+      },
+      {
+        "left": "Order to protect shared property",
+        "right": "Restraining the respondent from selling or giving away the shared household"
+      },
+      {
+        "left": "Order for alternate housing",
+        "right": "Directing the respondent to secure same level of alternate accommodation for the aggrieved person"
+      },
+      {
+        "left": "Order to return personal items",
+        "right": "Directing the respondent to return the aggrieved person's stridhan or property"
+      }
+    ],
+    "correct_pairs": {
+      "Order to stay away from the home": "Directing the respondent to remove himself from the shared household",
+      "Order to protect shared property": "Restraining the respondent from selling or giving away the shared household",
+      "Order for alternate housing": "Directing the respondent to secure same level of alternate accommodation for the aggrieved person",
+      "Order to return personal items": "Directing the respondent to return the aggrieved person's stridhan or property"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "19",
+      "section_title": "Residence orders. ",
+      "chunk_id": 15
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Loss of earnings",
+        "right": "Money for lost income"
+      },
+      {
+        "left": "Medical expenses",
+        "right": "Costs for doctor visits and treatment"
+      },
+      {
+        "left": "Destruction of property",
+        "right": "Money to replace damaged items"
+      },
+      {
+        "left": "Maintenance for children",
+        "right": "Regular money for kids' needs"
+      }
+    ],
+    "correct_pairs": {
+      "Loss of earnings": "Money for lost income",
+      "Medical expenses": "Costs for doctor visits and treatment",
+      "Destruction of property": "Money to replace damaged items",
+      "Maintenance for children": "Regular money for kids' needs"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "20",
+      "section_title": "Monetary reliefs .",
+      "chunk_id": 16
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Custody order",
+        "right": "A judge's decision on who takes care of a child"
+      },
+      {
+        "left": "Magistrate",
+        "right": "A court official who makes legal decisions"
+      },
+      {
+        "left": "Respondent",
+        "right": "The person who must follow the court order"
+      },
+      {
+        "left": "Harmful visit",
+        "right": "A visit that may hurt the child's well-being"
+      }
+    ],
+    "correct_pairs": {
+      "Custody order": "A judge's decision on who takes care of a child",
+      "Magistrate": "A court official who makes legal decisions",
+      "Respondent": "The person who must follow the court order",
+      "Harmful visit": "A visit that may hurt the child's well-being"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "21",
+      "section_title": "Custody orders. ",
+      "chunk_id": 17
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Ex parte order",
+        "right": "Order made without the other side being present"
+      },
+      {
+        "left": "Prima facie",
+        "right": "On the face of it, enough evidence to continue"
+      },
+      {
+        "left": "Affidavit",
+        "right": "Written statement made under oath"
+      },
+      {
+        "left": "Aggrieved person",
+        "right": "Person claiming to be a victim of domestic violence"
+      }
+    ],
+    "correct_pairs": {
+      "Ex parte order": "Order made without the other side being present",
+      "Prima facie": "On the face of it, enough evidence to continue",
+      "Affidavit": "Written statement made under oath",
+      "Aggrieved person": "Person claiming to be a victim of domestic violence"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "23",
+      "section_title": "Power to grant interim and _ex parte_ orders .",
+      "chunk_id": 18
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Court gives copies",
+        "right": "Free of charge"
+      },
+      {
+        "left": "Section 24",
+        "right": "Rule about document copies"
+      },
+      {
+        "left": "Order copy fee",
+        "right": "Charged by court"
+      },
+      {
+        "left": "Legal document request",
+        "right": "Might cost money"
+      }
+    ],
+    "correct_pairs": {
+      "Court gives copies": "Free of charge",
+      "Section 24": "Rule about document copies",
+      "Order copy fee": "Charged by court",
+      "Legal document request": "Might cost money"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "24",
+      "section_title": "Court to give copies of order free of cost.",
+      "chunk_id": 19
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Change in circumstances",
+        "right": "Reason to alter an order"
+      },
+      {
+        "left": "Application from aggrieved person",
+        "right": "Request to modify an order"
+      },
+      {
+        "left": "Order passed by Magistrate",
+        "right": "Decision recorded in writing"
+      },
+      {
+        "left": "Alteration of order",
+        "right": "Modification of existing rules"
+      }
+    ],
+    "correct_pairs": {
+      "Change in circumstances": "Reason to alter an order",
+      "Application from aggrieved person": "Request to modify an order",
+      "Order passed by Magistrate": "Decision recorded in writing",
+      "Alteration of order": "Modification of existing rules"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "25",
+      "section_title": "Duration and alteration of orders .",
+      "chunk_id": 20
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Seek relief in court",
+        "right": "Ask a judge for help"
+      },
+      {
+        "left": "Obtained relief elsewhere",
+        "right": "Already got help from another place"
+      },
+      {
+        "left": "Inform the Magistrate",
+        "right": "Tell the judge about past help"
+      },
+      {
+        "left": "Additional relief",
+        "right": "Extra help beyond first request"
+      }
+    ],
+    "correct_pairs": {
+      "Seek relief in court": "Ask a judge for help",
+      "Obtained relief elsewhere": "Already got help from another place",
+      "Inform the Magistrate": "Tell the judge about past help",
+      "Additional relief": "Extra help beyond first request"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "26",
+      "section_title": "Relief in other suits and legal proceedings .",
+      "chunk_id": 21
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Court where respondent works",
+        "right": "Court where the person who broke the order lives"
+      },
+      {
+        "left": "Court nearest to the problem",
+        "right": "Court where the issue happened"
+      },
+      {
+        "left": "Protection order applies",
+        "right": "Throughout India"
+      },
+      {
+        "left": "Court where victim lives",
+        "right": "Court where the person who was hurt lives"
+      }
+    ],
+    "correct_pairs": {
+      "Court where respondent works": "Court where the person who broke the order lives",
+      "Court nearest to the problem": "Court where the issue happened",
+      "Protection order applies": "Throughout India",
+      "Court where victim lives": "Court where the person who was hurt lives"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "27",
+      "section_title": "Jurisdiction .",
+      "chunk_id": 22
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Procedure set by the court",
+        "right": "Custom rules for a specific case"
+      },
+      {
+        "left": "Section 28",
+        "right": "Part of a legal document"
+      },
+      {
+        "left": "Disposal of an application",
+        "right": "Final decision on a request"
+      },
+      {
+        "left": "Section 12",
+        "right": "Another part of the same legal document"
+      }
+    ],
+    "correct_pairs": {
+      "Procedure set by the court": "Custom rules for a specific case",
+      "Section 28": "Part of a legal document",
+      "Disposal of an application": "Final decision on a request",
+      "Section 12": "Another part of the same legal document"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "PROCEDURE FOR OBTAININGORDERS OF RELIEFS",
+      "section": "28",
+      "section_title": "Procedure .",
+      "chunk_id": 23
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Appeal filed to a higher court",
+        "right": "Asking for a review of a decision"
+      },
+      {
+        "left": "Legal appeal process",
+        "right": "Steps to challenge a court's ruling"
+      },
+      {
+        "left": "Grounds for appeal",
+        "right": "Valid reasons to challenge a decision"
+      },
+      {
+        "left": "Notice of appeal",
+        "right": "Official document starting the appeal process"
+      }
+    ],
+    "correct_pairs": {
+      "Appeal filed to a higher court": "Asking for a review of a decision",
+      "Legal appeal process": "Steps to challenge a court's ruling",
+      "Grounds for appeal": "Valid reasons to challenge a decision",
+      "Notice of appeal": "Official document starting the appeal process"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "29",
+      "section_title": "Appeal. ",
+      "chunk_id": 24
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Protection Officer",
+        "right": "A government worker who helps victims of crime"
+      },
+      {
+        "left": "Service provider",
+        "right": "A person or group that offers support to crime victims"
+      },
+      {
+        "left": "Public servant",
+        "right": "A person paid by the government to do official work"
+      },
+      {
+        "left": "Section 30",
+        "right": "A law that makes certain workers government employees"
+      }
+    ],
+    "correct_pairs": {
+      "Protection Officer": "A government worker who helps victims of crime",
+      "Service provider": "A person or group that offers support to crime victims",
+      "Public servant": "A person paid by the government to do official work",
+      "Section 30": "A law that makes certain workers government employees"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "30",
+      "section_title": "Protection Officers and members of service providers to be public servants .",
+      "chunk_id": 25
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Breach of protection order",
+        "right": "Ignoring a court's order to stay away"
+      },
+      {
+        "left": "Magistrate",
+        "right": "Judge who decides small crimes"
+      },
+      {
+        "left": "Framing charges",
+        "right": "Officially listing crimes someone may have committed"
+      },
+      {
+        "left": "Dowry Prohibition Act",
+        "right": "Law against demanding money/gifts for marriage"
+      }
+    ],
+    "correct_pairs": {
+      "Breach of protection order": "Ignoring a court's order to stay away",
+      "Magistrate": "Judge who decides small crimes",
+      "Framing charges": "Officially listing crimes someone may have committed",
+      "Dowry Prohibition Act": "Law against demanding money/gifts for marriage"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "31",
+      "section_title": "Penalty for breach of protection order by respondent. ",
+      "chunk_id": 26
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Cognizance",
+        "right": "Court taking notice"
+      },
+      {
+        "left": "Proof",
+        "right": "Evidence showing truth"
+      },
+      {
+        "left": "Sole testimony",
+        "right": "Only one person's statement"
+      },
+      {
+        "left": "Aggrieved person",
+        "right": "Victim of the offense"
+      }
+    ],
+    "correct_pairs": {
+      "Cognizance": "Court taking notice",
+      "Proof": "Evidence showing truth",
+      "Sole testimony": "Only one person's statement",
+      "Aggrieved person": "Victim of the offense"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "32",
+      "section_title": "Cognizance and proof .",
+      "chunk_id": 27
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Protection Officer",
+        "right": "Person assigned to help victims"
+      },
+      {
+        "left": "Not discharging duty",
+        "right": "Failing to do assigned work"
+      },
+      {
+        "left": "Penalty for failure",
+        "right": "Legal punishment for not acting"
+      },
+      {
+        "left": "Section 33",
+        "right": "Law about officer's responsibilities"
+      }
+    ],
+    "correct_pairs": {
+      "Protection Officer": "Person assigned to help victims",
+      "Not discharging duty": "Failing to do assigned work",
+      "Penalty for failure": "Legal punishment for not acting",
+      "Section 33": "Law about officer's responsibilities"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "33",
+      "section_title": "Penalty for not discharging duty by Protection Officer.",
+      "chunk_id": 28
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Cognizance",
+        "right": "Taking official notice to start legal action"
+      },
+      {
+        "left": "Protection Officer",
+        "right": "Person assigned to help victims of domestic violence"
+      },
+      {
+        "left": "Offence committed by",
+        "right": "A crime or wrongdoing performed"
+      },
+      {
+        "left": "Section 34",
+        "right": "Specific legal rule under the Protection of Women from Domestic Violence Act"
+      }
+    ],
+    "correct_pairs": {
+      "Cognizance": "Taking official notice to start legal action",
+      "Protection Officer": "Person assigned to help victims of domestic violence",
+      "Offence committed by": "A crime or wrongdoing performed",
+      "Section 34": "Specific legal rule under the Protection of Women from Domestic Violence Act"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "34",
+      "section_title": "Cognizance of offence committed by Protection Officer .",
+      "chunk_id": 29
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Acting in good faith",
+        "right": "Doing something honestly without bad intentions"
+      },
+      {
+        "left": "Legal protection",
+        "right": "Shield from lawsuits or penalties for honest mistakes"
+      },
+      {
+        "left": "Reasonable belief",
+        "right": "Honestly thinking something is true based on facts"
+      },
+      {
+        "left": "No liability",
+        "right": "Not legally responsible for harm caused by a genuine mistake"
+      }
+    ],
+    "correct_pairs": {
+      "Acting in good faith": "Doing something honestly without bad intentions",
+      "Legal protection": "Shield from lawsuits or penalties for honest mistakes",
+      "Reasonable belief": "Honestly thinking something is true based on facts",
+      "No liability": "Not legally responsible for harm caused by a genuine mistake"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "35",
+      "section_title": "Protection of action taken in good faith .",
+      "chunk_id": 30
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Act not in derogation",
+        "right": "Does not override other laws"
+      },
+      {
+        "left": "Other existing laws",
+        "right": "Still apply even with this Act"
+      },
+      {
+        "left": "Conflicting rules",
+        "right": "The stricter law usually wins"
+      },
+      {
+        "left": "This Act's purpose",
+        "right": "Adds to, not replaces, other laws"
+      }
+    ],
+    "correct_pairs": {
+      "Act not in derogation": "Does not override other laws",
+      "Other existing laws": "Still apply even with this Act",
+      "Conflicting rules": "The stricter law usually wins",
+      "This Act's purpose": "Adds to, not replaces, other laws"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "36",
+      "section_title": "Act not in derogation of any other law.",
+      "chunk_id": 31
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Qualifications for Protection Officer",
+        "right": "Rules about required skills for the role"
+      },
+      {
+        "left": "Form for domestic incident report",
+        "right": "Official format for reporting domestic issues"
+      },
+      {
+        "left": "Notice serving rules",
+        "right": "Procedures for delivering legal notices"
+      },
+      {
+        "left": "Service provider registration",
+        "right": "Requirements for registering support services"
+      }
+    ],
+    "correct_pairs": {
+      "Qualifications for Protection Officer": "Rules about required skills for the role",
+      "Form for domestic incident report": "Official format for reporting domestic issues",
+      "Notice serving rules": "Procedures for delivering legal notices",
+      "Service provider registration": "Requirements for registering support services"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "Protection of Women from Domestic Violence Act, 2005.md",
+      "document_name": "Protection of Women from Domestic Violence Act, 2005.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "37",
+      "section_title": "Power of Central Government to make rules. ",
+      "chunk_id": 32
+    }
+  }
+]

@@ -1,21 +1,19 @@
-import { useState, useEffect } from 'react';
+import { useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { Link } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import { 
-  UserCircleIcon, 
   BoltIcon, 
   FireIcon, 
   TrophyIcon,
   BookOpenIcon,
-  ChevronDownIcon,
-  PlayIcon
+  ArrowRightIcon,
 } from '@heroicons/react/24/solid';
 import useGameStore from '../store/gameStore';
-import { domains } from '../data/mockScenarios';
 import XPBar from '../components/XPBar';
 import StreakFlame from '../components/StreakFlame';
 
 const Dashboard = () => {
+  const navigate = useNavigate();
   const { 
     totalXP, 
     level, 
@@ -24,17 +22,9 @@ const Dashboard = () => {
     getXPToNextLevel,
     getTotalScenariosCompleted,
     getAccuracy,
-    selectedDomain,
-    setSelectedDomain,
-    selectedDifficulty,
-    setSelectedDifficulty,
     loadUserProgress,
-    isLoading,
   } = useGameStore();
 
-  const difficulties = ['All', 'easy', 'medium', 'hard']; 
-  const [isDomainOpen, setIsDomainOpen] = useState(false);
-  const [isDifficultyOpen, setIsDifficultyOpen] = useState(false);
   const accuracy = getAccuracy();
   const completed = getTotalScenariosCompleted();
   const progressPercentage = getProgressPercentage();
@@ -44,18 +34,6 @@ const Dashboard = () => {
   useEffect(() => {
     loadUserProgress();
   }, [loadUserProgress]);
-
-  // Close dropdown when clicking outside
-  useEffect(() => {
-    const handleClickOutside = (e) => {
-      if (!e.target.closest('.domain-dropdown')) {
-        setIsDomainOpen(false);
-        setIsDifficultyOpen(false);
-      }
-    };
-    document.addEventListener('click', handleClickOutside);
-    return () => document.removeEventListener('click', handleClickOutside);
-  }, []);
 
   const containerVariants = {
     hidden: { opacity: 0 },
@@ -167,110 +145,29 @@ const Dashboard = () => {
           </div>
         </motion.div>
 
-        {/* Main Action Area */}
-        <motion.div 
+        {/* Main Action Area — Clickable card → /challenges */}
+        <motion.div
           variants={itemVariants}
-          className="bg-gradient-to-br from-blue-600 to-blue-800 rounded-3xl shadow-2xl p-8 text-white"
+          whileHover={{ scale: 1.01 }}
+          whileTap={{ scale: 0.99 }}
+          onClick={() => navigate('/challenges')}
+          className="bg-gradient-to-br from-blue-600 to-blue-800 rounded-3xl shadow-2xl p-8 text-white cursor-pointer group transition-shadow hover:shadow-blue-300/40"
         >
           <div className="flex flex-col lg:flex-row items-center justify-between gap-8">
             <div className="text-center lg:text-left">
               <h2 className="text-3xl font-bold mb-3">
                 Ready to Test Your Knowledge?
               </h2>
-              <p className="text-blue-100 mb-6 max-w-xl">
+              <p className="text-blue-100 max-w-xl">
                 Choose a legal domain and challenge yourself with real-world scenarios. 
                 Earn XP, build your streak, and become a legal expert!
               </p>
-              
-              {/* Domain Selector */}
-              
-              <div className="domain-dropdown relative inline-block">
-                <button
-                  onClick={() => setIsDomainOpen(!isDomainOpen)}
-                  className="flex items-center gap-3 bg-white/10 backdrop-blur-sm hover:bg-white/20 text-white px-6 py-3 rounded-xl font-semibold transition-all"
-                >
-                  <span>{selectedDomain === 'All' ? 'All Domains' : selectedDomain}</span>
-                  <motion.div
-                    animate={{ rotate: isDomainOpen ? 180 : 0 }}
-                    transition={{ duration: 0.2 }}
-                  >
-                    <ChevronDownIcon className="w-5 h-5" />
-                  </motion.div>
-                </button>
-                
-                {isDomainOpen && (
-                  <motion.div
-                    initial={{ opacity: 0, y: -10 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    className="absolute top-full left-0 mt-2 w-64 bg-white rounded-xl shadow-xl overflow-hidden z-10"
-                  >
-                    {domains.map((domain) => (
-                      <button
-                        key={domain}
-                        onClick={() => {
-                          setSelectedDomain(domain);
-                          setIsDomainOpen(false);
-                        }}
-                        className={`w-full text-left px-4 py-3 font-medium transition-colors ${
-                          selectedDomain === domain
-                            ? 'bg-blue-50 text-blue-600'
-                            : 'text-slate-700 hover:bg-slate-50'
-                        }`}
-                      >
-                        {domain === 'All' ? 'All Domains' : domain}
-                      </button>
-                    ))}
-                  </motion.div>
-                )}
-              </div>
-              {/* Difficulty Selector */}
-              <div className="domain-dropdown relative inline-block ml-4">
-                <button
-                  onClick={() => setIsDifficultyOpen(!isDifficultyOpen)}
-                  className="flex items-center gap-3 bg-white/10 backdrop-blur-sm hover:bg-white/20 text-white px-6 py-3 rounded-xl font-semibold transition-all"
-                >
-                  <span>{selectedDifficulty === 'All' ? 'All Difficulties' : selectedDifficulty}</span>
-                  <ChevronDownIcon className="w-5 h-5" />
-                </button>
-                
-                {isDifficultyOpen && (
-                  <motion.div
-                    initial={{ opacity: 0, y: -10 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    className="absolute top-full left-0 mt-2 w-64 bg-white rounded-xl shadow-xl overflow-hidden z-10"
-                  >
-                    {difficulties.map((difficulty) => (
-                      <button
-                        key={difficulty}
-                        onClick={() => {
-                          setSelectedDifficulty(difficulty);
-                          setIsDifficultyOpen(false);
-                        }}
-                        className={`w-full text-left px-4 py-3 font-medium transition-colors ${
-                          selectedDifficulty === difficulty
-                            ? 'bg-blue-50 text-blue-600'
-                            : 'text-slate-700 hover:bg-slate-50'
-                        }`}
-                      >
-                        {difficulty === 'All' ? 'All Difficulties' : difficulty}
-                      </button>
-                    ))}
-                  </motion.div>
-                )}
-              </div>
             </div>
-            
-            {/* Play Button */}
-            <Link to="/scenario">
-              <motion.button
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-                className="flex items-center gap-3 bg-white text-blue-600 px-8 py-4 rounded-2xl font-bold text-xl shadow-lg hover:shadow-xl transition-shadow"
-              >
-                <PlayIcon className="w-6 h-6" />
-                Start Challenge
-              </motion.button>
-            </Link>
+
+            <div className="flex items-center gap-3 bg-white text-blue-600 px-8 py-4 rounded-2xl font-bold text-xl shadow-lg group-hover:shadow-xl transition-shadow shrink-0">
+              Browse Challenges
+              <ArrowRightIcon className="w-6 h-6 group-hover:translate-x-1 transition-transform" />
+            </div>
           </div>
         </motion.div>
 

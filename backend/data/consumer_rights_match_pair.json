@@ -1,0 +1,3985 @@
+[
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Consumer Protection Act",
+        "right": "Law to protect buyers from unfair business practices"
+      },
+      {
+        "left": "Consumer disputes",
+        "right": "Disagreements between buyers and sellers"
+      },
+      {
+        "left": "Parliament",
+        "right": "Group that makes laws in India"
+      },
+      {
+        "left": "Consumer interests",
+        "right": "Rights and benefits of buyers"
+      }
+    ],
+    "correct_pairs": {
+      "Consumer Protection Act": "Law to protect buyers from unfair business practices",
+      "Consumer disputes": "Disagreements between buyers and sellers",
+      "Parliament": "Group that makes laws in India",
+      "Consumer interests": "Rights and benefits of buyers"
+    },
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "PRELIMINARY",
+      "section": null,
+      "section_title": null,
+      "chunk_id": 0
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Applies to all goods and services",
+        "right": "Unless specified otherwise by the government"
+      },
+      {
+        "left": "Comes into force on a set date",
+        "right": "Government chooses the date"
+      },
+      {
+        "left": "Extends to the whole of India",
+        "right": "Except Jammu and Kashmir"
+      },
+      {
+        "left": "Different dates for different states",
+        "right": "Government can decide"
+      }
+    ],
+    "correct_pairs": {
+      "Applies to all goods and services": "Unless specified otherwise by the government",
+      "Comes into force on a set date": "Government chooses the date",
+      "Extends to the whole of India": "Except Jammu and Kashmir",
+      "Different dates for different states": "Government can decide"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "PRELIMINARY",
+      "section": "1",
+      "section_title": "Short title, extent, commencement and application. ",
+      "chunk_id": 1
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Advertisement",
+        "right": "Any audio or visual publicity for goods/services"
+      },
+      {
+        "left": "Consumer",
+        "right": "Person who buys or uses goods/services for personal use"
+      },
+      {
+        "left": "Defect",
+        "right": "Fault in quality, quantity, or standard of a product"
+      },
+      {
+        "left": "Deficiency",
+        "right": "Poor service or lack of proper information from a service provider"
+      }
+    ],
+    "correct_pairs": {
+      "Advertisement": "Any audio or visual publicity for goods/services",
+      "Consumer": "Person who buys or uses goods/services for personal use",
+      "Defect": "Fault in quality, quantity, or standard of a product",
+      "Deficiency": "Poor service or lack of proper information from a service provider"
+    },
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "CONSUMER PROTECTION COUNCILS",
+      "section": "2",
+      "section_title": "Definitions.",
+      "chunk_id": 2
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Express warranty",
+        "right": "A guarantee about a product or service that it meets certain claims"
+      },
+      {
+        "left": "Product liability",
+        "right": "Responsibility to pay for harm caused by a defective product or poor service"
+      },
+      {
+        "left": "Misleading advertisement",
+        "right": "An ad that gives false information or hides important details"
+      },
+      {
+        "left": "Manufacturer",
+        "right": "A person who makes, assembles, or puts their brand on a product"
+      }
+    ],
+    "correct_pairs": {
+      "Express warranty": "A guarantee about a product or service that it meets certain claims",
+      "Product liability": "Responsibility to pay for harm caused by a defective product or poor service",
+      "Misleading advertisement": "An ad that gives false information or hides important details",
+      "Manufacturer": "A person who makes, assembles, or puts their brand on a product"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "CONSUMER PROTECTION COUNCILS",
+      "section": "2",
+      "section_title": "Definitions.",
+      "chunk_id": 2
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Manufacturer",
+        "right": "Person who makes a product from raw materials or parts"
+      },
+      {
+        "left": "Product seller",
+        "right": "Person who sells, distributes, or markets a product for business"
+      },
+      {
+        "left": "Service provider",
+        "right": "Person who offers services like banking, transport, or repair"
+      },
+      {
+        "left": "Unfair trade practice",
+        "right": "Lying about a product's quality, origin, or price"
+      }
+    ],
+    "correct_pairs": {
+      "Manufacturer": "Person who makes a product from raw materials or parts",
+      "Product seller": "Person who sells, distributes, or markets a product for business",
+      "Service provider": "Person who offers services like banking, transport, or repair",
+      "Unfair trade practice": "Lying about a product's quality, origin, or price"
+    },
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "CONSUMER PROTECTION COUNCILS",
+      "section": "2",
+      "section_title": "Definitions.",
+      "chunk_id": 2
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Assigning a contract to harm a consumer",
+        "right": "Unfair trade practice"
+      },
+      {
+        "left": "False claim about product quality",
+        "right": "Misleading statement"
+      },
+      {
+        "left": "Selling goods below cost to raise prices later",
+        "right": "Hoarding goods"
+      },
+      {
+        "left": "Not giving a bill for purchased goods",
+        "right": "Unfair trade practice"
+      }
+    ],
+    "correct_pairs": {
+      "Assigning a contract to harm a consumer": "Unfair trade practice",
+      "False claim about product quality": "Misleading statement",
+      "Selling goods below cost to raise prices later": "Hoarding goods",
+      "Not giving a bill for purchased goods": "Unfair trade practice"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "CONSUMER PROTECTION COUNCILS",
+      "section": "2",
+      "section_title": "Definitions.",
+      "chunk_id": 2
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Offering gifts without fulfilling the promise",
+        "right": "Promising free items but charging secretly"
+      },
+      {
+        "left": "Running a contest to sell products",
+        "right": "Promoting sales through games or luck-based events"
+      },
+      {
+        "left": "Selling unsafe products",
+        "right": "Knowing a product does not meet safety standards"
+      },
+      {
+        "left": "Hoarding goods to increase prices",
+        "right": "Hiding or destroying goods to make them expensive"
+      }
+    ],
+    "correct_pairs": {
+      "Offering gifts without fulfilling the promise": "Promising free items but charging secretly",
+      "Running a contest to sell products": "Promoting sales through games or luck-based events",
+      "Selling unsafe products": "Knowing a product does not meet safety standards",
+      "Hoarding goods to increase prices": "Hiding or destroying goods to make them expensive"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "CONSUMER PROTECTION COUNCILS",
+      "section": "2",
+      "section_title": "Definitions.",
+      "chunk_id": 2
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Central Consumer Protection Council",
+        "right": "Advisory council for consumer issues at the national level"
+      },
+      {
+        "left": "Chairperson of the Central Council",
+        "right": "Minister-in-charge of Consumer Affairs"
+      },
+      {
+        "left": "Members of the Central Council",
+        "right": "Official and non-official representatives of consumer interests"
+      }
+    ],
+    "correct_pairs": {
+      "Central Consumer Protection Council": "Advisory council for consumer issues at the national level",
+      "Chairperson of the Central Council": "Minister-in-charge of Consumer Affairs",
+      "Members of the Central Council": "Official and non-official representatives of consumer interests"
+    },
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "CONSUMER PROTECTION COUNCILS",
+      "section": "3",
+      "section_title": "Central Consumer Protection Council.",
+      "chunk_id": 3
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Central Council",
+        "right": "A group that makes decisions"
+      },
+      {
+        "left": "Chairperson",
+        "right": "The leader who decides meeting time and place"
+      },
+      {
+        "left": "Prescribed procedure",
+        "right": "Rules for how meetings should run"
+      },
+      {
+        "left": "Transaction of business",
+        "right": "Discussing and deciding on topics"
+      }
+    ],
+    "correct_pairs": {
+      "Central Council": "A group that makes decisions",
+      "Chairperson": "The leader who decides meeting time and place",
+      "Prescribed procedure": "Rules for how meetings should run",
+      "Transaction of business": "Discussing and deciding on topics"
+    },
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "CONSUMER PROTECTION COUNCILS",
+      "section": "4",
+      "section_title": "Procedure for meetings of Central Council.",
+      "chunk_id": 4
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "The District Council",
+        "right": "An advisory group for consumer issues"
+      },
+      {
+        "left": "The Collector of the district",
+        "right": "The Chairperson of the council"
+      },
+      {
+        "left": "Meetings held every year",
+        "right": "At least two"
+      },
+      {
+        "left": "Setting time and place for meetings",
+        "right": "Decided by the Chairperson"
+      }
+    ],
+    "correct_pairs": {
+      "The District Council": "An advisory group for consumer issues",
+      "The Collector of the district": "The Chairperson of the council",
+      "Meetings held every year": "At least two",
+      "Setting time and place for meetings": "Decided by the Chairperson"
+    },
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "CONSUMER PROTECTION COUNCILS",
+      "section": "8",
+      "section_title": "District Consumer Protection Council.",
+      "chunk_id": 6
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "District Council",
+        "right": "Local government body"
+      },
+      {
+        "left": "Consumer Protection Authority",
+        "right": "Government agency for buyer safety"
+      },
+      {
+        "left": "Objects",
+        "right": "Purposes or goals"
+      },
+      {
+        "left": "Central Authority",
+        "right": "Main government organization"
+      }
+    ],
+    "correct_pairs": {
+      "District Council": "Local government body",
+      "Consumer Protection Authority": "Government agency for buyer safety",
+      "Objects": "Purposes or goals",
+      "Central Authority": "Main government organization"
+    },
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "9",
+      "section_title": "Objects of District Council .",
+      "chunk_id": 7
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Central Consumer Protection Authority",
+        "right": "Government group that protects consumers"
+      },
+      {
+        "left": "Chief Commissioner",
+        "right": "Leader of the consumer protection group"
+      },
+      {
+        "left": "Headquarters location",
+        "right": "National Capital Region of Delhi"
+      },
+      {
+        "left": "Regional offices",
+        "right": "Offices in other parts of India"
+      }
+    ],
+    "correct_pairs": {
+      "Central Consumer Protection Authority": "Government group that protects consumers",
+      "Chief Commissioner": "Leader of the consumer protection group",
+      "Headquarters location": "National Capital Region of Delhi",
+      "Regional offices": "Offices in other parts of India"
+    },
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "0",
+      "section_title": "Establishment of Central Consumer Protection Authority.",
+      "chunk_id": 8
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Chief Commissioner",
+        "right": "Top leader of the commission"
+      },
+      {
+        "left": "Commissioners",
+        "right": "Members of the commission"
+      },
+      {
+        "left": "Method of recruitment",
+        "right": "How people are hired"
+      },
+      {
+        "left": "Qualifications",
+        "right": "Skills or requirements needed"
+      }
+    ],
+    "correct_pairs": {
+      "Chief Commissioner": "Top leader of the commission",
+      "Commissioners": "Members of the commission",
+      "Method of recruitment": "How people are hired",
+      "Qualifications": "Skills or requirements needed"
+    },
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "11",
+      "section_title": "Qualifications, method of recruitment, etc., of Chief Commissioner and Commissioners.",
+      "chunk_id": 9
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Vacancy in Central Authority",
+        "right": "A seat is empty in the key government body"
+      },
+      {
+        "left": "Defect in constitution",
+        "right": "A problem with how the authority is set up"
+      },
+      {
+        "left": "Defect in appointment",
+        "right": "A problem with how a leader was chosen"
+      },
+      {
+        "left": "Irregularity in procedure",
+        "right": "A rule was broken in the process"
+      }
+    ],
+    "correct_pairs": {
+      "Vacancy in Central Authority": "A seat is empty in the key government body",
+      "Defect in constitution": "A problem with how the authority is set up",
+      "Defect in appointment": "A problem with how a leader was chosen",
+      "Irregularity in procedure": "A rule was broken in the process"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "12",
+      "section_title": "Vacancy, etc., not to invalidate proceedings of Central Authority.",
+      "chunk_id": 10
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Who appoints officers and employees?",
+        "right": "Central Authority"
+      },
+      {
+        "left": "Who can the Central Authority hire as experts?",
+        "right": "Professionals with special knowledge"
+      },
+      {
+        "left": "What decides the salary of officers?",
+        "right": "Prescribed rules"
+      },
+      {
+        "left": "What areas do experts need knowledge in?",
+        "right": "Consumer rights and welfare"
+      }
+    ],
+    "correct_pairs": {
+      "Who appoints officers and employees?": "Central Authority",
+      "Who can the Central Authority hire as experts?": "Professionals with special knowledge",
+      "What decides the salary of officers?": "Prescribed rules",
+      "What areas do experts need knowledge in?": "Consumer rights and welfare"
+    },
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "13",
+      "section_title": "Appointment of officers, experts, professionals and other employees of Central Authority.",
+      "chunk_id": 11
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Chief Commissioner",
+        "right": "Top leader with full control over admin matters"
+      },
+      {
+        "left": "Delegates powers",
+        "right": "Gives some control to others"
+      },
+      {
+        "left": "Commissioner",
+        "right": "Leader of a regional office"
+      },
+      {
+        "left": "Administrative matters",
+        "right": "Daily office tasks and decisions"
+      }
+    ],
+    "correct_pairs": {
+      "Chief Commissioner": "Top leader with full control over admin matters",
+      "Delegates powers": "Gives some control to others",
+      "Commissioner": "Leader of a regional office",
+      "Administrative matters": "Daily office tasks and decisions"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "14",
+      "section_title": "Procedure of Central Authority. ",
+      "chunk_id": 12
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Director-General",
+        "right": "Top official leading the Investigation Wing"
+      },
+      {
+        "left": "Additional Director-General",
+        "right": "Second-in-command under the Director-General"
+      },
+      {
+        "left": "Deputy Director",
+        "right": "Middle-ranked officer with some powers"
+      },
+      {
+        "left": "Assistant Director",
+        "right": "Entry-level officer in the Investigation Wing"
+      }
+    ],
+    "correct_pairs": {
+      "Director-General": "Top official leading the Investigation Wing",
+      "Additional Director-General": "Second-in-command under the Director-General",
+      "Deputy Director": "Middle-ranked officer with some powers",
+      "Assistant Director": "Entry-level officer in the Investigation Wing"
+    },
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "15",
+      "section_title": "Investigation Wing.",
+      "chunk_id": 13
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Applies to all goods and services",
+        "right": "Default scope of the Act"
+      },
+      {
+        "left": "Except Jammu and Kashmir",
+        "right": "Exclusion zone"
+      },
+      {
+        "left": "Different dates for different States",
+        "right": "Staggered enforcement"
+      },
+      {
+        "left": "Expressly provided by notification",
+        "right": "Special exclusion"
+      }
+    ],
+    "correct_pairs": {
+      "Applies to all goods and services": "Default scope of the Act",
+      "Except Jammu and Kashmir": "Exclusion zone",
+      "Different dates for different States": "Staggered enforcement",
+      "Expressly provided by notification": "Special exclusion"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "PRELIMINARY",
+      "section": "1",
+      "section_title": "Short title, extent, commencement and application. ",
+      "chunk_id": 1
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Consumer",
+        "right": "Person who uses goods/services for personal use, not for resale"
+      },
+      {
+        "left": "Defect",
+        "right": "Fault or shortcoming in a product's quality or standard"
+      },
+      {
+        "left": "Deficiency",
+        "right": "Failure in service quality or performance"
+      },
+      {
+        "left": "Commercial purpose",
+        "right": "Use of goods/services for earning livelihood by self-employment"
+      }
+    ],
+    "correct_pairs": {
+      "Consumer": "Person who uses goods/services for personal use, not for resale",
+      "Defect": "Fault or shortcoming in a product's quality or standard",
+      "Deficiency": "Failure in service quality or performance",
+      "Commercial purpose": "Use of goods/services for earning livelihood by self-employment"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "CONSUMER PROTECTION COUNCILS",
+      "section": "2",
+      "section_title": "Definitions.",
+      "chunk_id": 2
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Putting your brand on products made by others",
+        "right": "Manufacturer (iii)"
+      },
+      {
+        "left": "Importing and selling products in your store",
+        "right": "Product seller"
+      },
+      {
+        "left": "Falsely claiming goods are genuine",
+        "right": "Spurious goods"
+      },
+      {
+        "left": "Charging unfair fees to fix a product",
+        "right": "Unfair contract (vi)"
+      }
+    ],
+    "correct_pairs": {
+      "Putting your brand on products made by others": "Manufacturer (iii)",
+      "Importing and selling products in your store": "Product seller",
+      "Falsely claiming goods are genuine": "Spurious goods",
+      "Charging unfair fees to fix a product": "Unfair contract (vi)",
+      "Advertising a fake sale price": "Unfair trade practice (ii)",
+      "A bank offering loans to buy a car": "Service (but not included under free service)"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "CONSUMER PROTECTION COUNCILS",
+      "section": "2",
+      "section_title": "Definitions.",
+      "chunk_id": 2
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Central Council meeting time",
+        "right": "Decided by the Chairperson"
+      },
+      {
+        "left": "Central Council meeting place",
+        "right": "Where the Chairperson chooses"
+      },
+      {
+        "left": "Procedures for meetings",
+        "right": "Set by rules"
+      },
+      {
+        "left": "Chairperson's role",
+        "right": "Leads meeting choices"
+      }
+    ],
+    "correct_pairs": {
+      "Central Council meeting time": "Decided by the Chairperson",
+      "Central Council meeting place": "Where the Chairperson chooses",
+      "Procedures for meetings": "Set by rules",
+      "Chairperson's role": "Leads meeting choices"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "CONSUMER PROTECTION COUNCILS",
+      "section": "4",
+      "section_title": "Procedure for meetings of Central Council.",
+      "chunk_id": 4
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Defective product",
+        "right": "Item that fails to meet safety standards"
+      },
+      {
+        "left": "Consumer complaint",
+        "right": "Formal report of dissatisfaction with a product"
+      },
+      {
+        "left": "District Council role",
+        "right": "Local government body handling consumer issues"
+      },
+      {
+        "left": "Central Authority oversight",
+        "right": "Government agency ensuring national consumer protection"
+      }
+    ],
+    "correct_pairs": {
+      "Defective product": "Item that fails to meet safety standards",
+      "Consumer complaint": "Formal report of dissatisfaction with a product",
+      "District Council role": "Local government body handling consumer issues",
+      "Central Authority oversight": "Government agency ensuring national consumer protection"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "9",
+      "section_title": "Objects of District Council .",
+      "chunk_id": 7
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Whole of India except Jammu and Kashmir",
+        "right": "The Act's geographic coverage"
+      },
+      {
+        "left": "Different dates for different States",
+        "right": "When the Act starts"
+      },
+      {
+        "left": "Applies to all goods and services",
+        "right": "The Act covers these"
+      },
+      {
+        "left": "Central Government can change the rules",
+        "right": "Who controls the Act's start"
+      }
+    ],
+    "correct_pairs": {
+      "Whole of India except Jammu and Kashmir": "The Act's geographic coverage",
+      "Different dates for different States": "When the Act starts",
+      "Applies to all goods and services": "The Act covers these",
+      "Central Government can change the rules": "Who controls the Act's start"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER I",
+      "chapter_title": "PRELIMINARY",
+      "section": "1",
+      "section_title": "Short title, extent, commencement and application. ",
+      "chunk_id": 1
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "False claim about product quality",
+        "right": "Falsely represents that the goods are of a particular standard, quality, quantity, grade, composition, style or model"
+      },
+      {
+        "left": "Hidden extra charges in a 'free' offer",
+        "right": "Offering gifts, prizes or other items with the intention of not providing them as offered"
+      },
+      {
+        "left": "Selling unsafe or non-compliant goods",
+        "right": "Permitting the sale or supply of goods known to not comply with safety standards"
+      },
+      {
+        "left": "Fake discount advertisement",
+        "right": "Publishing a sale at a 'bargain price' when the product isn't actually discounted"
+      }
+    ],
+    "correct_pairs": {
+      "False claim about product quality": "Falsely represents that the goods are of a particular standard, quality, quantity, grade, composition, style or model",
+      "Hidden extra charges in a 'free' offer": "Offering gifts, prizes or other items with the intention of not providing them as offered",
+      "Selling unsafe or non-compliant goods": "Permitting the sale or supply of goods known to not comply with safety standards",
+      "Fake discount advertisement": "Publishing a sale at a 'bargain price' when the product isn't actually discounted"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER II",
+      "chapter_title": "CONSUMER PROTECTION COUNCILS",
+      "section": "2",
+      "section_title": "Definitions.",
+      "chunk_id": 2
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Chief Commissioner",
+        "right": "Leads the Central Authority"
+      },
+      {
+        "left": "Other Commissioners",
+        "right": "Help the Chief Commissioner run the Authority"
+      },
+      {
+        "left": "National Capital Region of Delhi",
+        "right": "Main office location"
+      },
+      {
+        "left": "Regional offices",
+        "right": "Extra branches across India"
+      }
+    ],
+    "correct_pairs": {
+      "Chief Commissioner": "Leads the Central Authority",
+      "Other Commissioners": "Help the Chief Commissioner run the Authority",
+      "National Capital Region of Delhi": "Main office location",
+      "Regional offices": "Extra branches across India"
+    },
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "0",
+      "section_title": "Establishment of Central Consumer Protection Authority.",
+      "chunk_id": 8
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Officers' salaries",
+        "right": "Set by government rules"
+      },
+      {
+        "left": "Hiring experts",
+        "right": "Based on regulations"
+      },
+      {
+        "left": "Consumer policy expert",
+        "right": "Helps with consumer laws"
+      },
+      {
+        "left": "Product safety engineer",
+        "right": "Works on safety standards"
+      }
+    ],
+    "correct_pairs": {
+      "Officers' salaries": "Set by government rules",
+      "Hiring experts": "Based on regulations",
+      "Consumer policy expert": "Helps with consumer laws",
+      "Product safety engineer": "Works on safety standards"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "13",
+      "section_title": "Appointment of officers, experts, professionals and other employees of Central Authority.",
+      "chunk_id": 11
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Director-General",
+        "right": "Can delegate powers to others"
+      },
+      {
+        "left": "Additional Director-General",
+        "right": "Works under Director-General's supervision"
+      },
+      {
+        "left": "Assistant Director",
+        "right": "Must have investigation experience"
+      },
+      {
+        "left": "Inquiries under this Act",
+        "right": "Submitted to Central Authority"
+      }
+    ],
+    "correct_pairs": {
+      "Director-General": "Can delegate powers to others",
+      "Additional Director-General": "Works under Director-General's supervision",
+      "Assistant Director": "Must have investigation experience",
+      "Inquiries under this Act": "Submitted to Central Authority"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "15",
+      "section_title": "Investigation Wing.",
+      "chunk_id": 13
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Stop false ads about products",
+        "right": "Ensure no misleading ads are made"
+      },
+      {
+        "left": "Investigate complaints about bad business practices",
+        "right": "Inquire into violations without being asked"
+      },
+      {
+        "left": "Tell shops to use special codes on products",
+        "right": "Mandate unique identifiers on goods"
+      },
+      {
+        "left": "Publish warnings about dangerous items",
+        "right": "Issue safety notices for unsafe goods"
+      }
+    ],
+    "correct_pairs": {
+      "Stop false ads about products": "Ensure no misleading ads are made",
+      "Investigate complaints about bad business practices": "Inquire into violations without being asked",
+      "Tell shops to use special codes on products": "Mandate unique identifiers on goods",
+      "Publish warnings about dangerous items": "Issue safety notices for unsafe goods"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "18",
+      "section_title": "Powers and functions of Central Authority.",
+      "chunk_id": 14
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Central Authority refers a matter to another Regulator",
+        "right": "After preliminary inquiry, if the matter needs another regulator's attention"
+      },
+      {
+        "left": "Director General calls a person for investigation",
+        "right": "Ordering someone to appear and share documents for an investigation"
+      },
+      {
+        "left": "District Collector directs document production",
+        "right": "Asking a person to show records during an investigation"
+      },
+      {
+        "left": "Preliminary inquiry",
+        "right": "Initial check to decide next steps"
+      }
+    ],
+    "correct_pairs": {
+      "Central Authority refers a matter to another Regulator": "After preliminary inquiry, if the matter needs another regulator's attention",
+      "Director General calls a person for investigation": "Ordering someone to appear and share documents for an investigation",
+      "District Collector directs document production": "Asking a person to show records during an investigation",
+      "Preliminary inquiry": "Initial check to decide next steps"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "19",
+      "section_title": "Power of Central Authority to refer matter for investigation or to other Regulator.",
+      "chunk_id": 15
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Recall dangerous goods",
+        "right": "Take back unsafe products from market"
+      },
+      {
+        "left": "Reimburse prices",
+        "right": "Give back money to buyers"
+      },
+      {
+        "left": "Discontinue unfair practice",
+        "right": "Stop a practice that harms consumers"
+      },
+      {
+        "left": "Opportunity of being heard",
+        "right": "Let the person speak before deciding"
+      }
+    ],
+    "correct_pairs": {
+      "Recall dangerous goods": "Take back unsafe products from market",
+      "Reimburse prices": "Give back money to buyers",
+      "Discontinue unfair practice": "Stop a practice that harms consumers",
+      "Opportunity of being heard": "Let the person speak before deciding"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "20",
+      "section_title": "Power of Central Authority to recall goods, etc.",
+      "chunk_id": 16
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Penalty for first false ad by manufacturer",
+        "right": "Up to ten lakh rupees"
+      },
+      {
+        "left": "Penalty for repeat false ad by endorser",
+        "right": "Up to fifty lakh rupees"
+      },
+      {
+        "left": "Ban on endorser for first false ad",
+        "right": "Up to one year"
+      },
+      {
+        "left": "Ban on endorser for repeat false ad",
+        "right": "Up to three years"
+      }
+    ],
+    "correct_pairs": {
+      "Penalty for first false ad by manufacturer": "Up to ten lakh rupees",
+      "Penalty for repeat false ad by endorser": "Up to fifty lakh rupees",
+      "Ban on endorser for first false ad": "Up to one year",
+      "Ban on endorser for repeat false ad": "Up to three years",
+      "Defence for endorser claiming innocence": "Exercised due diligence to verify claims",
+      "Defence for publisher claiming lack of knowledge": "Published in ordinary course of business"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "21",
+      "section_title": "Power of Central Authority to issue directions and penalties against false or misleading advertisements.",
+      "chunk_id": 17
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Enter premises and search",
+        "right": "Inspect a place to look for evidence"
+      },
+      {
+        "left": "Make a note or inventory",
+        "right": "Write down what is found during a search"
+      },
+      {
+        "left": "Require someone to produce a document",
+        "right": "Ask a person to show or hand over a record"
+      },
+      {
+        "left": "Return seized items within 20 days",
+        "right": "Give back taken items after copying them"
+      }
+    ],
+    "correct_pairs": {
+      "Enter premises and search": "Inspect a place to look for evidence",
+      "Make a note or inventory": "Write down what is found during a search",
+      "Require someone to produce a document": "Ask a person to show or hand over a record",
+      "Return seized items within 20 days": "Give back taken items after copying them"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "22",
+      "section_title": "Search and seizure.",
+      "chunk_id": 18
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Central Authority",
+        "right": "A main organization with official responsibilities"
+      },
+      {
+        "left": "Statutory authority",
+        "right": "A body created by law to perform specific tasks"
+      },
+      {
+        "left": "Designation",
+        "right": "Official selection or appointment for a role"
+      },
+      {
+        "left": "Function",
+        "right": "The work or duties an organization performs"
+      }
+    ],
+    "correct_pairs": {
+      "Central Authority": "A main organization with official responsibilities",
+      "Statutory authority": "A body created by law to perform specific tasks",
+      "Designation": "Official selection or appointment for a role",
+      "Function": "The work or duties an organization performs"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "23",
+      "section_title": "Designation of any statutory authority or body to function as Central Authority.",
+      "chunk_id": 19
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Central Authority's accounts",
+        "right": "Audited by the Comptroller and Auditor-General of India"
+      },
+      {
+        "left": "Audit report outcome",
+        "right": "Laid before each House of Parliament by the Central Government"
+      },
+      {
+        "left": "Expenditure for audit",
+        "right": "Paid by the Central Authority to the auditor"
+      },
+      {
+        "left": "Auditor's right to inspect",
+        "right": "Books, accounts, vouchers, and offices of the Central Authority"
+      }
+    ],
+    "correct_pairs": {
+      "Central Authority's accounts": "Audited by the Comptroller and Auditor-General of India",
+      "Audit report outcome": "Laid before each House of Parliament by the Central Government",
+      "Expenditure for audit": "Paid by the Central Authority to the auditor",
+      "Auditor's right to inspect": "Books, accounts, vouchers, and offices of the Central Authority"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER III",
+      "chapter_title": "CENRAL CONSUMER PROTECTION AUTHORITY",
+      "section": "26",
+      "section_title": "Accounts and audit.",
+      "chunk_id": 20
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Annual report",
+        "right": "Document showing yearly performance"
+      },
+      {
+        "left": "Laid before Parliament",
+        "right": "Officially presented in Parliament"
+      },
+      {
+        "left": "Sub-section (1)",
+        "right": "Previous rule in the same section"
+      },
+      {
+        "left": "House of Parliament",
+        "right": "One part of the national government"
+      }
+    ],
+    "correct_pairs": {
+      "Annual report": "Document showing yearly performance",
+      "Laid before Parliament": "Officially presented in Parliament",
+      "Sub-section (1)": "Previous rule in the same section",
+      "House of Parliament": "One part of the national government"
+    },
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "27",
+      "section_title": "Furnishing of annual reports, etc.",
+      "chunk_id": 21
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "District Consumer Disputes Redressal Commission",
+        "right": "Handles consumer complaints at the district level"
+      },
+      {
+        "left": "President of District Commission",
+        "right": "Leads the District Commission"
+      },
+      {
+        "left": "More than one District Commission in a district",
+        "right": "Allowed if State Government decides"
+      },
+      {
+        "left": "Members of District Commission",
+        "right": "Number decided in consultation with Central Government"
+      }
+    ],
+    "correct_pairs": {
+      "District Consumer Disputes Redressal Commission": "Handles consumer complaints at the district level",
+      "President of District Commission": "Leads the District Commission",
+      "More than one District Commission in a district": "Allowed if State Government decides",
+      "Members of District Commission": "Number decided in consultation with Central Government"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "28",
+      "section_title": "Establishment of District Consumer Disputes Redressal Commission.",
+      "chunk_id": 22
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Salary",
+        "right": "Fixed payment for work"
+      },
+      {
+        "left": "Allowance",
+        "right": "Extra money for expenses"
+      },
+      {
+        "left": "Terms of service",
+        "right": "Rules for job duties"
+      },
+      {
+        "left": "District Commission",
+        "right": "Local government body"
+      }
+    ],
+    "correct_pairs": {
+      "Salary": "Fixed payment for work",
+      "Allowance": "Extra money for expenses",
+      "Terms of service": "Rules for job duties",
+      "District Commission": "Local government body"
+    },
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "30",
+      "section_title": "Salaries, allowances and other terms and conditions of service of President and members of District Commission.",
+      "chunk_id": 24
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Vacancy in office of member",
+        "right": "A spot left unfilled by a District Commission member"
+      },
+      {
+        "left": "District Commission jurisdiction",
+        "right": "Authority to handle cases in a specific district"
+      },
+      {
+        "left": "President of District Commission",
+        "right": "Leader of a District Commission"
+      },
+      {
+        "left": "Exercise powers of member",
+        "right": "Take on the duties of a missing member"
+      }
+    ],
+    "correct_pairs": {
+      "Vacancy in office of member": "A spot left unfilled by a District Commission member",
+      "District Commission jurisdiction": "Authority to handle cases in a specific district",
+      "President of District Commission": "Leader of a District Commission",
+      "Exercise powers of member": "Take on the duties of a missing member"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "32",
+      "section_title": "Vacancy in office of member of District Commission.",
+      "chunk_id": 25
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "General superintendence",
+        "right": "Overall control and direction"
+      },
+      {
+        "left": "Prescribed salaries",
+        "right": "Salaries set by rules"
+      },
+      {
+        "left": "District Commission officers",
+        "right": "Staff working for the District Commission"
+      },
+      {
+        "left": "Terms of service",
+        "right": "Work conditions and benefits"
+      }
+    ],
+    "correct_pairs": {
+      "General superintendence": "Overall control and direction",
+      "Prescribed salaries": "Salaries set by rules",
+      "District Commission officers": "Staff working for the District Commission",
+      "Terms of service": "Work conditions and benefits"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "33",
+      "section_title": "Officers and other employees of District Commission.",
+      "chunk_id": 26
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Where the complaint is filed (based on opposite party's residence)",
+        "right": "Jurisdiction where opposite party usually lives or works"
+      },
+      {
+        "left": "Where the complaint is filed (based on cause of action)",
+        "right": "Jurisdiction where the problem mostly happened"
+      },
+      {
+        "left": "Where the complaint is filed (based on complainant's residence)",
+        "right": "Jurisdiction where the person making the complaint lives or works"
+      },
+      {
+        "left": "Where the District Commission usually works",
+        "right": "District headquarters"
+      }
+    ],
+    "correct_pairs": {
+      "Where the complaint is filed (based on opposite party's residence)": "Jurisdiction where opposite party usually lives or works",
+      "Where the complaint is filed (based on cause of action)": "Jurisdiction where the problem mostly happened",
+      "Where the complaint is filed (based on complainant's residence)": "Jurisdiction where the person making the complaint lives or works",
+      "Where the District Commission usually works": "District headquarters"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "34",
+      "section_title": "Jurisdiction of District Commission.",
+      "chunk_id": 27
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Consumer who bought a product",
+        "right": "Person who directly purchased or received goods"
+      },
+      {
+        "left": "Consumer group with shared issue",
+        "right": "Multiple consumers with the same complaint"
+      },
+      {
+        "left": "Consumer association",
+        "right": "Voluntary group registered to help consumers"
+      },
+      {
+        "left": "Government filing complaint",
+        "right": "Central or state authority protecting public interest"
+      }
+    ],
+    "correct_pairs": {
+      "Consumer who bought a product": "Person who directly purchased or received goods",
+      "Consumer group with shared issue": "Multiple consumers with the same complaint",
+      "Consumer association": "Voluntary group registered to help consumers",
+      "Government filing complaint": "Central or state authority protecting public interest"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "35",
+      "section_title": "Manner in which complaint shall be made.",
+      "chunk_id": 28
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Proceeding paused due to member leaving",
+        "right": "Other members continue from where it was last heard"
+      },
+      {
+        "left": "Complaint rejected by District Commission",
+        "right": "Complainant gets a chance to be heard first"
+      },
+      {
+        "left": "Admissibility not decided in 21 days",
+        "right": "Complaint automatically considered admitted"
+      },
+      {
+        "left": "Decision on complaint admission",
+        "right": "Happens within 21 days or complaint is accepted"
+      }
+    ],
+    "correct_pairs": {
+      "Proceeding paused due to member leaving": "Other members continue from where it was last heard",
+      "Complaint rejected by District Commission": "Complainant gets a chance to be heard first",
+      "Admissibility not decided in 21 days": "Complaint automatically considered admitted",
+      "Decision on complaint admission": "Happens within 21 days or complaint is accepted"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "36",
+      "section_title": "Proceedings before District Commission.",
+      "chunk_id": 29
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Mediation agreement",
+        "right": "Written consent to settle via mediation"
+      },
+      {
+        "left": "District Commission",
+        "right": "Body that refers the case for mediation"
+      },
+      {
+        "left": "Chapter V",
+        "right": "Rules about how mediation works"
+      },
+      {
+        "left": "Five days",
+        "right": "Time limit to send the case for mediation"
+      }
+    ],
+    "correct_pairs": {
+      "Mediation agreement": "Written consent to settle via mediation",
+      "District Commission": "Body that refers the case for mediation",
+      "Chapter V": "Rules about how mediation works",
+      "Five days": "Time limit to send the case for mediation"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "37",
+      "section_title": "Reference to mediation.",
+      "chunk_id": 30
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Copy of complaint sent to seller",
+        "right": "Opposite party must explain their side within 30 days"
+      },
+      {
+        "left": "Goods need testing for defects",
+        "right": "Commission must get a lab report within 45 days"
+      },
+      {
+        "left": "Seller denies the complaint",
+        "right": "Commission settles the dispute without seller's input"
+      },
+      {
+        "left": "Complaint about services (not goods)",
+        "right": "No lab testing required, just evidence review"
+      }
+    ],
+    "correct_pairs": {
+      "Copy of complaint sent to seller": "Opposite party must explain their side within 30 days",
+      "Goods need testing for defects": "Commission must get a lab report within 45 days",
+      "Seller denies the complaint": "Commission settles the dispute without seller's input",
+      "Complaint about services (not goods)": "No lab testing required, just evidence review",
+      "Party disagrees with lab report": "Must submit written objections to findings",
+      "Seller ignores complaint notice": "Commission may decide case based on complainant's evidence only"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "38",
+      "section_title": "Procedure on admission of complaint.",
+      "chunk_id": 31
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Natural justice not followed",
+        "right": "Complaint can be challenged in court"
+      },
+      {
+        "left": "Three-month deadline",
+        "right": "Time limit for simple complaints"
+      },
+      {
+        "left": "Five-month deadline",
+        "right": "Time limit for complaints needing testing"
+      },
+      {
+        "left": "Adjournments granted",
+        "right": "Must have written reasons and possible cost orders"
+      }
+    ],
+    "correct_pairs": {
+      "Natural justice not followed": "Complaint can be challenged in court",
+      "Three-month deadline": "Time limit for simple complaints",
+      "Five-month deadline": "Time limit for complaints needing testing",
+      "Adjournments granted": "Must have written reasons and possible cost orders"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "38",
+      "section_title": "Procedure on admission of complaint.",
+      "chunk_id": 31
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Remove the defect",
+        "right": "Fix the problem in the product"
+      },
+      {
+        "left": "Replace the goods",
+        "right": "Give new items instead of the faulty ones"
+      },
+      {
+        "left": "Pay compensation",
+        "right": "Give money for losses suffered"
+      },
+      {
+        "left": "Issue corrective advertisement",
+        "right": "Publish a notice to correct a false ad"
+      }
+    ],
+    "correct_pairs": {
+      "Remove the defect": "Fix the problem in the product",
+      "Replace the goods": "Give new items instead of the faulty ones",
+      "Pay compensation": "Give money for losses suffered",
+      "Issue corrective advertisement": "Publish a notice to correct a false ad"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "39",
+      "section_title": "Findings of District Commission.",
+      "chunk_id": 32
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "District Commission",
+        "right": "Group that reviews cases again"
+      },
+      {
+        "left": "Review by District Commission",
+        "right": "Process of checking a decision again"
+      },
+      {
+        "left": "Certain cases",
+        "right": "Specific situations that need extra check"
+      },
+      {
+        "left": "Section 40",
+        "right": "Rule about re-examining decisions"
+      }
+    ],
+    "correct_pairs": {
+      "District Commission": "Group that reviews cases again",
+      "Review by District Commission": "Process of checking a decision again",
+      "Certain cases": "Specific situations that need extra check",
+      "Section 40": "Rule about re-examining decisions"
+    },
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "40",
+      "section_title": "Review by District Commission in certain cases.",
+      "chunk_id": 33
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Appeal after deadline",
+        "right": "Allowed if valid reason given"
+      },
+      {
+        "left": "Appeal without payment",
+        "right": "Not allowed without 50% deposit"
+      },
+      {
+        "left": "Appeal from mediation",
+        "right": "Not possible for mediated cases"
+      },
+      {
+        "left": "Deadline for appeal",
+        "right": "Forty-five days"
+      }
+    ],
+    "correct_pairs": {
+      "Appeal after deadline": "Allowed if valid reason given",
+      "Appeal without payment": "Not allowed without 50% deposit",
+      "Appeal from mediation": "Not possible for mediated cases",
+      "Deadline for appeal": "Forty-five days"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "41",
+      "section_title": "Appeal against order of District Commission.",
+      "chunk_id": 34
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "State Commission office",
+        "right": "ordinarily at State capital"
+      },
+      {
+        "left": "Regional benches",
+        "right": "can be created by State Government"
+      },
+      {
+        "left": "President of State Commission",
+        "right": "head of the commission"
+      },
+      {
+        "left": "Number of members",
+        "right": "between four and a set number"
+      }
+    ],
+    "correct_pairs": {
+      "State Commission office": "ordinarily at State capital",
+      "Regional benches": "can be created by State Government",
+      "President of State Commission": "head of the commission",
+      "Number of members": "between four and a set number"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "42",
+      "section_title": "Establishment of State Consumer Disputes Redressal Commission.",
+      "chunk_id": 35
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Age requirement for State Commission member",
+        "right": "Minimum 35 years"
+      },
+      {
+        "left": "Who appoints State Commission members?",
+        "right": "State Governor"
+      },
+      {
+        "left": "Term length for State Commission chairperson",
+        "right": "5 years"
+      },
+      {
+        "left": "Can a retired judge be a State Commission member?",
+        "right": "Yes"
+      }
+    ],
+    "correct_pairs": {
+      "Age requirement for State Commission member": "Minimum 35 years",
+      "Who appoints State Commission members?": "State Governor",
+      "Term length for State Commission chairperson": "5 years",
+      "Can a retired judge be a State Commission member?": "Yes"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "43",
+      "section_title": "Qualifications, etc., of President and members of State Commission.",
+      "chunk_id": 36
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Salary of State Commission member",
+        "right": "Fixed by state government rules"
+      },
+      {
+        "left": "Allowances for President of State Commission",
+        "right": "Same as state government ministers"
+      },
+      {
+        "left": "Pension for State Commission members",
+        "right": "Governed by state government pension rules"
+      },
+      {
+        "left": "Leave entitlement for members",
+        "right": "Decided by state government regulations"
+      }
+    ],
+    "correct_pairs": {
+      "Salary of State Commission member": "Fixed by state government rules",
+      "Allowances for President of State Commission": "Same as state government ministers",
+      "Pension for State Commission members": "Governed by state government pension rules",
+      "Leave entitlement for members": "Decided by state government regulations"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "44",
+      "section_title": "Salaries, allowances and other terms and conditions of service of President and members of State Commission.",
+      "chunk_id": 37
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "State Commission employees",
+        "right": "Work under the President's control"
+      },
+      {
+        "left": "Officers' salaries",
+        "right": "Set by government rules"
+      },
+      {
+        "left": "Employees' functions",
+        "right": "Guided by the Commission's leader"
+      },
+      {
+        "left": "Terms of service",
+        "right": "Defined by official regulations"
+      }
+    ],
+    "correct_pairs": {
+      "State Commission employees": "Work under the President's control",
+      "Officers' salaries": "Set by government rules",
+      "Employees' functions": "Guided by the Commission's leader",
+      "Terms of service": "Defined by official regulations"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "46",
+      "section_title": "Officers and employees of State Commission.",
+      "chunk_id": 38
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Complaint value between \u20b91 crore and \u20b910 crore",
+        "right": "Handled by State Commission"
+      },
+      {
+        "left": "Appeal against District Commission's order",
+        "right": "Handled by State Commission"
+      },
+      {
+        "left": "Consumer dispute where District Commission acted illegally",
+        "right": "State Commission can re-examine"
+      },
+      {
+        "left": "Complaint against unfair contract under \u20b910 crore",
+        "right": "Handled by State Commission"
+      }
+    ],
+    "correct_pairs": {
+      "Complaint value between \u20b91 crore and \u20b910 crore": "Handled by State Commission",
+      "Appeal against District Commission's order": "Handled by State Commission",
+      "Consumer dispute where District Commission acted illegally": "State Commission can re-examine",
+      "Complaint against unfair contract under \u20b910 crore": "Handled by State Commission",
+      "Where complainant lives": "Can file complaint in State Commission",
+      "Where cause of action happened": "Can file complaint in State Commission"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "47",
+      "section_title": "Jurisdiction of State Commission.",
+      "chunk_id": 39
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "State Commission",
+        "right": "Consumer disputes forum"
+      },
+      {
+        "left": "Null and void contract",
+        "right": "Legally cancelled contract"
+      },
+      {
+        "left": "Unfair terms in contract",
+        "right": "One-sided or unreasonable conditions"
+      },
+      {
+        "left": "Consumer complaint",
+        "right": "Formal issue raised by a buyer"
+      }
+    ],
+    "correct_pairs": {
+      "State Commission": "Consumer disputes forum",
+      "Null and void contract": "Legally cancelled contract",
+      "Unfair terms in contract": "One-sided or unreasonable conditions",
+      "Consumer complaint": "Formal issue raised by a buyer"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "49",
+      "section_title": "Procedure applicable to State Commission.",
+      "chunk_id": 40
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Section 50",
+        "right": "Review by a higher legal body"
+      },
+      {
+        "left": "State Commission",
+        "right": "Group that checks decisions"
+      },
+      {
+        "left": "Certain cases",
+        "right": "Specific situations"
+      },
+      {
+        "left": "Review process",
+        "right": "Examining a decision again"
+      }
+    ],
+    "correct_pairs": {
+      "Section 50": "Review by a higher legal body",
+      "State Commission": "Group that checks decisions",
+      "Certain cases": "Specific situations",
+      "Review process": "Examining a decision again"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "50",
+      "section_title": "Review by State Commission in certain cases.",
+      "chunk_id": 41
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Adjournment granted without reason",
+        "right": "Not allowed"
+      },
+      {
+        "left": "Costs of adjournment",
+        "right": "Decided by regulations"
+      },
+      {
+        "left": "Appeal delayed beyond time",
+        "right": "Reasons must be recorded"
+      },
+      {
+        "left": "State Commission records",
+        "right": "Reasons in writing"
+      }
+    ],
+    "correct_pairs": {
+      "Adjournment granted without reason": "Not allowed",
+      "Costs of adjournment": "Decided by regulations",
+      "Appeal delayed beyond time": "Reasons must be recorded",
+      "State Commission records": "Reasons in writing"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "52",
+      "section_title": "Hearing of appeal.",
+      "chunk_id": 43
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Main office location",
+        "right": "National Capital Region"
+      },
+      {
+        "left": "Official announcements for locations",
+        "right": "Official Gazette"
+      },
+      {
+        "left": "Extra courts outside main office",
+        "right": "Regional Benches"
+      },
+      {
+        "left": "Who decides extra court locations",
+        "right": "Central Government"
+      }
+    ],
+    "correct_pairs": {
+      "Main office location": "National Capital Region",
+      "Official announcements for locations": "Official Gazette",
+      "Extra courts outside main office": "Regional Benches",
+      "Who decides extra court locations": "Central Government"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "53",
+      "section_title": "Establishment of National Consumer Disputes Redressal Commission.",
+      "chunk_id": 44
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "President",
+        "right": "Head of the National Commission"
+      },
+      {
+        "left": "Member",
+        "right": "Part of the team in the National Commission"
+      },
+      {
+        "left": "Prescribed number",
+        "right": "Maximum limit set by rules"
+      },
+      {
+        "left": "Not less than four",
+        "right": "Minimum members required"
+      }
+    ],
+    "correct_pairs": {
+      "President": "Head of the National Commission",
+      "Member": "Part of the team in the National Commission",
+      "Prescribed number": "Maximum limit set by rules",
+      "Not less than four": "Minimum members required"
+    },
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "54",
+      "section_title": "Composition of National Commission.",
+      "chunk_id": 45
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "President's max age",
+        "right": "70 years"
+      },
+      {
+        "left": "Other member's max age",
+        "right": "67 years"
+      },
+      {
+        "left": "Term length option",
+        "right": "Up to 5 years"
+      },
+      {
+        "left": "Salary protection rule",
+        "right": "Cannot be reduced after appointment"
+      }
+    ],
+    "correct_pairs": {
+      "President's max age": "70 years",
+      "Other member's max age": "67 years",
+      "Term length option": "Up to 5 years",
+      "Salary protection rule": "Cannot be reduced after appointment"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "55",
+      "section_title": "Qualifications, etc., of President and members of National Commission.",
+      "chunk_id": 46
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Handles complaints where payment exceeds \u20b910 crore",
+        "right": "National Commission"
+      },
+      {
+        "left": "Reviews State Commission orders",
+        "right": "National Commission"
+      },
+      {
+        "left": "Deals with appeals against Central Authority orders",
+        "right": "National Commission"
+      },
+      {
+        "left": "Checks if State Commission acted illegally",
+        "right": "National Commission"
+      }
+    ],
+    "correct_pairs": {
+      "Handles complaints where payment exceeds \u20b910 crore": "National Commission",
+      "Reviews State Commission orders": "National Commission",
+      "Deals with appeals against Central Authority orders": "National Commission",
+      "Checks if State Commission acted illegally": "National Commission"
+    },
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "58",
+      "section_title": "Jurisdiction of National Commission.",
+      "chunk_id": 48
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Unfair contract term",
+        "right": "Can be made void by National Commission"
+      },
+      {
+        "left": "National Commission",
+        "right": "Can declare unfair terms invalid"
+      },
+      {
+        "left": "Consumer protection",
+        "right": "Focus of Section 59"
+      },
+      {
+        "left": "Void contract",
+        "right": "Result of unfair terms"
+      }
+    ],
+    "correct_pairs": {
+      "Unfair contract term": "Can be made void by National Commission",
+      "National Commission": "Can declare unfair terms invalid",
+      "Consumer protection": "Focus of Section 59",
+      "Void contract": "Result of unfair terms"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "59",
+      "section_title": "Procedure applicable to National Commission.",
+      "chunk_id": 49
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "National Commission reviews",
+        "right": "Cases with over \u20b91 crore claim"
+      },
+      {
+        "left": "Appeal to National Commission",
+        "right": "After State Commission's decision"
+      },
+      {
+        "left": "Purpose of review",
+        "right": "To correct errors in lower court decisions"
+      },
+      {
+        "left": "Who can ask for review",
+        "right": "Either party in the case"
+      }
+    ],
+    "correct_pairs": {
+      "National Commission reviews": "Cases with over \u20b91 crore claim",
+      "Appeal to National Commission": "After State Commission's decision",
+      "Purpose of review": "To correct errors in lower court decisions",
+      "Who can ask for review": "Either party in the case"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "60",
+      "section_title": "Review by National Commission in certain cases.",
+      "chunk_id": 50
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Ex parte order",
+        "right": "Order made without the other side present"
+      },
+      {
+        "left": "Set aside an order",
+        "right": "Cancel or undo a court decision"
+      },
+      {
+        "left": "Default judgment",
+        "right": "Decision made because one side didn\u2019t show up"
+      },
+      {
+        "left": "Contested hearing",
+        "right": "Court case where both sides participate"
+      }
+    ],
+    "correct_pairs": {
+      "Ex parte order": "Order made without the other side present",
+      "Set aside an order": "Cancel or undo a court decision",
+      "Default judgment": "Decision made because one side didn\u2019t show up",
+      "Contested hearing": "Court case where both sides participate"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "61",
+      "section_title": "Power to set aside _ex parte_ orders.",
+      "chunk_id": 51
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Senior-most Judicial Member",
+        "right": "Leads the National Commission if President is absent"
+      },
+      {
+        "left": "Retired High Court Judge",
+        "right": "Can temporarily take charge of the National Commission"
+      },
+      {
+        "left": "More than one Judicial Member",
+        "right": "Senior-most member presides in the President's absence"
+      },
+      {
+        "left": "Vacancy in President's office",
+        "right": "Not the same as a member temporarily leading"
+      }
+    ],
+    "correct_pairs": {
+      "Senior-most Judicial Member": "Leads the National Commission if President is absent",
+      "Retired High Court Judge": "Can temporarily take charge of the National Commission",
+      "More than one Judicial Member": "Senior-most member presides in the President's absence",
+      "Vacancy in President's office": "Not the same as a member temporarily leading"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "63",
+      "section_title": "Vacancy in office of President of National Commission.",
+      "chunk_id": 52
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Vacancy in appointment",
+        "right": "Missing person in a job role"
+      },
+      {
+        "left": "Defect in appointment",
+        "right": "Error or flaw in selecting someone"
+      },
+      {
+        "left": "Order remains valid",
+        "right": "Decision stays enforceable despite mistakes"
+      },
+      {
+        "left": "Invalidate",
+        "right": "Cancel or make something legally ineffective"
+      }
+    ],
+    "correct_pairs": {
+      "Vacancy in appointment": "Missing person in a job role",
+      "Defect in appointment": "Error or flaw in selecting someone",
+      "Order remains valid": "Decision stays enforceable despite mistakes",
+      "Invalidate": "Cancel or make something legally ineffective"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "64",
+      "section_title": "Vacancies or defects in appointment not to invalidate orders.",
+      "chunk_id": 53
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Electronic service provider",
+        "right": "Must name a person to receive official notices"
+      },
+      {
+        "left": "Notice returned unclaimed",
+        "right": "Counts as valid service if sent properly"
+      },
+      {
+        "left": "Place of business",
+        "right": "Where a company receives legal notices"
+      },
+      {
+        "left": "Registered post acknowledgment due",
+        "right": "Special mail that tracks delivery attempts"
+      }
+    ],
+    "correct_pairs": {
+      "Electronic service provider": "Must name a person to receive official notices",
+      "Notice returned unclaimed": "Counts as valid service if sent properly",
+      "Place of business": "Where a company receives legal notices",
+      "Registered post acknowledgment due": "Special mail that tracks delivery attempts"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "65",
+      "section_title": "Service of notice, etc.",
+      "chunk_id": 54
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Experts assist",
+        "right": "Help courts understand technical details"
+      },
+      {
+        "left": "National Commission",
+        "right": "Handles consumer issues at national level"
+      },
+      {
+        "left": "State Commission",
+        "right": "Handles consumer issues in a state"
+      },
+      {
+        "left": "Assist",
+        "right": "Provide support or help"
+      }
+    ],
+    "correct_pairs": {
+      "Experts assist": "Help courts understand technical details",
+      "National Commission": "Handles consumer issues at national level",
+      "State Commission": "Handles consumer issues in a state",
+      "Assist": "Provide support or help"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "66",
+      "section_title": "Experts to assist National Commission or State Commission.",
+      "chunk_id": 55
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Appeal to Supreme Court after 30 days",
+        "right": "Only if there was a good reason for delay"
+      },
+      {
+        "left": "Depositing money before appeal",
+        "right": "Required if ordered by the National Commission"
+      },
+      {
+        "left": "National Commission's order",
+        "right": "Final decision that can be challenged in Supreme Court"
+      },
+      {
+        "left": "Appeal without paying money",
+        "right": "Not allowed by the Supreme Court"
+      }
+    ],
+    "correct_pairs": {
+      "Appeal to Supreme Court after 30 days": "Only if there was a good reason for delay",
+      "Depositing money before appeal": "Required if ordered by the National Commission",
+      "National Commission's order": "Final decision that can be challenged in Supreme Court",
+      "Appeal without paying money": "Not allowed by the Supreme Court"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "67",
+      "section_title": "Appeal against order of National Commission.",
+      "chunk_id": 56
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Limitation period",
+        "right": "Time limit to file a complaint"
+      },
+      {
+        "left": "Sufficient cause",
+        "right": "Valid reason for late filing"
+      },
+      {
+        "left": "District Commission",
+        "right": "Consumer court at district level"
+      },
+      {
+        "left": "Records reasons",
+        "right": "Must explain why delay is accepted"
+      }
+    ],
+    "correct_pairs": {
+      "Limitation period": "Time limit to file a complaint",
+      "Sufficient cause": "Valid reason for late filing",
+      "District Commission": "Consumer court at district level",
+      "Records reasons": "Must explain why delay is accepted"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "69",
+      "section_title": "Limitation period.",
+      "chunk_id": 57
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Call for periodical returns",
+        "right": "Asking for regular reports on case status"
+      },
+      {
+        "left": "Investigate allegations against members",
+        "right": "Check complaints about commission leaders"
+      },
+      {
+        "left": "Issue instructions on uniform procedure",
+        "right": "Give rules for fair hearing process"
+      },
+      {
+        "left": "Monitoring cell",
+        "right": "Team to check State Commissions' work"
+      }
+    ],
+    "correct_pairs": {
+      "Call for periodical returns": "Asking for regular reports on case status",
+      "Investigate allegations against members": "Check complaints about commission leaders",
+      "Issue instructions on uniform procedure": "Give rules for fair hearing process",
+      "Monitoring cell": "Team to check State Commissions' work"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "70",
+      "section_title": "Administrative control.",
+      "chunk_id": 58
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Section 72",
+        "right": "Penalty for not following an order"
+      },
+      {
+        "left": "Judicial Magistrate of first class",
+        "right": "Can try offences quickly in a simple way"
+      },
+      {
+        "left": "District Commission",
+        "right": "Can act like a court for minor crimes"
+      },
+      {
+        "left": "Summarily tried",
+        "right": "Tried without a long court process"
+      }
+    ],
+    "correct_pairs": {
+      "Section 72": "Penalty for not following an order",
+      "Judicial Magistrate of first class": "Can try offences quickly in a simple way",
+      "District Commission": "Can act like a court for minor crimes",
+      "Summarily tried": "Tried without a long court process"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER IV",
+      "chapter_title": "CONSUMER DISPUTER REDRESSAL COMMISSION",
+      "section": "72",
+      "section_title": "Penalty for non-compliance of order.",
+      "chunk_id": 60
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Appeal against order by District Commission",
+        "right": "Appeal to State Commission"
+      },
+      {
+        "left": "Appeal against order by State Commission",
+        "right": "Appeal to National Commission"
+      },
+      {
+        "left": "Appeal against order by National Commission",
+        "right": "Appeal to Supreme Court"
+      },
+      {
+        "left": "Time limit to file appeal",
+        "right": "30 days from order date"
+      }
+    ],
+    "correct_pairs": {
+      "Appeal against order by District Commission": "Appeal to State Commission",
+      "Appeal against order by State Commission": "Appeal to National Commission",
+      "Appeal against order by National Commission": "Appeal to Supreme Court",
+      "Time limit to file appeal": "30 days from order date"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MEDIATION",
+      "section": "73",
+      "section_title": "Appeal against order passed under section 72.",
+      "chunk_id": 61
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Establishment of consumer mediation cell",
+        "right": "Done by Central Government via notification"
+      },
+      {
+        "left": "Consumer mediation cell attached to",
+        "right": "National Commission and regional Benches"
+      },
+      {
+        "left": "Empanelled mediators",
+        "right": "Listed in consumer mediation cell"
+      },
+      {
+        "left": "Quarterly report submitted by",
+        "right": "Consumer mediation cell"
+      }
+    ],
+    "correct_pairs": {
+      "Establishment of consumer mediation cell": "Done by Central Government via notification",
+      "Consumer mediation cell attached to": "National Commission and regional Benches",
+      "Empanelled mediators": "Listed in consumer mediation cell",
+      "Quarterly report submitted by": "Consumer mediation cell"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MEDIATION",
+      "section": "74",
+      "section_title": "Establishment of consumer mediation cell.",
+      "chunk_id": 62
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Qualifications for mediators",
+        "right": "Specified by regulations"
+      },
+      {
+        "left": "Mediator training",
+        "right": "Manner as described in regulations"
+      },
+      {
+        "left": "Mediator removal",
+        "right": "Can happen due to specified grounds"
+      },
+      {
+        "left": "Panel validity period",
+        "right": "Five years"
+      }
+    ],
+    "correct_pairs": {
+      "Qualifications for mediators": "Specified by regulations",
+      "Mediator training": "Manner as described in regulations",
+      "Mediator removal": "Can happen due to specified grounds",
+      "Panel validity period": "Five years"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MEDIATION",
+      "section": "75",
+      "section_title": "Empanelment of mediators.",
+      "chunk_id": 63
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Nomination from panel",
+        "right": "Choosing a mediator from a pre-approved list"
+      },
+      {
+        "left": "Mediator's role",
+        "right": "Helping parties resolve disputes without taking sides"
+      },
+      {
+        "left": "Panel selection",
+        "right": "A group of trained mediators available for assignments"
+      },
+      {
+        "left": "Dispute resolution",
+        "right": "Solving conflicts through discussion, not court"
+      }
+    ],
+    "correct_pairs": {
+      "Nomination from panel": "Choosing a mediator from a pre-approved list",
+      "Mediator's role": "Helping parties resolve disputes without taking sides",
+      "Panel selection": "A group of trained mediators available for assignments",
+      "Dispute resolution": "Solving conflicts through discussion, not court"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MEDIATION",
+      "section": "76",
+      "section_title": "Nomination of mediators from panel.",
+      "chunk_id": 64
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Personal interest in the outcome",
+        "right": "Mediator has a direct stake in the result"
+      },
+      {
+        "left": "Doubts about independence",
+        "right": "Situations that could make people question fairness"
+      },
+      {
+        "left": "Regulated facts",
+        "right": "Additional details the rules say must be shared"
+      },
+      {
+        "left": "Financial gain from settlement",
+        "right": "Mediator could make money if the case is resolved"
+      }
+    ],
+    "correct_pairs": {
+      "Personal interest in the outcome": "Mediator has a direct stake in the result",
+      "Doubts about independence": "Situations that could make people question fairness",
+      "Regulated facts": "Additional details the rules say must be shared",
+      "Financial gain from settlement": "Mediator could make money if the case is resolved"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MEDIATION",
+      "section": "77",
+      "section_title": "Duty of mediator to disclose certain facts.",
+      "chunk_id": 65
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Mediator replaced",
+        "right": "When a new mediator is appointed"
+      },
+      {
+        "left": "Information from others",
+        "right": "Reason for mediator replacement"
+      },
+      {
+        "left": "Hearing the mediator",
+        "right": "Part of the replacement process"
+      },
+      {
+        "left": "Section 78",
+        "right": "Rule about changing mediators"
+      }
+    ],
+    "correct_pairs": {
+      "Mediator replaced": "When a new mediator is appointed",
+      "Information from others": "Reason for mediator replacement",
+      "Hearing the mediator": "Part of the replacement process",
+      "Section 78": "Rule about changing mediators"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MEDIATION",
+      "section": "78",
+      "section_title": "Replacement of mediator in certain cases.",
+      "chunk_id": 66
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Mediator's role",
+        "right": "Help both sides agree fairly"
+      },
+      {
+        "left": "Time limit for mediation",
+        "right": "Set by regulations"
+      },
+      {
+        "left": "Factors mediator considers",
+        "right": "Trade practices and dispute history"
+      },
+      {
+        "left": "Principle guiding mediation",
+        "right": "Natural justice"
+      }
+    ],
+    "correct_pairs": {
+      "Mediator's role": "Help both sides agree fairly",
+      "Time limit for mediation": "Set by regulations",
+      "Factors mediator considers": "Trade practices and dispute history",
+      "Principle guiding mediation": "Natural justice"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MEDIATION",
+      "section": "79",
+      "section_title": "Procedure for mediation.",
+      "chunk_id": 67
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Mediator prepares settlement report",
+        "right": "When parties agree on a settlement"
+      },
+      {
+        "left": "No agreement reached during mediation",
+        "right": "Mediator submits a negative report"
+      },
+      {
+        "left": "Forward signed agreement to Commission",
+        "right": "After settlement is confirmed"
+      },
+      {
+        "left": "Mediator's report details lack of settlement",
+        "right": "When settlement is impossible"
+      }
+    ],
+    "correct_pairs": {
+      "Mediator prepares settlement report": "When parties agree on a settlement",
+      "No agreement reached during mediation": "Mediator submits a negative report",
+      "Forward signed agreement to Commission": "After settlement is confirmed",
+      "Mediator's report details lack of settlement": "When settlement is impossible"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER V",
+      "chapter_title": "MEDIATION",
+      "section": "80",
+      "section_title": "Settlement through mediation.",
+      "chunk_id": 68
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Partial settlement in dispute",
+        "right": "Record settled issues and keep hearing remaining"
+      },
+      {
+        "left": "Mediation fails in dispute",
+        "right": "Continue to hear all issues involved"
+      },
+      {
+        "left": "Full settlement in dispute",
+        "right": "Pass order based on agreement"
+      },
+      {
+        "left": "Consumer dispute not settled",
+        "right": "District Commission must continue hearing all issues"
+      }
+    ],
+    "correct_pairs": {
+      "Partial settlement in dispute": "Record settled issues and keep hearing remaining",
+      "Mediation fails in dispute": "Continue to hear all issues involved",
+      "Full settlement in dispute": "Pass order based on agreement",
+      "Consumer dispute not settled": "District Commission must continue hearing all issues"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER VI",
+      "chapter_title": "PRODUCT LIABILITY",
+      "section": "81",
+      "section_title": "Recording settlement and passing of order.",
+      "chunk_id": 69
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Manufacturing defect",
+        "right": "Product has an error during making"
+      },
+      {
+        "left": "Design defect",
+        "right": "Product's plan is flawed from the start"
+      },
+      {
+        "left": "Deviation from specifications",
+        "right": "Product made differently than planned"
+      },
+      {
+        "left": "Lacks proper warnings",
+        "right": "Product has no safety instructions or alerts"
+      }
+    ],
+    "correct_pairs": {
+      "Manufacturing defect": "Product has an error during making",
+      "Design defect": "Product's plan is flawed from the start",
+      "Deviation from specifications": "Product made differently than planned",
+      "Lacks proper warnings": "Product has no safety instructions or alerts"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER VI",
+      "chapter_title": "PRODUCT LIABILITY",
+      "section": "84",
+      "section_title": "Liability of product manufacturer.",
+      "chunk_id": 70
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Faulty service",
+        "right": "Service not up to standard"
+      },
+      {
+        "left": "Missed instructions",
+        "right": "Did not warn about risks"
+      },
+      {
+        "left": "Hidden information",
+        "right": "Withheld key details"
+      },
+      {
+        "left": "Broken promise",
+        "right": "Did not meet contract terms"
+      }
+    ],
+    "correct_pairs": {
+      "Faulty service": "Service not up to standard",
+      "Missed instructions": "Did not warn about risks",
+      "Hidden information": "Withheld key details",
+      "Broken promise": "Did not meet contract terms"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER VI",
+      "chapter_title": "PRODUCT LIABILITY",
+      "section": "85",
+      "section_title": "Liability of product service provider.",
+      "chunk_id": 71
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Controls product design or manufacturing",
+        "right": "Exercised substantial control over the product"
+      },
+      {
+        "left": "Changed the product and caused harm",
+        "right": "Altered or modified the product"
+      },
+      {
+        "left": "Seller gave extra promises about the product",
+        "right": "Made an express warranty independent of the manufacturer"
+      },
+      {
+        "left": "Manufacturer is unknown or untraceable",
+        "right": "Identity of product manufacturer is not known"
+      }
+    ],
+    "correct_pairs": {
+      "Controls product design or manufacturing": "Exercised substantial control over the product",
+      "Changed the product and caused harm": "Altered or modified the product",
+      "Seller gave extra promises about the product": "Made an express warranty independent of the manufacturer",
+      "Manufacturer is unknown or untraceable": "Identity of product manufacturer is not known",
+      "Sold a defective product without proper instructions": "Failed to pass on warnings or instructions from the manufacturer"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER VI",
+      "chapter_title": "PRODUCT LIABILITY",
+      "section": "86",
+      "section_title": "Liability of product sellers.",
+      "chunk_id": 72
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Manufacturer warned employer at workplace",
+        "right": "No liability if product bought for work use"
+      },
+      {
+        "left": "Warnings given to component buyer",
+        "right": "No liability if harm caused by end product"
+      },
+      {
+        "left": "Product needs expert use",
+        "right": "No liability if warnings given to experts"
+      },
+      {
+        "left": "User was drunk or on unprescribed drugs",
+        "right": "Manufacturer not liable for harm"
+      }
+    ],
+    "correct_pairs": {
+      "Manufacturer warned employer at workplace": "No liability if product bought for work use",
+      "Warnings given to component buyer": "No liability if harm caused by end product",
+      "Product needs expert use": "No liability if warnings given to experts",
+      "User was drunk or on unprescribed drugs": "Manufacturer not liable for harm"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER VII",
+      "chapter_title": "OFFENCES AND PENALTIES",
+      "section": "87",
+      "section_title": "Exceptions to product liability action.",
+      "chunk_id": 73
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Fails to follow the Central Authority's order",
+        "right": "Will face a fine"
+      },
+      {
+        "left": "Ignores a legal direction from the Central Authority",
+        "right": "May receive a warning first"
+      },
+      {
+        "left": "Does not pay the penalty on time",
+        "right": "Could owe extra charges"
+      },
+      {
+        "left": "Breaks the rule multiple times",
+        "right": "Risks higher penalties"
+      }
+    ],
+    "correct_pairs": {
+      "Fails to follow the Central Authority's order": "Will face a fine",
+      "Ignores a legal direction from the Central Authority": "May receive a warning first",
+      "Does not pay the penalty on time": "Could owe extra charges",
+      "Breaks the rule multiple times": "Risks higher penalties"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER VII",
+      "chapter_title": "OFFENCES AND PENALTIES",
+      "section": "88",
+      "section_title": "Penalty for non-compliance of direction of Central Authority.",
+      "chunk_id": 74
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "False advertisement",
+        "right": "Ad that tricks people on purpose"
+      },
+      {
+        "left": "Misleading advertisement",
+        "right": "Ad that confuses people without lying"
+      },
+      {
+        "left": "Fine for false ads",
+        "right": "$200,000 penalty"
+      },
+      {
+        "left": "Jail time for false ads",
+        "right": "Up to 2 years in prison"
+      }
+    ],
+    "correct_pairs": {
+      "False advertisement": "Ad that tricks people on purpose",
+      "Misleading advertisement": "Ad that confuses people without lying",
+      "Fine for false ads": "$200,000 penalty",
+      "Jail time for false ads": "Up to 2 years in prison"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER VII",
+      "chapter_title": "OFFENCES AND PENALTIES",
+      "section": "89",
+      "section_title": "Punishment for false or misleading advertisement.",
+      "chunk_id": 75
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Manufacturing unsafe product (no injury)",
+        "right": "Up to 6 months jail + \u20b91 lakh fine"
+      },
+      {
+        "left": "Manufacturing unsafe product (minor injury)",
+        "right": "Up to 1 year jail + \u20b93 lakh fine"
+      },
+      {
+        "left": "Manufacturing unsafe product (serious injury)",
+        "right": "Up to 7 years jail + \u20b95 lakh fine"
+      },
+      {
+        "left": "Manufacturing unsafe product (death)",
+        "right": "Minimum 7 years jail + \u20b910 lakh fine"
+      }
+    ],
+    "correct_pairs": {
+      "Manufacturing unsafe product (no injury)": "Up to 6 months jail + \u20b91 lakh fine",
+      "Manufacturing unsafe product (minor injury)": "Up to 1 year jail + \u20b93 lakh fine",
+      "Manufacturing unsafe product (serious injury)": "Up to 7 years jail + \u20b95 lakh fine",
+      "Manufacturing unsafe product (death)": "Minimum 7 years jail + \u20b910 lakh fine"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER VII",
+      "chapter_title": "OFFENCES AND PENALTIES",
+      "section": "90",
+      "section_title": "Punishment for manufacturing for sale or storing, selling or distributing or importing products containing adulterant.",
+      "chunk_id": 76
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Small injury (not serious)",
+        "right": "Up to 1 year in jail + \u20b93 lakh fine"
+      },
+      {
+        "left": "Serious injury (grievous hurt)",
+        "right": "Up to 7 years in jail + \u20b95 lakh fine"
+      },
+      {
+        "left": "Death of consumer",
+        "right": "Minimum 7 years in jail + \u20b910 lakh fine"
+      },
+      {
+        "left": "First conviction",
+        "right": "License suspended for up to 2 years"
+      }
+    ],
+    "correct_pairs": {
+      "Small injury (not serious)": "Up to 1 year in jail + \u20b93 lakh fine",
+      "Serious injury (grievous hurt)": "Up to 7 years in jail + \u20b95 lakh fine",
+      "Death of consumer": "Minimum 7 years in jail + \u20b910 lakh fine",
+      "First conviction": "License suspended for up to 2 years",
+      "Second conviction": "License cancelled"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER VII",
+      "chapter_title": "OFFENCES AND PENALTIES",
+      "section": "91",
+      "section_title": "Punishment for manufacturing for sale or for storing or selling or distributing or importing spurious goods.",
+      "chunk_id": 77
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Vexatious search",
+        "right": "Unnecessary or annoying inspection"
+      },
+      {
+        "left": "Searches premises",
+        "right": "Checks someone's property"
+      },
+      {
+        "left": "Seizes documents",
+        "right": "Takes away papers or files"
+      },
+      {
+        "left": "Ten thousand rupees fine",
+        "right": "Financial penalty for breaking the rule"
+      }
+    ],
+    "correct_pairs": {
+      "Vexatious search": "Unnecessary or annoying inspection",
+      "Searches premises": "Checks someone's property",
+      "Seizes documents": "Takes away papers or files",
+      "Ten thousand rupees fine": "Financial penalty for breaking the rule"
+    },
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "93",
+      "section_title": "Vexatious search.",
+      "chunk_id": 78
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Misleading advertisement",
+        "right": "Ad that tricks customers into buying"
+      },
+      {
+        "left": "Direct selling",
+        "right": "Selling products door-to-door or online without a store"
+      },
+      {
+        "left": "Unfair trade practice",
+        "right": "Any business trick that harms customers or competitors"
+      },
+      {
+        "left": "E-commerce",
+        "right": "Selling goods or services on the internet"
+      }
+    ],
+    "correct_pairs": {
+      "Misleading advertisement": "Ad that tricks customers into buying",
+      "Direct selling": "Selling products door-to-door or online without a store",
+      "Unfair trade practice": "Any business trick that harms customers or competitors",
+      "E-commerce": "Selling goods or services on the internet"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "94",
+      "section_title": "Measures to prevent unfair trade practices in e-commerce, direct selling, etc.",
+      "chunk_id": 79
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "President",
+        "right": "Public servant"
+      },
+      {
+        "left": "Commissioner",
+        "right": "Public servant"
+      },
+      {
+        "left": "Chief Commissioner",
+        "right": "Public servant"
+      },
+      {
+        "left": "Certain officers",
+        "right": "Public servant"
+      }
+    ],
+    "correct_pairs": {
+      "President": "Public servant",
+      "Commissioner": "Public servant",
+      "Chief Commissioner": "Public servant",
+      "Certain officers": "Public servant"
+    },
+    "difficulty": "easy",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "95",
+      "section_title": "Presidents, members, Chief Commissioner, Commissioner and certain officers to be public servants.",
+      "chunk_id": 80
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Compounding an offence",
+        "right": "Paying money to avoid a court case"
+      },
+      {
+        "left": "Leave of the court required",
+        "right": "Court permission needed before settling"
+      },
+      {
+        "left": "Second offence within 3 years",
+        "right": "Cannot be compounded again"
+      },
+      {
+        "left": "Accepting compounding sum",
+        "right": "Same as being found not guilty"
+      }
+    ],
+    "correct_pairs": {
+      "Compounding an offence": "Paying money to avoid a court case",
+      "Leave of the court required": "Court permission needed before settling",
+      "Second offence within 3 years": "Cannot be compounded again",
+      "Accepting compounding sum": "Same as being found not guilty"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "96",
+      "section_title": "Compounding of offences.",
+      "chunk_id": 81
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Action taken in good faith",
+        "right": "Protected even if it causes harm"
+      },
+      {
+        "left": "Malicious intent",
+        "right": "Not protected by this section"
+      },
+      {
+        "left": "Reasonable mistake",
+        "right": "Still protected if done in good faith"
+      },
+      {
+        "left": "Willful negligence",
+        "right": "Not covered by this legal shield"
+      }
+    ],
+    "correct_pairs": {
+      "Action taken in good faith": "Protected even if it causes harm",
+      "Malicious intent": "Not protected by this section",
+      "Reasonable mistake": "Still protected if done in good faith",
+      "Willful negligence": "Not covered by this legal shield"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "98",
+      "section_title": "Protection of action taken in good faith.",
+      "chunk_id": 82
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Central Government's final call",
+        "right": "Whether a question is policy or not"
+      },
+      {
+        "left": "Given a chance to speak",
+        "right": "Central Authority's chance to express views"
+      },
+      {
+        "left": "Direction under Section 99",
+        "right": "Government order on policy matters"
+      },
+      {
+        "left": "As far as practicable",
+        "right": "When possible, not always"
+      }
+    ],
+    "correct_pairs": {
+      "Central Government's final call": "Whether a question is policy or not",
+      "Given a chance to speak": "Central Authority's chance to express views",
+      "Direction under Section 99": "Government order on policy matters",
+      "As far as practicable": "When possible, not always"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "99",
+      "section_title": "Power to give directions by Central Government.",
+      "chunk_id": 83
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Act not in derogation of any other law",
+        "right": "Does not cancel out other existing laws"
+      },
+      {
+        "left": "Section 100",
+        "right": "A specific rule in a law book"
+      },
+      {
+        "left": "Law book",
+        "right": "A collection of written legal rules"
+      },
+      {
+        "left": "Cancel out",
+        "right": "Make another rule stop working"
+      }
+    ],
+    "correct_pairs": {
+      "Act not in derogation of any other law": "Does not cancel out other existing laws",
+      "Section 100": "A specific rule in a law book",
+      "Law book": "A collection of written legal rules",
+      "Cancel out": "Make another rule stop working"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "100",
+      "section_title": "Act not in derogation of any other law.",
+      "chunk_id": 84
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Rules about who can join the Central Council",
+        "right": "Number of other official or non-official members of the Central Council"
+      },
+      {
+        "left": "Rules for handling seized items that spoil quickly",
+        "right": "Officer and manner of disposing of articles which are subject to speedy or natural decay"
+      },
+      {
+        "left": "Rules for filing complaints online",
+        "right": "Manner of electronically filing complaint"
+      },
+      {
+        "left": "Rules for paying fees when filing a complaint",
+        "right": "Fee, electronic form and the manner of payment of fee for filing complaint"
+      }
+    ],
+    "correct_pairs": {
+      "Rules about who can join the Central Council": "Number of other official or non-official members of the Central Council",
+      "Rules for handling seized items that spoil quickly": "Officer and manner of disposing of articles which are subject to speedy or natural decay",
+      "Rules for filing complaints online": "Manner of electronically filing complaint",
+      "Rules for paying fees when filing a complaint": "Fee, electronic form and the manner of payment of fee for filing complaint"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "101",
+      "section_title": "Power of Central Government to make rules.",
+      "chunk_id": 85
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Model rules framed by Central Government",
+        "right": "Apply to the State until State Government makes its own rules"
+      },
+      {
+        "left": "State Government making rules",
+        "right": "Should follow model rules if they exist"
+      },
+      {
+        "left": "Public utility entities classification",
+        "right": "Determined under clause (19) of section 2"
+      },
+      {
+        "left": "Exempted games of chance or skill",
+        "right": "Decided under item (b) of sub-clause (iii) of clause (47) of section 2"
+      }
+    ],
+    "correct_pairs": {
+      "Model rules framed by Central Government": "Apply to the State until State Government makes its own rules",
+      "State Government making rules": "Should follow model rules if they exist",
+      "Public utility entities classification": "Determined under clause (19) of section 2",
+      "Exempted games of chance or skill": "Decided under item (b) of sub-clause (iii) of clause (47) of section 2"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "102",
+      "section_title": "Power of State Government to make rules.",
+      "chunk_id": 86
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Costs for adjournment by District Commission",
+        "right": "Fees charged when a hearing is delayed"
+      },
+      {
+        "left": "Quarterly report by mediation cell",
+        "right": "How often and where reports must be sent"
+      },
+      {
+        "left": "Mediator empanelment procedure",
+        "right": "Rules for how mediators are selected and trained"
+      },
+      {
+        "left": "Mediation time limits",
+        "right": "Deadline for completing mediation sessions"
+      }
+    ],
+    "correct_pairs": {
+      "Costs for adjournment by District Commission": "Fees charged when a hearing is delayed",
+      "Quarterly report by mediation cell": "How often and where reports must be sent",
+      "Mediator empanelment procedure": "Rules for how mediators are selected and trained",
+      "Mediation time limits": "Deadline for completing mediation sessions"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "103",
+      "section_title": "Power of National Commission to make regulations.",
+      "chunk_id": 87
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Procedure for engaging experts",
+        "right": "Rules for hiring specialists"
+      },
+      {
+        "left": "Allocation of business",
+        "right": "Distribution of work tasks"
+      },
+      {
+        "left": "Form of inquiries",
+        "right": "Format of reports submitted"
+      },
+      {
+        "left": "Time for submissions",
+        "right": "Deadline for document delivery"
+      }
+    ],
+    "correct_pairs": {
+      "Procedure for engaging experts": "Rules for hiring specialists",
+      "Allocation of business": "Distribution of work tasks",
+      "Form of inquiries": "Format of reports submitted",
+      "Time for submissions": "Deadline for document delivery"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "104",
+      "section_title": "Power of Central Authority to make regulations.",
+      "chunk_id": 88
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Annulment",
+        "right": "Cancellation with no effect on past actions"
+      },
+      {
+        "left": "State Legislature",
+        "right": "Group that must review state rules"
+      },
+      {
+        "left": "Rules and regulations",
+        "right": "Guidelines issued under an act"
+      },
+      {
+        "left": "Without prejudice",
+        "right": "No harm to prior valid actions"
+      }
+    ],
+    "correct_pairs": {
+      "Annulment": "Cancellation with no effect on past actions",
+      "State Legislature": "Group that must review state rules",
+      "Rules and regulations": "Guidelines issued under an act",
+      "Without prejudice": "No harm to prior valid actions"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "105",
+      "section_title": "Rules and regulations to be laid before each House of Parliament.",
+      "chunk_id": 89
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Section 106",
+        "right": "Rule about fixing problems in a law"
+      },
+      {
+        "left": "Expiry of two years",
+        "right": "Deadline for taking action"
+      },
+      {
+        "left": "Commencement of Act",
+        "right": "When a law starts"
+      },
+      {
+        "left": "Order to remove difficulties",
+        "right": "Official decision to solve problems"
+      }
+    ],
+    "correct_pairs": {
+      "Section 106": "Rule about fixing problems in a law",
+      "Expiry of two years": "Deadline for taking action",
+      "Commencement of Act": "When a law starts",
+      "Order to remove difficulties": "Official decision to solve problems"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "106",
+      "section_title": "Power to Remove Difficulties.",
+      "chunk_id": 90
+    }
+  },
+  {
+    "type": "match_pair",
+    "pairs": [
+      {
+        "left": "Repealed Act actions",
+        "right": "Still valid under new Act"
+      },
+      {
+        "left": "Section 6 of General Clauses Act",
+        "right": "Applies to repeals by default"
+      },
+      {
+        "left": "Notwithstanding repeal",
+        "right": "Old actions can continue"
+      },
+      {
+        "left": "Purported to be done",
+        "right": "Seemed valid but may not be"
+      }
+    ],
+    "correct_pairs": {
+      "Repealed Act actions": "Still valid under new Act",
+      "Section 6 of General Clauses Act": "Applies to repeals by default",
+      "Notwithstanding repeal": "Old actions can continue",
+      "Purported to be done": "Seemed valid but may not be"
+    },
+    "difficulty": "medium",
+    "used": false,
+    "metadata": {
+      "source": "consumer_protection_act_2019.md",
+      "document_name": "consumer_protection_act_2019.md",
+      "type": "legal_document",
+      "chapter": "CHAPTER VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section": "107",
+      "section_title": "Repeal and savings.",
+      "chunk_id": 91
+    }
+  }
+]

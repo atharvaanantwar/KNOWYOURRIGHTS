@@ -43,7 +43,7 @@ const Progress = () => {
   
   // Calculate XP by domain
   const xpByDomain = xpHistory.reduce((acc, entry) => {
-    acc[entry.domain] = (acc[entry.domain] || 0) + entry.totalEarned;
+    acc[entry.domain] = (acc[entry.domain] || 0) + entry.total_earned;
     return acc;
   }, {});
   
@@ -290,10 +290,10 @@ const Progress = () => {
                       </div>
                     </div>
                     <div className="text-right">
-                      <p className="text-xl font-bold text-amber-600">+{entry.totalEarned} XP</p>
-                      {entry.streakBonus > 0 && (
+                      <p className="text-xl font-bold text-amber-600">+{entry.total_earned} XP</p>
+                      {entry.streak_bonus > 0 && (
                         <p className="text-sm text-orange-500">
-                          Includes +{entry.streakBonus} streak bonus
+                          Includes +{entry.streak_bonus} streak bonus
                         </p>
                       )}
                     </div>
